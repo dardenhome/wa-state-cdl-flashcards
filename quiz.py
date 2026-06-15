@@ -169,15 +169,15 @@ def present_question(card, index, total):
 
 
 def grade(ans, correct_pos, n_choices):
-    """Return (is_correct, is_skip, is_quit)."""
+    """Return (is_correct, is_skip, is_quit, is_valid)."""
     ans = ans.strip().lower()
     if ans == "q":
-        return False, False, True
+        return False, False, True, True
     if ans == "s" or ans == "":
-        return False, True, False
+        return False, True, False, True
     if ans.isdigit() and 1 <= int(ans) <= n_choices:
-        return (int(ans) - 1) == correct_pos, False, False
-    return False, False, False  # unrecognized -> incorrect
+        return (int(ans) - 1) == correct_pos, False, False, True
+    return False, False, False, False  # unrecognized -> re-prompt
 
 
 # ---------------------------------------------------------------- quiz loop
@@ -193,8 +193,12 @@ def run_quiz(conn, cards, title="WA CDL Quiz"):
 
     for i, card in enumerate(cards, 1):
         shuffled, correct_pos = present_question(card, i, len(cards))
-        is_correct, is_skip, is_quit = grade(
-            ask("\nYour answer: "), correct_pos, len(shuffled))
+        while True:
+            is_correct, is_skip, is_quit, is_valid = grade(
+                ask("\nYour answer: "), correct_pos, len(shuffled))
+            if is_valid:
+                break
+            print(f"{C.YELLOW}Please enter 1-{len(shuffled)}, [s]kip, or [q]uit.{C.END}")
 
         if is_quit:
             print(f"\n{C.YELLOW}Quitting — progress saved.{C.END}")
@@ -243,8 +247,12 @@ def run_exam(conn, cards):
 
     for i, card in enumerate(cards, 1):
         shuffled, correct_pos = present_question(card, i, len(cards))
-        raw = ask("\nYour answer: ")
-        is_correct, is_skip, is_quit = grade(raw, correct_pos, len(shuffled))
+        while True:
+            raw = ask("\nYour answer: ")
+            is_correct, is_skip, is_quit, is_valid = grade(raw, correct_pos, len(shuffled))
+            if is_valid:
+                break
+            print(f"{C.YELLOW}Please enter 1-{len(shuffled)}, [s]kip, or [q]uit.{C.END}")
         if is_quit:
             print(f"\n{C.YELLOW}Exam ended early.{C.END}")
             break
