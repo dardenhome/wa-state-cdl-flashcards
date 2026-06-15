@@ -1,0 +1,142 @@
+[
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "CDL/Endorsement Requirement",
+    "question": "A driver must have a CDL with passenger endorsement to drive a vehicle designed to seat how many people?",
+    "choices": [
+      "More than 8, including the driver",
+      "10 or more, including the driver",
+      "16 or more persons, including the driver",
+      "More than 20, not counting the driver"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states bus drivers must have a CDL if they drive a vehicle designed to seat 16 or more persons, including the driver."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Emergency Equipment",
+    "question": "Which emergency reflectors satisfy the legal requirement for a bus?",
+    "choices": [
+      "3 reflective triangles, OR at least 6 fusees, OR 3 liquid burning flares",
+      "2 reflective triangles and 1 flare",
+      "1 triangle and 3 fusees",
+      "At least 6 reflective triangles"
+    ],
+    "answer_index": 0,
+    "explanation": "The bus must have 3 reflective triangles, at least 6 fusees, or 3 liquid burning flares, plus a fire extinguisher."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Front Tires",
+    "question": "What is the rule about tires on the front wheels of a bus?",
+    "choices": [
+      "They may be recapped if recently inspected",
+      "They must not have recapped or re-grooved tires",
+      "They must be re-grooved before each trip",
+      "Only re-grooved tires are allowed up front"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide states front wheels must not have recapped or re-grooved tires."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Forbidden Hazardous Materials",
+    "question": "What is the maximum total weight of allowed hazardous materials a bus may carry?",
+    "choices": [
+      "100 pounds total",
+      "250 pounds total",
+      "500 pounds total, with no more than 100 pounds of any one class",
+      "1,000 pounds total, with no more than 500 pounds of any one class"
+    ],
+    "answer_index": 2,
+    "explanation": "Buses must never carry more than 500 pounds total of allowed hazardous materials, and no more than 100 pounds of any one class."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Standee Line",
+    "question": "What does the standee line indicate on a bus?",
+    "choices": [
+      "Where riders should line up to board",
+      "The point forward of which no rider may stand",
+      "The boundary of the wheelchair area",
+      "Where the driver must stop at intersections"
+    ],
+    "answer_index": 1,
+    "explanation": "No rider may stand forward of the rear of the driver's seat, and the standee line shows where standing riders cannot pass."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Railroad Crossings",
+    "question": "How far before a railroad crossing must you stop your bus?",
+    "choices": [
+      "Between 5 and 15 feet",
+      "Between 15 and 50 feet",
+      "At least 50 feet, but no more than 100 feet",
+      "Exactly 25 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide directs drivers to stop the bus between 15 and 50 feet before railroad crossings."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Drawbridges",
+    "question": "When a drawbridge has no signal light or traffic control attendant, how far before the draw must you stop?",
+    "choices": [
+      "At least 15 feet",
+      "Between 15 and 50 feet",
+      "At least 50 feet before the draw",
+      "At least 100 feet before the draw"
+    ],
+    "answer_index": 2,
+    "explanation": "You must stop at least 50 feet before the draw of the bridge and verify the draw is completely closed before crossing."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Speed on Curves",
+    "question": "How can you tell you are driving too fast on a banked curve?",
+    "choices": [
+      "The bus leans toward the inside of the curve",
+      "The bus leans toward the outside of the curve",
+      "The steering wheel vibrates",
+      "The engine RPMs drop sharply"
+    ],
+    "answer_index": 1,
+    "explanation": "If your bus leans toward the outside on a banked curve, you are driving too fast."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Prohibited Practices",
+    "question": "What does the guide say about refueling a bus with riders on board?",
+    "choices": [
+      "It is permitted anytime as long as the engine is off",
+      "Avoid it unless absolutely necessary, and never refuel in a closed building with riders aboard",
+      "It is allowed only inside a closed building for safety",
+      "It is required to keep riders aboard during refueling"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide says to avoid fueling with riders on board unless absolutely necessary and never refuel in a closed building with riders aboard."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Brake-door Interlocks",
+    "question": "How does the brake-door interlock system on urban mass transit coaches function?",
+    "choices": [
+      "It locks all doors when the parking brake is set",
+      "It applies the brakes and holds the throttle at idle when the rear door is open",
+      "It replaces the need to use the parking brake",
+      "It opens the rear door automatically when brakes are applied"
+    ],
+    "answer_index": 1,
+    "explanation": "The interlock applies the brakes and holds the throttle in idle when the rear door is open, and it must not be used in place of the parking brake."
+  }
+]

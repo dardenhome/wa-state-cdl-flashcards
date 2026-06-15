@@ -1,0 +1,83 @@
+[
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Inspecting Cargo",
+    "question": "After beginning a trip, within how many miles must you re-inspect your cargo and securing devices?",
+    "choices": ["The first 25 miles", "The first 50 miles", "The first 100 miles", "The first 150 miles"],
+    "answer_index": 1,
+    "explanation": "You must inspect the cargo and its securing devices again within the first 50 miles after beginning a trip and make any needed adjustments."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Inspecting Cargo",
+    "question": "During a trip, after how much driving must you re-check your cargo (in addition to after every break)?",
+    "choices": ["After 2 hours or 100 miles", "After 3 hours or 150 miles", "After 4 hours or 200 miles", "After 5 hours or 250 miles"],
+    "answer_index": 1,
+    "explanation": "You need to inspect again after you have driven for 3 hours or 150 miles, and after every break you take during driving."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Weight Definitions",
+    "question": "What does Gross Vehicle Weight Rating (GVWR) specify?",
+    "choices": ["The empty weight of a single vehicle", "The value specified by the manufacturer as the loaded weight of a single vehicle", "The combined weight of the power unit and all towed units", "The maximum weight a coupling device can carry"],
+    "answer_index": 1,
+    "explanation": "GVWR is the value specified by the manufacturer as the loaded weight of a single vehicle."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Center of Gravity",
+    "question": "To keep the center of gravity low, how should you arrange cargo?",
+    "choices": ["Put the heaviest parts on top of the lightest parts", "Put the heaviest parts under the lightest parts", "Place all heavy cargo over the steering axle", "Spread heavy cargo evenly across the top layer"],
+    "answer_index": 1,
+    "explanation": "It is important to distribute cargo as low as possible by putting the heaviest parts of the cargo under the lightest parts."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Weight Balance",
+    "question": "What can result from too little weight on the driving axles?",
+    "choices": ["Hard steering", "Poor traction with drive wheels that spin easily", "Damage to the steering axle and tires", "A lower center of gravity"],
+    "answer_index": 1,
+    "explanation": "Too little weight on the driving axles can cause poor traction, and the drive wheels may spin easily, especially in bad weather."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Tie-down",
+    "question": "Federal regulations require the aggregate working load limit of a securement system to be at least what fraction of the weight of the article(s) secured?",
+    "choices": ["One-quarter times the weight", "One-half times the weight", "One times the weight", "Two times the weight"],
+    "answer_index": 1,
+    "explanation": "The aggregate working load limit of any securement system must be at least one-half times the weight of the article or group of articles."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Tie-down",
+    "question": "How many tie-downs are required per length of cargo, and what is the absolute minimum?",
+    "choices": ["One per 5 feet, minimum of one", "One per 10 feet, minimum of two", "One per 15 feet, minimum of two", "Two per 10 feet, minimum of four"],
+    "answer_index": 1,
+    "explanation": "Cargo should have at least one tie-down for each ten feet of cargo, and no matter how small, it should have at least two tie-downs."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Header Boards",
+    "question": "What is the purpose of front-end header boards (\"headache racks\")?",
+    "choices": ["To protect cargo from weather", "To protect you from your cargo in a crash or emergency stop", "To prevent the load from shifting sideways", "To increase the vehicle's load capacity"],
+    "answer_index": 1,
+    "explanation": "Front-end header boards protect you from your cargo in case of a crash or emergency stop by blocking its forward movement."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Sealed Loads",
+    "question": "Even though you cannot inspect a sealed load, what should you check?",
+    "choices": ["The condition of each item inside the container", "That you don't exceed gross weight and axle weight limits", "That the cargo is covered for weather protection", "That blocking is placed against every piece"],
+    "answer_index": 1,
+    "explanation": "You cannot inspect sealed loads, but you should check that you don't exceed gross weight and axle weight limits."
+  }
+]

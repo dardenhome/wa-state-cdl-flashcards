@@ -1,0 +1,226 @@
+[
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Rollover risk",
+    "question": "What two things help prevent a rollover in a combination vehicle?",
+    "choices": [
+      "Keep the cargo low to the ground and drive slowly around turns",
+      "Load cargo high and brake hard before turns",
+      "Pile cargo to one side and accelerate through turns",
+      "Keep tires underinflated and steer sharply"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide says keeping cargo as close to the ground as possible and driving slowly around turns help prevent rollover."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Rollover risk",
+    "question": "Compared to empty rigs, how much more likely are fully loaded rigs to roll over in a crash?",
+    "choices": [
+      "Twice as likely",
+      "Five times as likely",
+      "Ten times as likely",
+      "Equally likely"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states fully loaded rigs are ten times more likely to roll over in a crash than empty rigs."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Crack-the-whip effect",
+    "question": "What causes the dangerous 'crack-the-whip' effect that can turn a trailer over?",
+    "choices": [
+      "Off-tracking",
+      "Rearward amplification",
+      "Brake fade",
+      "Center of gravity shift"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide states that rearward amplification causes the crack-the-whip effect during a quick lane change."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Braking empty vehicles",
+    "question": "Why do large combination vehicles take longer to stop when empty than when fully loaded?",
+    "choices": [
+      "The engine produces more power when empty",
+      "Stiff suspension and strong brakes give poor traction, making wheels lock up easily",
+      "Empty trailers have heavier axles",
+      "The air brakes lose pressure faster when empty"
+    ],
+    "answer_index": 1,
+    "explanation": "When lightly loaded the very stiff suspension springs and strong brakes give poor traction and make it easy to lock up the wheels."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer skid",
+    "question": "How should you stop a trailer skid (trailer jackknife) once the trailer wheels lock up?",
+    "choices": [
+      "Apply the trailer hand brake harder",
+      "Steer sharply into the skid",
+      "Release the brakes to get traction back",
+      "Accelerate to pull the trailer straight"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide says to release the brakes to get traction back, since the trailer brakes caused the skid in the first place."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Off-tracking",
+    "question": "What is off-tracking (also called 'cheating')?",
+    "choices": [
+      "When the rear wheels follow a different, wider path than the front wheels in a turn",
+      "When the trailer brakes lock before the tractor brakes",
+      "When the trailer leans during a quick lane change",
+      "When the kingpin slips out of the fifth wheel"
+    ],
+    "answer_index": 0,
+    "explanation": "Off-tracking is when the rear wheels follow a different path than the front wheels around a corner, with longer vehicles off-tracking more."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer hand valve",
+    "question": "Why should the trailer hand valve never be used while driving?",
+    "choices": [
+      "It applies the tractor brakes too hard",
+      "It can cause the trailer to skid",
+      "It releases the parking brakes",
+      "It drains the air tanks"
+    ],
+    "answer_index": 1,
+    "explanation": "The hand valve should be used only to test trailer brakes; using it while driving risks making the trailer skid."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Tractor protection valve",
+    "question": "At what air pressure range will the tractor protection valve close automatically?",
+    "choices": [
+      "5 to 15 psi",
+      "20 to 45 psi",
+      "60 to 80 psi",
+      "90 to 120 psi"
+    ],
+    "answer_index": 1,
+    "explanation": "The tractor protection valve closes automatically when air pressure is low, in the range of 20 to 45 psi."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer air supply control",
+    "question": "On newer vehicles, what does the red eight-sided trailer air supply knob do when pulled out?",
+    "choices": [
+      "Supplies air to the trailer and releases the brakes",
+      "Shuts the air off and applies the trailer emergency brakes",
+      "Drains the trailer air tanks",
+      "Engages the tractor parking brake only"
+    ],
+    "answer_index": 1,
+    "explanation": "Pulling the knob out shuts the air off and puts on the trailer emergency brakes; pushing it in supplies the trailer with air."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Emergency air-line",
+    "question": "What are the two purposes of the emergency (supply) air-line?",
+    "choices": [
+      "It supplies air to the trailer air tanks and controls the emergency brakes",
+      "It controls service braking pressure and powers the trailer lights",
+      "It releases the spring brakes and drains moisture from tanks",
+      "It lubricates the fifth wheel and signals the relay valves"
+    ],
+    "answer_index": 0,
+    "explanation": "The emergency line supplies air to the trailer air tanks and controls the emergency brakes on combination vehicles."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Air-line colors",
+    "question": "Which colors are typically used to code the emergency and service air-lines?",
+    "choices": [
+      "Green for emergency and yellow for service",
+      "Red for emergency and blue for service",
+      "Blue for emergency and red for service",
+      "Black for emergency and white for service"
+    ],
+    "answer_index": 1,
+    "explanation": "Emergency (supply) lines are coded red and service lines blue to avoid mixing them up."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Shut-off valves",
+    "question": "Which shut-off valves (cut-out cocks) must be closed on a combination vehicle towing trailers?",
+    "choices": [
+      "All of them",
+      "Only the ones at the front of the first trailer",
+      "Only the ones at the back of the last trailer",
+      "None of them"
+    ],
+    "answer_index": 2,
+    "explanation": "All shut-off valves must be open except the ones at the back of the last trailer, which must be closed."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "ABS",
+    "question": "How can you tell if a trailer is equipped with antilock brakes (ABS)?",
+    "choices": [
+      "A green light on the dashboard",
+      "A yellow ABS malfunction lamp on the left side of the trailer",
+      "A red knob in the cab",
+      "A blue lamp on the rear bumper"
+    ],
+    "answer_index": 1,
+    "explanation": "Trailers with ABS have yellow ABS malfunction lamps on the left side, on the front or rear corner."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Coupling - trailer height",
+    "question": "Before backing under a trailer, how high should the trailer be set?",
+    "choices": [
+      "High enough that the fifth wheel passes underneath without touching",
+      "Low enough that it is raised slightly by the tractor when backed under it",
+      "Exactly level with the top of the fifth wheel",
+      "As low as the landing gear will allow"
+    ],
+    "answer_index": 1,
+    "explanation": "The trailer should be low enough that it is raised slightly by the tractor when the tractor is backed under it."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Coupling inspection",
+    "question": "When inspecting a completed coupling, how much space should there be between the upper and lower fifth wheel?",
+    "choices": [
+      "About one inch",
+      "About a quarter inch",
+      "No space at all",
+      "Enough to fit a finger"
+    ],
+    "answer_index": 2,
+    "explanation": "There should be no space between the upper and lower fifth wheel; any space means the kingpin may be on top of the closed jaws."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Brake check - air to all trailers",
+    "question": "When testing that air flows to all trailers, what should you do at the rear of the last trailer?",
+    "choices": [
+      "Open the emergency line shut-off valve and listen for escaping air",
+      "Close all shut-off valves and drain the tanks",
+      "Disconnect the glad hands and check for leaks",
+      "Pull the air supply knob and chock the wheels"
+    ],
+    "answer_index": 0,
+    "explanation": "You open the emergency line shut-off valve at the rear of the last trailer and should hear air escaping, showing the system is charged."
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Placarding basics",
+    "question": "How many identical placards must a placarded vehicle display, and where?",
+    "choices": [
+      "Two, on both sides only",
+      "At least four, on the front, rear, and both sides",
+      "Three, on the front and both sides",
+      "One, on the rear of the trailer"
+    ],
+    "answer_index": 1,
+    "explanation": "A placarded vehicle must have at least four identical placards on the front, rear, and both sides of the vehicle."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Table 2 placarding threshold",
+    "question": "Except for bulk packaging, Table 2 hazard classes need placards only if the total amount transported is at least:",
+    "choices": [
+      "500 pounds",
+      "1,001 pounds including the package",
+      "2,205 pounds",
+      "Any amount"
+    ],
+    "answer_index": 1,
+    "explanation": "Table 2 materials need placards only if the total amount transported is 1,001 pounds or more including the package."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Table 1 placarding",
+    "question": "How much of a Table 1 material (such as 2.3 Poison Gas) must be aboard before placards are required?",
+    "choices": [
+      "Any amount",
+      "1,001 pounds or more",
+      "Only when over 119 gallons",
+      "2,205 pounds or more"
+    ],
+    "answer_index": 0,
+    "explanation": "Table 1 materials must be placarded whenever any amount is transported."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "DANGEROUS placard",
+    "question": "You may use a DANGEROUS placard in place of separate placards when you have 1,001 pounds or more of two or more Table 2 classes, provided you have not loaded at any one place which amount of a single class?",
+    "choices": [
+      "1,001 pounds or more",
+      "1,500 pounds or more",
+      "2,205 pounds or more",
+      "5,000 pounds or more"
+    ],
+    "answer_index": 2,
+    "explanation": "The DANGEROUS placard may not be used if 2,205 pounds or more of any one Table 2 hazard class was loaded at any one place; that material gets its specific placard."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazard classes",
+    "question": "Which hazard class is assigned to Corrosives such as battery fluid?",
+    "choices": [
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9"
+    ],
+    "answer_index": 2,
+    "explanation": "Class 8 is Corrosives, with battery fluid given as an example."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazard classes",
+    "question": "Flammable Liquids such as gasoline belong to which hazard class?",
+    "choices": [
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5"
+    ],
+    "answer_index": 1,
+    "explanation": "Class 3 is Flammable Liquids, with gasoline as an example."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Identification numbers",
+    "question": "A hazardous materials identification number is what kind of code?",
+    "choices": [
+      "A two-letter code",
+      "A four-digit code preceded by NA or UN",
+      "A six-digit color code",
+      "A Roman-numeral packing group"
+    ],
+    "answer_index": 1,
+    "explanation": "Identification numbers are a four-digit code used by first responders, preceded by the letters NA or UN."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Shipping papers location",
+    "question": "When the driver is out of the vehicle, where must hazardous materials shipping papers be kept?",
+    "choices": [
+      "In the glove compartment",
+      "On the driver's seat",
+      "In the cargo area with the freight",
+      "In the sleeper berth"
+    ],
+    "answer_index": 1,
+    "explanation": "When out of the vehicle, the driver must leave shipping papers on the driver's seat (or in the driver's door pouch)."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Basic description order",
+    "question": "What is the correct order of the basic description of a hazardous material on a shipping paper?",
+    "choices": [
+      "Proper shipping name, identification number, hazard class, packing group",
+      "Identification number, proper shipping name, hazard class or division, packing group",
+      "Hazard class, packing group, proper shipping name, identification number",
+      "Packing group, hazard class, identification number, proper shipping name"
+    ],
+    "answer_index": 1,
+    "explanation": "The basic description includes, in this order, the identification number, proper shipping name, hazard class or division, and the packing group."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazardous materials column",
+    "question": "On a shipping paper listing both hazardous and non-hazardous products, how may hazardous materials be identified?",
+    "choices": [
+      "Entered last and underlined",
+      "Entered first, highlighted in contrasting color, or marked with an X in an HM column",
+      "Printed in italics only",
+      "Listed only on a separate page"
+    ],
+    "answer_index": 1,
+    "explanation": "Hazardous materials must be entered first, highlighted in a contrasting color, or identified by an X (or RQ) in a column captioned HM."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Bulk packaging definition",
+    "question": "A bulk package used as a receptacle for a liquid is defined as a single container with a capacity greater than:",
+    "choices": [
+      "55 gallons",
+      "100 gallons",
+      "119 gallons",
+      "1,000 gallons"
+    ],
+    "answer_index": 2,
+    "explanation": "Bulk packaging is a single container with a maximum capacity greater than 119 gallons as a receptacle for a liquid."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "No smoking classes",
+    "question": "Which group of hazard classes should you never smoke around during loading or unloading?",
+    "choices": [
+      "Classes 6, 7, 8, and 9",
+      "Classes 1, 2.1, 3, 4, and 5",
+      "Class 7 only",
+      "Classes 8 and 9 only"
+    ],
+    "answer_index": 1,
+    "explanation": "Never smoke around Class 1 Explosives, Class 2.1 Flammable Gas, Class 3 Flammable Liquids, Class 4 Flammable Solids, and Class 5 Oxidizers."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Cargo tank attendance",
+    "question": "The qualified person watching the loading or unloading of a cargo tank must be within how many feet of the tank?",
+    "choices": [
+      "10 feet",
+      "25 feet",
+      "50 feet",
+      "100 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "The person watching the loading or unloading of a cargo tank must be within 25 feet of the tank."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Segregation - nitric acid",
+    "question": "When loading nitric acid (Class 8), what rule applies?",
+    "choices": [
+      "It must be loaded above all other products",
+      "It must not be loaded above any other product",
+      "It may only be loaded with oxidizers",
+      "It must be loaded in the driver's cab"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not load nitric acid above any other product."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Radioactive transport index",
+    "question": "The total transport index of all Class 7 radioactive packages in a single vehicle must not exceed:",
+    "choices": [
+      "10",
+      "25",
+      "50",
+      "100"
+    ],
+    "answer_index": 2,
+    "explanation": "The total transport index of all packages in a single vehicle must not exceed 50."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Parking with explosives",
+    "question": "Except for brief operational needs, how far must you park Division 1.1, 1.2, or 1.3 explosives from a bridge, tunnel, building, or place where people gather?",
+    "choices": [
+      "100 feet",
+      "200 feet",
+      "300 feet",
+      "500 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "Do not park within 300 feet of a bridge, tunnel, building, place where people gather, or open fire when carrying Division 1.1, 1.2, or 1.3 explosives."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Attending parked vehicles",
+    "question": "A person attending a parked placarded vehicle may be away from it only if they remain within how many feet and have it in clear view?",
+    "choices": [
+      "25 feet",
+      "50 feet",
+      "100 feet",
+      "300 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "The attendant must be in the vehicle (awake, not in the sleeper) or within 100 feet of it with the vehicle in clear view."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Fire extinguisher",
+    "question": "The power unit of a placarded vehicle must carry a fire extinguisher with a UL rating of at least:",
+    "choices": [
+      "5 B:C",
+      "10 B:C",
+      "20 B:C",
+      "40 B:C"
+    ],
+    "answer_index": 1,
+    "explanation": "The power unit of placarded vehicles must have a fire extinguisher with a UL rating of 10 B:C or more."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Railroad crossings",
+    "question": "When required to stop at a railroad crossing, a hazmat vehicle must stop within what distance of the nearest rail?",
+    "choices": [
+      "5 to 15 feet",
+      "10 to 25 feet",
+      "15 to 50 feet",
+      "50 to 100 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "You must stop 15 to 50 feet before the nearest rail at a railroad crossing."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Required notification",
+    "question": "You or your employer must phone the National Response Center after a hazmat incident when estimated property damage exceeds:",
+    "choices": [
+      "$10,000",
+      "$25,000",
+      "$50,000",
+      "$100,000"
+    ],
+    "answer_index": 2,
+    "explanation": "Notification is required when estimated property damage exceeds $50,000 as a direct result of a hazardous materials incident."
+  }
+]

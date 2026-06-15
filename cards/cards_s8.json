@@ -1,0 +1,128 @@
+[
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Inspecting Tank Vehicles",
+    "question": "On all tank vehicles, what is the most important item to check for during inspection?",
+    "choices": [
+      "Tire pressure",
+      "Leaks",
+      "Mirror alignment",
+      "Fuel level"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide states that on all tank vehicles, the most important item to check for is leaks."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "High Center of Gravity",
+    "question": "Why are liquid tankers especially easy to roll over?",
+    "choices": [
+      "They have a high center of gravity making them top-heavy",
+      "Their brakes are weaker than other trucks",
+      "They have narrower axles than dry vans",
+      "Their tires are inflated to lower pressures"
+    ],
+    "answer_index": 0,
+    "explanation": "A high center of gravity means much of the load's weight is carried high up, making the vehicle top-heavy and easy to roll over."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Curves",
+    "question": "How should you take highway curves and on/off ramps in a tank vehicle?",
+    "choices": [
+      "At the posted speed limit",
+      "Slightly above the posted speed",
+      "Well below the posted speeds",
+      "At exactly half the posted speed"
+    ],
+    "answer_index": 2,
+    "explanation": "Because tankers can turn over at the speeds posted for curves, you should take curves and ramps well below the posted speeds."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Liquid Surge",
+    "question": "What can liquid surge do to a stopped truck on a slippery surface such as ice?",
+    "choices": [
+      "Lock up the parking brake",
+      "Shove the truck out into an intersection",
+      "Cause the tank to crack from pressure",
+      "Tilt the cab forward off its mounts"
+    ],
+    "answer_index": 1,
+    "explanation": "When the wave hits the end of the tank on a slippery surface like ice, it can shove a stopped truck out into an intersection."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Baffled Tanks",
+    "question": "What type of surge do baffles in a tank help control?",
+    "choices": [
+      "Side-to-side surge",
+      "Vertical surge",
+      "Forward and backward surge",
+      "All surge in every direction"
+    ],
+    "answer_index": 2,
+    "explanation": "Baffles help control forward and backward liquid surge, but side-to-side surge can still occur."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Un-baffled Tanks",
+    "question": "Why are smooth bore (un-baffled) tanks usually required for food products like milk?",
+    "choices": [
+      "They are cheaper to manufacture",
+      "Sanitation regulations forbid baffles due to cleaning difficulty",
+      "They carry more weight than baffled tanks",
+      "They reduce forward-and-back surge"
+    ],
+    "answer_index": 1,
+    "explanation": "Sanitation regulations forbid the use of baffles because of the difficulty in cleaning the inside of the tank."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Outage",
+    "question": "What is 'outage' when hauling liquids in bulk?",
+    "choices": [
+      "The room left for liquid to expand as it warms",
+      "The total weight of the liquid cargo",
+      "A power failure in the pump system",
+      "The time the tank sits empty between loads"
+    ],
+    "answer_index": 0,
+    "explanation": "Outage is the room you must leave in the tank because liquids expand as they warm, and different liquids require different amounts."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "How Much to Load",
+    "question": "Which three factors determine how much liquid you can load into a tank?",
+    "choices": [
+      "Tank color, road grade, and tire size",
+      "Expansion in transit, weight of the liquid, and legal weight limits",
+      "Driver experience, weather, and trip distance",
+      "Valve size, hose length, and pump speed"
+    ],
+    "answer_index": 1,
+    "explanation": "The amount to load depends on how much the liquid will expand in transit, the weight of the liquid, and legal weight limits."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Controlling Surge",
+    "question": "How should you use the brakes to help control surge when coming to a stop?",
+    "choices": [
+      "Pump the brakes rapidly the entire time",
+      "Brake hard only at the last moment",
+      "Keep steady pressure and don't release too soon",
+      "Use the parking brake instead of the service brake"
+    ],
+    "answer_index": 2,
+    "explanation": "To control surge, keep steady pressure on the brakes and do not release too soon when coming to a stop."
+  }
+]

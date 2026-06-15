@@ -1,0 +1,164 @@
+[
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Governor cut-out pressure",
+    "question": "At about what air tank pressure does the governor stop the compressor from pumping air (cut-out)?",
+    "choices": ["100 psi", "125 psi", "150 psi", "60 psi"],
+    "answer_index": 1,
+    "explanation": "When tank pressure rises to the cut-out level (around 125 psi), the governor stops the compressor from pumping air."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Governor cut-in pressure",
+    "question": "At about what tank pressure does the governor allow the compressor to start pumping again (cut-in)?",
+    "choices": ["60 psi", "85 psi", "100 psi", "125 psi"],
+    "answer_index": 2,
+    "explanation": "When tank pressure falls to the cut-in pressure (around 100 psi), the governor allows the compressor to start pumping again."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Safety relief valve",
+    "question": "At what pressure is the safety relief valve usually set to open?",
+    "choices": ["125 psi", "135 psi", "150 psi", "175 psi"],
+    "answer_index": 2,
+    "explanation": "The safety relief valve is usually set to open at 150 psi to protect the system from too much pressure."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Low air pressure warning",
+    "question": "A visible low air pressure warning signal must come on before tank pressure falls below what level?",
+    "choices": ["45 psi", "60 psi", "80 psi", "100 psi"],
+    "answer_index": 1,
+    "explanation": "A warning signal you can see must come on before the air pressure in the tanks falls below 60 psi."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Wig wag",
+    "question": "At what pressure does a wig wag device drop a mechanical arm into the driver's view?",
+    "choices": ["Below 45 psi", "Below 60 psi", "Below 80 psi", "Below 100 psi"],
+    "answer_index": 1,
+    "explanation": "The wig wag drops a mechanical arm into your view when system pressure drops below 60 psi."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Spring brakes activation",
+    "question": "Tractor and straight truck spring brakes come fully on when air pressure drops to what range?",
+    "choices": ["10 to 20 psi", "20 to 45 psi", "45 to 60 psi", "60 to 85 psi"],
+    "answer_index": 1,
+    "explanation": "Tractor and straight truck spring brakes will come fully on when air pressure drops to a range of 20 to 45 psi (typically 20 to 30 psi)."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Automatic front wheel limiting valve",
+    "question": "Automatic front wheel limiting valves stop reducing air to the front brakes when application pressure reaches about what level?",
+    "choices": ["20 psi or more", "40 psi or more", "60 psi or more", "100 psi or more"],
+    "answer_index": 2,
+    "explanation": "Automatic front wheel limiting valves reduce air to the front brakes except when the brakes are applied very hard (60 psi or more application pressure)."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Dual system minimum pressure",
+    "question": "Before driving a dual air system vehicle, the compressor should build a minimum of what pressure in both systems?",
+    "choices": ["60 psi", "85 psi", "100 psi", "125 psi"],
+    "answer_index": 2,
+    "explanation": "Allow time for the air compressor to build up a minimum of 100 psi pressure in both the primary and secondary systems before driving."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Dual system warning",
+    "question": "In a dual air brake system, the warning light and buzzer should come on before air pressure drops below what level in either system?",
+    "choices": ["45 psi", "60 psi", "80 psi", "100 psi"],
+    "answer_index": 1,
+    "explanation": "The warning light and buzzer should come on before the air pressure drops below 60 psi in either system."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Slack adjuster check",
+    "question": "When pulling on a slack adjuster, about how much movement indicates it probably needs adjustment?",
+    "choices": ["More than about one quarter inch", "More than about one half inch", "More than about one inch", "More than about two inches"],
+    "answer_index": 2,
+    "explanation": "If a slack adjuster moves more than about one inch where the push rod attaches, it probably needs adjustment."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Brake drum cracks",
+    "question": "Brake drums or discs must not have cracks longer than what fraction of the friction area width?",
+    "choices": ["One quarter the width", "One third the width", "One half the width", "Two thirds the width"],
+    "answer_index": 2,
+    "explanation": "Brake drums or discs must not have cracks longer than one half the width of the friction area."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Leakage rate engine off, no brake",
+    "question": "With the engine off and parking brake released, the air loss rate should be less than what for a single vehicle?",
+    "choices": ["One psi in one minute", "Two psi in one minute", "Three psi in one minute", "Four psi in one minute"],
+    "answer_index": 1,
+    "explanation": "The loss rate should be less than two psi in one minute for single vehicles and less than three psi for combination vehicles."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Leakage rate with brake applied",
+    "question": "With the foot brake fully applied for one minute, the air pressure should not drop more than what for a single vehicle?",
+    "choices": ["Two psi in one minute", "Three psi in one minute", "Four psi in one minute", "Five psi in one minute"],
+    "answer_index": 1,
+    "explanation": "With the foot brake fully applied, air pressure dropping more than three psi in one minute (single vehicle) means the air loss rate is too much."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Spring brakes pop-out check",
+    "question": "During the air brake check, the parking brake valve should pop out causing spring brakes to come on when pressure falls into what range?",
+    "choices": ["10 to 20 psi", "20 to 45 psi", "45 to 60 psi", "60 to 85 psi"],
+    "answer_index": 1,
+    "explanation": "The parking brake valve should close (pop out) and spring brakes come on when air pressure falls to the manufacturer's specification of 20 to 45 psi."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Air pressure buildup rate",
+    "question": "In dual air systems at operating rpm, pressure should build from 85 to 100 psi within how long?",
+    "choices": ["30 seconds", "45 seconds", "60 seconds", "3 minutes"],
+    "answer_index": 1,
+    "explanation": "In dual air systems, pressure should build from 85 to 100 psi within 45 seconds when the engine is at operating rpms."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Stab braking",
+    "question": "When using stab braking, when should you reapply the brakes after releasing them?",
+    "choices": ["Immediately, without waiting", "As soon as the wheels start rolling again", "After holding the release for five seconds", "Only after the vehicle fully straightens"],
+    "answer_index": 1,
+    "explanation": "In stab braking you release brakes when wheels lock up and reapply them fully as soon as the wheels start rolling again."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Brake lag distance",
+    "question": "About how much distance does air brake lag add at 55 mph on dry pavement?",
+    "choices": ["About 12 feet", "About 32 feet", "About 60 feet", "About 100 feet"],
+    "answer_index": 1,
+    "explanation": "The air brake lag distance at 55 mph on dry pavement adds about 32 feet."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Downgrade braking technique",
+    "question": "Using proper braking technique on a downgrade, when should you release the brakes after slowing?",
+    "choices": ["When speed is reduced to about 5 mph below the safe speed", "When speed reaches the safe speed exactly", "After braking for ten seconds", "When speed is 10 mph above the safe speed"],
+    "answer_index": 0,
+    "explanation": "Release the brakes when your speed has been reduced to approximately five mph below your safe speed."
+  }
+]

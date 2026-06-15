@@ -1,0 +1,198 @@
+[
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "CDL Requirements",
+    "question": "A single vehicle requires a CDL to operate when its gross vehicle weight rating (GVWR) is at least:",
+    "choices": [
+      "10,000 pounds",
+      "16,000 pounds",
+      "26,001 pounds",
+      "40,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states a CDL is required for any single vehicle with a GVWR of 26,001 pounds or more."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "CDL Requirements",
+    "question": "Which of the following requires a CDL regardless of the vehicle's size?",
+    "choices": [
+      "Any pickup truck towing a trailer",
+      "All school buses",
+      "Any vehicle carrying 10 passengers",
+      "Any rental moving truck"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide requires a CDL for all school buses regardless of size."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Application Requirements",
+    "question": "What is the minimum age to get a Washington CDL or Commercial Learner's Permit?",
+    "choices": [
+      "16 years old",
+      "18 years old",
+      "21 years old",
+      "25 years old"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide requires applicants to be at least 18 years old to get a CDL or CLP."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Commercial Learner's Permit",
+    "question": "How long is a Commercial Learner's Permit (CLP) valid, and how many times can it be renewed?",
+    "choices": [
+      "90 days, renewed twice",
+      "180 days, renewed once",
+      "1 year, renewed once",
+      "180 days, unlimited renewals"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide states the CLP is valid for 180 days and may only be renewed one time."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Commercial Learner's Permit",
+    "question": "How long must you hold a CLP before taking a skills test?",
+    "choices": [
+      "A minimum of 14 days",
+      "A minimum of 7 days",
+      "A minimum of 30 days",
+      "There is no waiting period"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide requires holding a CLP for a minimum of 14 days prior to taking a skills test."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "CLP Supervision",
+    "question": "A driver accompanying a CLP holder must have a valid CDL and at least how much total driving experience?",
+    "choices": [
+      "2 years total",
+      "3 years total",
+      "5 years total",
+      "10 years total"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide requires the accompanying CDL driver to have no less than 5 years of total driving experience (and 2 years in the class being operated)."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Skills Test",
+    "question": "After passing a CDL skills test, how long must all applicants wait before their CDL can be issued?",
+    "choices": [
+      "24 hours",
+      "3 days",
+      "14 days",
+      "Immediately"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide states all applicants must wait 24 hours after passing a CDL skills test before having their CDL issued."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Disqualifications",
+    "question": "It is illegal to operate a CMV if your blood alcohol concentration (BAC) is at or above:",
+    "choices": [
+      ".01%",
+      ".02%",
+      ".04%",
+      ".08%"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states it is illegal to operate a CMV if your BAC is .04% or more."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Disqualifications",
+    "question": "How long will you lose your CDL for a second major offense such as DUI in a CMV?",
+    "choices": [
+      "One year",
+      "Three years",
+      "Ten years",
+      "For life"
+    ],
+    "answer_index": 3,
+    "explanation": "The guide states you will lose your CDL for life for a second offense."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Serious Traffic Violations",
+    "question": "Being convicted of two serious traffic violations within 3 years may result in losing your CDL for:",
+    "choices": [
+      "30 days",
+      "60 days",
+      "120 days",
+      "One year"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide states two serious traffic violations within 3 years may result in a 60-day disqualification."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Serious Traffic Violations",
+    "question": "Which of the following is considered a serious traffic violation?",
+    "choices": [
+      "Parking illegally",
+      "Excessive speed 15 mph over the posted limit",
+      "Failing to use headlights at dusk",
+      "Driving 5 mph under the limit"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide lists excessive speed of 15 mph over the posted limit as a serious traffic violation."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Out-of-Service Orders",
+    "question": "What is the minimum disqualification for a first violation of an out-of-service order?",
+    "choices": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "One year"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states you will lose your CDL for at least 90 days for a first violation of an out-of-service order."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "HazMat Endorsement",
+    "question": "How long is a Hazardous Materials Endorsement (HME) valid?",
+    "choices": [
+      "2 years",
+      "4 years",
+      "5 years",
+      "10 years"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states HME endorsements are valid for 5 years."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "WA State Laws",
+    "question": "Unless otherwise posted, the maximum allowable speed for trucks and buses on interstate and Washington State highways is:",
+    "choices": [
+      "50 mph",
+      "55 mph",
+      "60 mph",
+      "70 mph"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide states the maximum speed for trucks and buses is 60 mph on interstate and Washington State highways (70 mph for auto-stages)."
+  }
+]

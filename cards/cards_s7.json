@@ -1,0 +1,142 @@
+[
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Crack-the-whip effect",
+    "question": "In a set of doubles or triples, which trailer is most likely to turn over?",
+    "choices": [
+      "The first trailer behind the tractor",
+      "The middle trailer",
+      "The last trailer in the combination",
+      "All trailers turn over equally"
+    ],
+    "answer_index": 2,
+    "explanation": "Because of the crack-the-whip effect, the last trailer in a combination is most likely to turn over."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Trailer loading order",
+    "question": "For the safest handling on the road, where should the more heavily loaded semitrailer be placed?",
+    "choices": [
+      "In the first position behind the tractor",
+      "In the rear position",
+      "In the middle position",
+      "It does not matter where the heavier trailer is placed"
+    ],
+    "answer_index": 0,
+    "explanation": "For safest handling, the more heavily loaded semitrailer should be in first position behind the tractor, with the lighter trailer in the rear."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Converter dolly antilock brakes",
+    "question": "How can you tell if a converter dolly is equipped with antilock brakes?",
+    "choices": [
+      "It has a red lamp on the right side",
+      "It has a yellow lamp on the left side",
+      "It has a green lamp on the rear",
+      "It has a blue lamp on the tongue"
+    ],
+    "answer_index": 1,
+    "explanation": "Converter dollies built on or after March 1, 1998, are required to have antilock brakes and will have a yellow lamp on the left side of the dolly."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Trailer height before coupling",
+    "question": "Before backing a converter dolly under the rear trailer, the trailer height should be set so that it is:",
+    "choices": [
+      "Exactly level with the center of the fifth wheel",
+      "Slightly higher than the center of the fifth wheel",
+      "Slightly lower than the center of the fifth wheel",
+      "Well above the fifth wheel to ease entry"
+    ],
+    "answer_index": 2,
+    "explanation": "Trailer height must be slightly lower than the center of the fifth wheel so the trailer is raised slightly when the dolly is pushed under."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Visual check of coupling",
+    "question": "When making a visual check of the coupling, what should you confirm?",
+    "choices": [
+      "Locking jaws are open and resting on the kingpin head",
+      "There is a small gap between the upper and lower fifth wheel",
+      "No space between upper and lower fifth wheel and locking jaws closed on kingpin",
+      "The landing gear is partially lowered for support"
+    ],
+    "answer_index": 2,
+    "explanation": "A visual check should confirm no space between the upper and lower fifth wheel and the locking jaws closed on the kingpin."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Uncoupling order safety",
+    "question": "Why should you never unlock the pintle hook while the dolly is still under the rear trailer?",
+    "choices": [
+      "The dolly tow bar may fly up, possibly causing injury and making recoupling difficult",
+      "The trailer brakes will release automatically",
+      "The air lines will instantly depressurize",
+      "The kingpin could bend under the load"
+    ],
+    "answer_index": 0,
+    "explanation": "If the pintle hook is unlocked with the dolly still under the rear trailer, the dolly tow bar may fly up, possibly causing injury and making it very difficult to re-couple."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Shut-off valve positions",
+    "question": "In a set of doubles, what should the position of the shut-off valves be at the rear of the front trailer and at the rear of the last trailer?",
+    "choices": [
+      "Front trailer CLOSED, last trailer OPEN",
+      "Front trailer OPEN, last trailer CLOSED",
+      "Both OPEN",
+      "Both CLOSED"
+    ],
+    "answer_index": 1,
+    "explanation": "Shut-off valves at the rear of front trailers should be OPEN, and at the rear of the last trailer should be CLOSED."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Checking air flow to all trailers",
+    "question": "When checking that air flows to all trailers, where do you open the emergency line shut-off valve and what should you observe?",
+    "choices": [
+      "At the front trailer; you should see brake lights illuminate",
+      "At the rear of the last trailer; you should hear air escaping, showing the system is charged",
+      "At the dolly only; the dolly brakes should release",
+      "At the tractor; the air gauge should drop to zero"
+    ],
+    "answer_index": 1,
+    "explanation": "You open the emergency line shut-off valve at the rear of the last trailer and should hear air escaping, showing the entire system is charged."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Tractor protection valve test",
+    "question": "When testing the tractor protection valve, the trailer air supply control should pop out when air pressure falls into approximately what range?",
+    "choices": [
+      "5 to 15 psi",
+      "20 to 45 psi",
+      "50 to 75 psi",
+      "80 to 100 psi"
+    ],
+    "answer_index": 1,
+    "explanation": "The trailer air supply control should pop out when the air pressure falls into the manufacturer-specified range, usually within 20 to 45 psi."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Converter dolly definition",
+    "question": "What is a converter gear on a dolly?",
+    "choices": [
+      "A braking device that locks the rear trailer wheels",
+      "A coupling device of one or two axles and a fifth wheel that couples a semitrailer to the rear of a tractor-trailer combination",
+      "An electrical junction box connecting trailer lights",
+      "A leveling jack used to raise the landing gear"
+    ],
+    "answer_index": 1,
+    "explanation": "A converter gear on a dolly is a coupling device of one or two axles and a fifth wheel by which a semitrailer can be coupled to the rear of a tractor-trailer combination, forming a double bottom rig."
+  }
+]
