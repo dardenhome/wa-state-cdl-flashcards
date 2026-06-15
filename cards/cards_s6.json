@@ -278,5 +278,243 @@
     ],
     "answer_index": 1,
     "explanation": "The service line (control air for braking) is blue, while the emergency line is red."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Following Distance",
+    "question": "At highway speed, what is the minimum following distance rule for commercial vehicles over 40 feet?",
+    "choices": [
+      "One second total",
+      "One second per 10 feet of vehicle length at speeds under 40 mph",
+      "One second per 10 feet of vehicle length at speeds over 40 mph",
+      "Three car lengths regardless of speed"
+    ],
+    "answer_index": 2,
+    "explanation": "For large commercial vehicles at higher speeds, use at least one second for each 10 feet of vehicle length as a minimum spacing rule."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Steering to Avoid Rollover",
+    "question": "What steering style is safest in combinations to reduce rollover and crack-the-whip effects?",
+    "choices": [
+      "Rapid steering corrections",
+      "Smooth, gradual steering movements",
+      "Late sharp turns",
+      "Counter-steering repeatedly"
+    ],
+    "answer_index": 1,
+    "explanation": "Combination vehicles require smooth steering. Abrupt steering increases rearward amplification and rollover risk."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Combination Air Valve Location",
+    "question": "Where are shut-off valves that should remain closed when towing one trailer?",
+    "choices": [
+      "At the front of the first trailer",
+      "At the back of the last trailer",
+      "On both sides of the tractor",
+      "On the dashboard only"
+    ],
+    "answer_index": 1,
+    "explanation": "In a combination, shut-off valves are generally open except at the rear of the last trailer, which should be closed."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer Air Supply Knob",
+    "question": "What does pushing in the red trailer air supply control do?",
+    "choices": [
+      "Sets trailer emergency brakes",
+      "Supplies air to the trailer and releases emergency brakes",
+      "Drains tractor tanks",
+      "Turns ABS off"
+    ],
+    "answer_index": 1,
+    "explanation": "Pushing in the red trailer air supply control sends air to the trailer and releases trailer emergency brakes."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Fifth Wheel Grease",
+    "question": "Why should the fifth wheel plate be properly greased?",
+    "choices": [
+      "To improve fuel economy only",
+      "To reduce friction and prevent steering difficulties or coupling wear",
+      "To increase trailer tongue weight",
+      "To reduce air pressure use"
+    ],
+    "answer_index": 1,
+    "explanation": "Proper fifth-wheel lubrication reduces friction and wear, and helps the trailer pivot safely during turns."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer Hand Valve Use",
+    "question": "What is the correct use of the trailer hand valve (trolley valve)?",
+    "choices": [
+      "Normal braking in traffic",
+      "Testing trailer brakes only, not regular driving stops",
+      "Emergency braking on downgrades",
+      "Parking on hills"
+    ],
+    "answer_index": 1,
+    "explanation": "The trailer hand valve is for brake checks and specific controlled tests; normal stopping should use the foot brake for all wheels."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer Position Check",
+    "question": "If there is visible space between upper and lower fifth wheel after coupling, what does it indicate?",
+    "choices": [
+      "Normal coupling condition",
+      "Kingpin may be riding on top of closed jaws (high coupling)",
+      "Trailer is too light",
+      "Air lines are crossed"
+    ],
+    "answer_index": 1,
+    "explanation": "A gap between fifth-wheel plates can indicate a dangerous high coupling where the kingpin is not properly locked in the jaws."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Load Centering",
+    "question": "Why is keeping cargo centered especially important in combination vehicles?",
+    "choices": [
+      "It improves radio reception",
+      "A side-leaning trailer is more likely to roll over",
+      "It reduces tire pressure needs",
+      "It eliminates off-tracking"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 6.1.1 emphasizes centered, spread-out loading; side-lean increases rollover likelihood."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Quick Lane Changes",
+    "question": "What maneuver should be avoided especially when fully loaded combinations are driving?",
+    "choices": [
+      "Using mirrors",
+      "Quick lane changes",
+      "Gentle turns",
+      "Early braking"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 6 warns to avoid quick lane changes, particularly when fully loaded, due to rollover and amplification risks."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Bobtail Stopping",
+    "question": "How does a bobtail tractor generally stop compared with a fully loaded tractor-semitrailer?",
+    "choices": [
+      "It always stops shorter",
+      "It can take longer to stop smoothly",
+      "It has identical stopping behavior",
+      "It cannot lock wheels"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 6.1.3 notes bobtails can be harder to stop smoothly and may take longer than fully loaded combinations."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Low Clearance Railroad Risk",
+    "question": "Which trailer type is especially at risk of getting stuck on raised railroad-highway crossings?",
+    "choices": [
+      "Standard box trailer",
+      "Low-slung units such as lowboys/car carriers/moving vans",
+      "Only tank trailers",
+      "Only empty trailers"
+    ],
+    "answer_index": 1,
+    "explanation": "Low-clearance trailers (lowboys, car carriers, moving vans, etc.) can hang up on raised crossings."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Stuck on Tracks",
+    "question": "If your combination gets stuck on railroad tracks, what should you do first?",
+    "choices": [
+      "Stay in cab and call dispatch",
+      "Get out and away from tracks, then notify emergency services with crossing location",
+      "Back repeatedly until free",
+      "Uncouple trailer immediately"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 6.1.4 says leave the vehicle and move away from tracks, then call emergency services and provide crossing details (including DOT number if posted)."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Backing with Trailer",
+    "question": "When backing a trailer on a curved path, which side is preferred?",
+    "choices": [
+      "Passenger side",
+      "Driver side",
+      "Either side equally",
+      "Never on curves"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 6.1.7 recommends backing on the driver's side when curving so visibility is better."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Dummy Couplers",
+    "question": "What is the purpose of dummy (dead-end) couplers when air lines are not connected to a trailer?",
+    "choices": [
+      "Increase line pressure",
+      "Keep dirt and water out of glad hands and lines",
+      "Color-code emergency line",
+      "Automatically test trailer brakes"
+    ],
+    "answer_index": 1,
+    "explanation": "Dummy couplers protect air-line ends from contamination when not connected."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer Without Spring Brakes",
+    "question": "Why are wheel chocks essential when parking trailers without spring brakes?",
+    "choices": [
+      "To improve fuel economy",
+      "Emergency brakes may release as trailer air leaks away",
+      "To reduce ABS lamp faults",
+      "To prevent glad hand crossing"
+    ],
+    "answer_index": 1,
+    "explanation": "Older trailers without spring brakes can lose stored air and lose braking force, so chocks are required to prevent movement."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Coupling - Angle Risk",
+    "question": "Why should you never back under a semitrailer at an angle during coupling?",
+    "choices": [
+      "It increases ABS response",
+      "It can push trailer sideways and damage landing gear",
+      "It closes fifth wheel jaws too early",
+      "It lowers air pressure"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 6.4.1 warns angled backing can shove the trailer sideways and damage landing gear."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Landing Gear Position",
+    "question": "What is the safety concern if landing gear is only partially raised before driving?",
+    "choices": [
+      "It can catch on tracks or obstacles",
+      "It improves turning radius",
+      "It reduces trailer sway",
+      "No safety concern"
+    ],
+    "answer_index": 0,
+    "explanation": "Landing gear must be fully raised before travel; partial position can strike railroad crossings or other obstructions."
   }
 ]

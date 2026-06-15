@@ -206,7 +206,7 @@
       "Must be at least 1.0 times the cargo weight",
       "Must be at least 1.5 times the cargo weight"
     ],
-    "answer_index": 3,
+    "answer_index": 1,
     "explanation": "The aggregate working load limit must be at least one-half times the weight - federal regulations require this important safety factor."
   },
   {
@@ -222,5 +222,551 @@
     ],
     "answer_index": 2,
     "explanation": "GCWR is the maximum combined weight of the power unit and all towed units together as specified by the manufacturer."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Driver Responsibilities - Cargo",
+    "question": "Which of the following is NOT a driver responsibility regarding cargo?",
+    "choices": [
+      "Inspecting your cargo",
+      "Recognizing overloads and poorly balanced weight",
+      "Knowing your cargo is properly secured",
+      "Determining the price of the cargo"
+    ],
+    "answer_index": 3,
+    "explanation": "Drivers are responsible for inspecting cargo, recognizing overloads/balance issues, ensuring proper securement, and ensuring cargo doesn't obscure views or block emergency equipment access. Pricing is not a driver responsibility."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Driver Responsibilities - View",
+    "question": "What view restriction must you prevent?",
+    "choices": [
+      "Only side mirrors",
+      "Only rear view",
+      "Your cargo should not obscure your view ahead or to the sides",
+      "Cargo height only"
+    ],
+    "answer_index": 2,
+    "explanation": "You are responsible for ensuring your cargo does not obscure your view ahead or to the sides, and does not restrict access to emergency equipment."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Vehicle Inspection - Overload Check",
+    "question": "As part of vehicle inspection, what should you verify about the load?",
+    "choices": [
+      "Only the color of the load",
+      "That the truck is not overloaded and cargo is balanced and secured",
+      "Only that cargo is covered",
+      "That the load matches the invoice"
+    ],
+    "answer_index": 1,
+    "explanation": "As part of your vehicle inspection, you must make sure the truck is not overloaded and the cargo is balanced and secured properly."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Axle Weight Definition",
+    "question": "What is axle weight?",
+    "choices": [
+      "The weight of an empty axle assembly",
+      "The weight transmitted to the ground by one axle or one set of axles",
+      "The total weight of the vehicle",
+      "The weight on just the steering axle"
+    ],
+    "answer_index": 1,
+    "explanation": "Axle weight is the weight transmitted to the ground by one axle or one set of axles and is a critical safety measurement."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Tire Load Definition",
+    "question": "What is tire load?",
+    "choices": [
+      "The air pressure inside the tire",
+      "The maximum safe weight a tire can carry at a specified pressure, stated on the tire",
+      "The total weight of the vehicle",
+      "The weight on one wheel only"
+    ],
+    "answer_index": 1,
+    "explanation": "Tire load is the maximum safe weight a tire can carry at a specified pressure. This rating is stated on the side of each tire."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Suspension System Capacity",
+    "question": "What rating do suspension systems have?",
+    "choices": [
+      "No rating; suspension can handle any load",
+      "Only a tire pressure rating",
+      "A manufacturer's weight capacity rating",
+      "A speed-only rating"
+    ],
+    "answer_index": 2,
+    "explanation": "Suspension systems have a manufacturer's weight capacity rating that must not be exceeded."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Coupling Device Capacity",
+    "question": "What determines the maximum weight a coupling device can handle?",
+    "choices": [
+      "The age of the coupling device",
+      "A rating for the maximum weight the coupling can pull and/or carry",
+      "The paint color of the coupling",
+      "The manufacturer's tractor size"
+    ],
+    "answer_index": 1,
+    "explanation": "Coupling devices are rated for the maximum weight they can pull and/or carry, and this rating must not be exceeded."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Legal Weight Limits",
+    "question": "Which agency typically sets maximum axle weights for vehicles?",
+    "choices": [
+      "The truck driver",
+      "The shipper of the cargo",
+      "Individual states often using a bridge formula",
+      "The vehicle manufacturer only"
+    ],
+    "answer_index": 2,
+    "explanation": "States have maximum weights for GVWRs, GCWRs, and axle weights. Often, maximum axle weights are set by a bridge formula."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Bridge Formula Purpose",
+    "question": "What is the purpose of the bridge formula for weight limits?",
+    "choices": [
+      "To weigh bridges before loading",
+      "To prevent overloading of bridges and roadways by varying axle weight limits based on axle spacing",
+      "To calculate fuel consumption",
+      "To determine speed limits"
+    ],
+    "answer_index": 1,
+    "explanation": "A bridge formula permits less maximum axle weight for axles that are closer together, preventing overloading of bridges and roadways."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Overloading Effects",
+    "question": "What effect does overloading have on vehicle control?",
+    "choices": [
+      "It improves steering and braking",
+      "It has no effect on vehicle handling",
+      "Bad effects on steering, braking, and speed control; brakes can fail from overwork",
+      "It only affects fuel consumption"
+    ],
+    "answer_index": 2,
+    "explanation": "Overloading can have bad effects on steering, braking, and speed control. Overloaded trucks may go too slowly on upgrades or gain too much speed on downgrades. Stopping distance increases and brakes can fail when forced to work too hard."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Overload - Mountain Driving",
+    "question": "In what conditions might it not be safe to operate at legal maximum weights?",
+    "choices": [
+      "Only on Sundays",
+      "Never; legal weights are always safe",
+      "During bad weather or in mountains",
+      "Only on interstate highways"
+    ],
+    "answer_index": 2,
+    "explanation": "During bad weather or in mountains, it may not be safe to operate at legal maximum weights. Drivers should take this into account before driving."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Too Much Weight - Steering Axle",
+    "question": "What happens when there is too much weight on the steering axle?",
+    "choices": [
+      "Easy steering",
+      "Hard steering and damage to steering axle and tires",
+      "Improved braking",
+      "Better traction"
+    ],
+    "answer_index": 1,
+    "explanation": "Too much weight on the steering axle can cause hard steering and can damage the steering axle and tires."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Weight Shift - Rollover Risk",
+    "question": "What loading error creates the greatest rollover risk?",
+    "choices": [
+      "Too much weight on the front axle",
+      "Even distribution of weight",
+      "A high center of gravity caused by loading cargo on top",
+      "Too much weight on the driving axles"
+    ],
+    "answer_index": 2,
+    "explanation": "Weight loaded so there is a high center of gravity causes a greater chance of rollover, especially in curves or during swerving maneuvers."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Blocking - Definition and Purpose",
+    "question": "What is blocking and what is its purpose?",
+    "choices": [
+      "A type of truck brake",
+      "Used in front, back, and/or sides to keep cargo from sliding; secured to cargo deck",
+      "Covering for the cargo",
+      "A tarp arrangement"
+    ],
+    "answer_index": 1,
+    "explanation": "Blocking is used in the front, back, and/or sides of cargo to keep it from sliding. It is shaped to fit snugly against cargo and is secured to the cargo deck."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Bracing - Definition and Purpose",
+    "question": "What is bracing and where is it placed?",
+    "choices": [
+      "A type of tire support",
+      "Covering to protect cargo",
+      "Goes from the upper part of cargo to the floor and/or walls to prevent movement",
+      "A weight distribution system"
+    ],
+    "answer_index": 2,
+    "explanation": "Bracing is used to prevent movement of cargo and goes from the upper part of the cargo to the floor and/or walls of the cargo compartment."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Tie-down - Equipment Types",
+    "question": "Which of the following is proper tie-down equipment?",
+    "choices": [
+      "Only chains",
+      "Ropes, straps, chains, and tensioning devices (winches, ratchets)",
+      "Only ropes",
+      "Wire only"
+    ],
+    "answer_index": 1,
+    "explanation": "Proper tie-down equipment includes ropes, straps, chains, and tensioning devices such as winches, ratchets, and clinching components."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Tie-down - Attachment Points",
+    "question": "Where must tie-downs be attached to the vehicle?",
+    "choices": [
+      "Any convenient location on the cargo",
+      "Only to hooks, bolts, rails, or rings designed for tie-down",
+      "Only to the bumper",
+      "Anywhere on the frame"
+    ],
+    "answer_index": 1,
+    "explanation": "Tie-downs must be attached to the vehicle correctly using hooks, bolts, rails, and rings specifically designed for securing cargo."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Covering - Purposes",
+    "question": "What are the two basic reasons for covering cargo?",
+    "choices": [
+      "To hide the cargo and reduce weight",
+      "To protect people from spilled cargo and to protect cargo from weather",
+      "To increase cargo value and reduce fuel consumption",
+      "To prevent theft and improve aerodynamics"
+    ],
+    "answer_index": 1,
+    "explanation": "The two basic reasons for covering cargo are: to protect people from spilled cargo (safety requirement in many states) and to protect the cargo from weather."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Covering - Monitoring",
+    "question": "What should you monitor while driving regarding your cargo cover?",
+    "choices": [
+      "The color of the cover only",
+      "Whether the cover has faded",
+      "A flapping cover that could tear loose, uncover cargo, or block views",
+      "Only the tightness of the tie-downs"
+    ],
+    "answer_index": 2,
+    "explanation": "You should look at your cargo covers in the mirrors from time to time while driving. A flapping cover can tear loose, uncover cargo, and possibly block your view or someone else's."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Header Board - Function",
+    "question": "What is the critical function of a header board?",
+    "choices": [
+      "To increase cargo capacity",
+      "To block the forward movement of any cargo in a crash or emergency stop",
+      "To reduce wind resistance",
+      "To protect the roof from damage"
+    ],
+    "answer_index": 1,
+    "explanation": "The front-end structure/header board should block the forward movement of any cargo you carry in a crash or emergency stop."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Header Board - Inspection",
+    "question": "What condition must a header board be in?",
+    "choices": [
+      "Any condition is acceptable",
+      "It must be freshly painted",
+      "In good condition to properly protect the driver",
+      "Only checked after an accident"
+    ],
+    "answer_index": 2,
+    "explanation": "Make sure the front-end structure is in good condition so it can properly block the forward movement of cargo."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Spill Protection - Legal Requirement",
+    "question": "Is spill protection a legal requirement?",
+    "choices": [
+      "Never required",
+      "Only on highways",
+      "Required in many states; know the rules where you drive",
+      "Only for hazardous materials"
+    ],
+    "answer_index": 2,
+    "explanation": "Spill protection is a safety requirement in many states. Be familiar with the laws in the states you drive in."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Sealed/Containerized Loads - Inspection",
+    "question": "What is the key difference in inspecting sealed/containerized loads?",
+    "choices": [
+      "You can inspect each item individually",
+      "You cannot inspect sealed loads, but you must verify weights",
+      "No inspection is necessary for sealed loads",
+      "You must open sealed loads to verify contents"
+    ],
+    "answer_index": 1,
+    "explanation": "You cannot inspect sealed loads, but you should check that you don't exceed gross weight and axle weight limits."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Containerized Loads - Use",
+    "question": "When are containerized loads typically used?",
+    "choices": [
+      "Only for local delivery",
+      "When freight is carried part way by rail or ship with truck delivery at beginning/end",
+      "Only for dry goods",
+      "Never for long distances"
+    ],
+    "answer_index": 1,
+    "explanation": "Containerized loads are generally used when freight is carried part way by rail or ship. Delivery by truck occurs at the beginning and/or end of the journey."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Containerized Loads - Securement",
+    "question": "How are containerized loads secured?",
+    "choices": [
+      "They don't need securement",
+      "With special tie-down devices/locks, or like any other cargo on flatbeds",
+      "Only with ropes",
+      "They're sealed so no securement is needed"
+    ],
+    "answer_index": 1,
+    "explanation": "Some containers have their own tie-down devices or locks that attach to a special frame. Others must be loaded onto flatbed trailers and secured just like any other cargo."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Dry Bulk - Cargo Shifting",
+    "question": "Why can cargo shift in a dry bulk tank?",
+    "choices": [
+      "Because dry bulk is always light",
+      "Because dry bulk tanks have a high center of gravity and loose cargo can shift",
+      "Shifting never occurs in dry bulk",
+      "Due to cargo color"
+    ],
+    "answer_index": 1,
+    "explanation": "Dry bulk tanks require special care because they have a high center of gravity, and the load can shift easily, especially around curves."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Dry Bulk - Driving Precautions",
+    "question": "What driving precautions are required for dry bulk loads?",
+    "choices": [
+      "Normal driving is fine",
+      "Extreme caution—drive slowly and carefully around curves and making sharp turns",
+      "Speed up to prevent shifting",
+      "Only drive at night"
+    ],
+    "answer_index": 1,
+    "explanation": "Be extremely cautious (slow and careful) when going around curves and making sharp turns with dry bulk loads due to the high center of gravity and shifting risk."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Hanging Meat - Instability",
+    "question": "What causes hanging meat to be an unstable load?",
+    "choices": [
+      "The refrigeration system",
+      "Low center of gravity",
+      "Very high center of gravity and the suspended weight swinging like a pendulum",
+      "The packaging method"
+    ],
+    "answer_index": 2,
+    "explanation": "Hanging meat in a refrigerated truck is very unstable because of its high center of gravity and because the suspended beef, pork, or lamb can swing like a pendulum."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Hanging Meat - Special Precautions",
+    "question": "What special care is needed when hauling hanging meat?",
+    "choices": [
+      "Normal driving is acceptable",
+      "Particular caution on sharp curves such as off/on ramps; go slowly",
+      "Maximize speed to keep refrigeration working",
+      "Drive only during daylight hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Particular caution is needed on sharp curves such as off ramps and on ramps. Go slowly with hanging meat loads."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Livestock - Movement Hazard",
+    "question": "What hazard does livestock present during transport?",
+    "choices": [
+      "Livestock cannot move in a trailer",
+      "Livestock can move around causing unsafe handling, especially on curves where they lean, shifting center of gravity",
+      "Livestock always stays still",
+      "No hazards from livestock"
+    ],
+    "answer_index": 1,
+    "explanation": "Livestock can move around in a trailer causing unsafe handling. Even when bunched together, they can lean on curves, shifting the center of gravity and making rollover more likely."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Livestock - Load Not Full",
+    "question": "How do you prevent livestock from moving in a partially full load?",
+    "choices": [
+      "Simply add more livestock",
+      "Use false bulkheads to keep livestock bunched together",
+      "Let them move freely",
+      "Drive very slowly at all times"
+    ],
+    "answer_index": 1,
+    "explanation": "With less than a full load, use false bulkheads to keep livestock bunched together and prevent dangerous movement and shifting."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Livestock - Care Required",
+    "question": "Even with livestock bunched together, what special care is necessary?",
+    "choices": [
+      "No special care is needed",
+      "Normal driving speed is appropriate",
+      "Special care because livestock can lean on curves, shifting center of gravity and increasing rollover risk",
+      "Drive as fast as safely possible"
+    ],
+    "answer_index": 2,
+    "explanation": "Even when bunched together, special care is necessary because livestock can lean on curves. This shifts the center of gravity and makes rollover more likely."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Oversized Loads - Permits",
+    "question": "What is required for over-length, over-width, or overweight loads?",
+    "choices": [
+      "No special requirements",
+      "Special transit permits; driving usually limited to certain times",
+      "Only notification to the shipper",
+      "A change in vehicle registration only"
+    ],
+    "answer_index": 1,
+    "explanation": "Over-length, over-width, and/or overweight loads require special transit permits. Driving is usually limited to certain times."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Oversized Loads - Equipment",
+    "question": "What special equipment may be needed for oversized loads?",
+    "choices": [
+      "Only standard tie-down equipment",
+      "Wide load signs, flashing lights, flags, police escort, or pilot vehicles",
+      "Just an extra tarp",
+      "Nothing special beyond standard equipment"
+    ],
+    "answer_index": 1,
+    "explanation": "Special equipment may be necessary such as 'wide load' signs, flashing lights, flags, etc. Such loads may require a police escort or pilot vehicles bearing warning signs and/or flashing lights."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Oversized Loads - Driving",
+    "question": "What type of driving is required for oversized loads?",
+    "choices": [
+      "Normal driving speeds and routes",
+      "Maximum speed for efficiency",
+      "Special driving care following special transit permit conditions and required equipment",
+      "Only night driving"
+    ],
+    "answer_index": 2,
+    "explanation": "These special loads require special driving care. Drivers must follow the permit conditions and use all required equipment like signs, lights, and escorts."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "GCWR vs Actual Combined Weight",
+    "question": "How is Gross Combination Weight Rating (GCWR) different from gross combination weight (actual)?",
+    "choices": [
+      "GCWR is actual scale weight; gross combination weight is manufacturer rating",
+      "GCWR is a manufacturer/rule-based rating limit; gross combination weight is the actual measured combined weight",
+      "They are always exactly the same",
+      "Gross combination weight applies only to empty vehicles"
+    ],
+    "answer_index": 1,
+    "explanation": "GCWR is the allowed/rated combined value, while gross combination weight is what the combination actually weighs at a given time."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Underloaded Front Axle",
+    "question": "What can happen if too much weight shifts to the rear and the front axle becomes underloaded?",
+    "choices": [
+      "Steering improves",
+      "The steering axle may be too light to steer safely",
+      "Braking distance always shortens",
+      "Tire load rating increases"
+    ],
+    "answer_index": 1,
+    "explanation": "Shifting weight too far back can underload the front axle, reducing steering effectiveness and control."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Rules by Location",
+    "question": "Why must drivers know cargo securement and weight rules for each place they drive?",
+    "choices": [
+      "Rules are identical everywhere",
+      "Federal, state, and local cargo/weight/covering rules can vary by location",
+      "Only city rules apply",
+      "Only manufacturer limits matter"
+    ],
+    "answer_index": 1,
+    "explanation": "Cargo weight, securement, covering, and route rules vary by jurisdiction, so drivers must know the rules where they operate."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Heavy Metal Securement",
+    "question": "What should you do before hauling heavy pieces of metal?",
+    "choices": [
+      "Use normal tie-downs only",
+      "Find and follow the special securement requirements for those loads",
+      "Reduce speed and skip extra securement",
+      "Load them on top for visibility"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide notes special securement requirements exist for various heavy metal loads and must be followed."
   }
 ]

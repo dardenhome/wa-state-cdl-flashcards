@@ -194,5 +194,201 @@
     ],
     "answer_index": 1,
     "explanation": "Tankers can rollover at speeds posted for regular vehicles due to their high center of gravity, so they must take curves well below posted speeds."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Tank Endorsement Threshold",
+    "question": "A tank endorsement is generally required when tanks have what capacities?",
+    "choices": [
+      "Over 55 gallons each and 500 aggregate",
+      "Over 119 gallons each and 1,000 gallons aggregate",
+      "Over 100 gallons each and any aggregate",
+      "Any tank over 10 gallons"
+    ],
+    "answer_index": 1,
+    "explanation": "The tank endorsement threshold is generally individual tank rated capacity over 119 gallons and aggregate capacity of 1,000 gallons or more."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Valve Position Check",
+    "question": "Before loading, unloading, or moving a tank vehicle, what must be verified about valves?",
+    "choices": [
+      "All valves open",
+      "Valves are in the correct positions",
+      "Only emergency valve checked",
+      "Valve position does not matter"
+    ],
+    "answer_index": 1,
+    "explanation": "Intake, discharge, and cut-off valves must be confirmed in correct positions before loading, unloading, or moving."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Manhole and Vent Inspection",
+    "question": "What should be checked on manhole covers and vents?",
+    "choices": [
+      "Only paint condition",
+      "Gaskets present, covers close correctly, vents remain clear",
+      "Only vent cap color",
+      "Nothing unless leaking"
+    ],
+    "answer_index": 1,
+    "explanation": "Manhole covers should have good gaskets and seal correctly, and vents must be clear to function safely."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Special Purpose Equipment",
+    "question": "Which item is listed as special-purpose tank equipment to check?",
+    "choices": [
+      "Cruise control",
+      "Grounding and bonding cables",
+      "Heated mirrors",
+      "Sleeper curtains"
+    ],
+    "answer_index": 1,
+    "explanation": "Special-purpose equipment checks include vapor recovery kits, grounding and bonding cables, emergency shutoff systems, and built-in extinguishers."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Open Covers/Valves",
+    "question": "What is the rule about driving with open valves or manhole covers?",
+    "choices": [
+      "Allowed if route is short",
+      "Allowed under 25 mph",
+      "Never drive with open valves or manhole covers",
+      "Allowed only when empty"
+    ],
+    "answer_index": 2,
+    "explanation": "Driving with open valves or manhole covers is prohibited because it creates severe spill and safety hazards."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Bulkheads vs Baffles",
+    "question": "How are bulkheads and baffles different in tank vehicles?",
+    "choices": [
+      "They are the same",
+      "Bulkheads divide into separate smaller tanks; baffles have holes to reduce fore-aft surge",
+      "Baffles create separate tanks, bulkheads reduce surge",
+      "Neither affects liquid movement"
+    ],
+    "answer_index": 1,
+    "explanation": "Bulkheads divide tanks into compartments, while baffles with openings reduce forward/back surge but do not eliminate side-to-side movement."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Stopping Distance in Tankers",
+    "question": "Which statement about stopping distance for tank vehicles is correct?",
+    "choices": [
+      "Empty tanks always stop shorter",
+      "Wet roads can double stopping distance, and empties may take longer to stop than full",
+      "Tankers always stop like passenger cars",
+      "Stopping distance is unrelated to load"
+    ],
+    "answer_index": 1,
+    "explanation": "Tank vehicle stopping distance is affected by road conditions and load behavior; wet roads increase stopping distance significantly, and empties may stop longer than full tanks."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Tank Endorsement - Class C",
+    "question": "When is a tank endorsement required for a Class C vehicle?",
+    "choices": [
+      "Never for Class C vehicles",
+      "Only when carrying non-hazardous liquids",
+      "When used to transport hazardous materials in liquid or gas form in qualifying tanks",
+      "Only if vehicle is over 26,001 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 8 states tank endorsement is also required for Class C vehicles transporting hazardous materials in liquid/gas form in the specified rated tanks."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Leak Consequences",
+    "question": "What can happen if you transport liquid or gas in a leaking tank?",
+    "choices": [
+      "Nothing if leak is minor",
+      "You may be cited, stopped from driving further, and liable for cleanup",
+      "Only a verbal warning",
+      "Only shipper is responsible"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide says carrying in a leaking tank is a crime; you can be cited, prevented from driving further, and held liable for cleanup."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Bulkheads - Weight Distribution",
+    "question": "When loading/unloading tanks divided by bulkheads, what must the driver watch closely?",
+    "choices": [
+      "Paint condition",
+      "Weight distribution to avoid too much front or rear weight",
+      "Only tire tread",
+      "Engine temperature only"
+    ],
+    "answer_index": 1,
+    "explanation": "With bulkhead compartments, driver must manage weight distribution and avoid placing too much weight on front or rear."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Drive Smoothly",
+    "question": "Which driving style is recommended for tank vehicles due to high center of gravity and surge?",
+    "choices": [
+      "Hard starts and late braking",
+      "Smooth starts, stops, turns, and lane changes",
+      "Rapid lane changes to avoid surge",
+      "Pump brakes continuously"
+    ],
+    "answer_index": 1,
+    "explanation": "Safe tank operation requires smooth control inputs because surge and top-heaviness magnify abrupt maneuvers."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Curve Technique",
+    "question": "What is the recommended curve technique for tank vehicles?",
+    "choices": [
+      "Brake in the middle of the curve",
+      "Speed up before and during the curve",
+      "Slow before curves, then accelerate slightly through the curve",
+      "Use parking brake entering curve"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 8.3.3 says to slow down before curves and then accelerate slightly through them."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Following Distance",
+    "question": "What following-distance change is recommended for tank vehicles when controlling surge?",
+    "choices": [
+      "Decrease following distance",
+      "No change needed",
+      "Increase following distance and brake well in advance",
+      "Follow closely to reduce splash"
+    ],
+    "answer_index": 2,
+    "explanation": "To control surge and avoid hard stops, brake far in advance and increase following distance."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Skids and Jackknife",
+    "question": "What actions increase skid or jackknife risk in tank trailers?",
+    "choices": [
+      "Smooth steering and braking",
+      "Oversteering, over-accelerating, or over-braking",
+      "Maintaining proper speed",
+      "Keeping steady brake pressure"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 8.3.5 warns that oversteer, over-acceleration, and over-braking can cause skids; tank trailer wheel skids can lead to jackknife."
   }
 ]

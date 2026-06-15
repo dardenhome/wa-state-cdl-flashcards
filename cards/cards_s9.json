@@ -334,5 +334,355 @@
     ],
     "answer_index": 1,
     "explanation": "Hazmat placards are diamond-shaped (rotated square) warning signs that must be properly displayed."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Intent of Regulations",
+    "question": "What are the two major purposes of hazmat regulations?",
+    "choices": [
+      "Increase transport speed and lower cost",
+      "Contain the material and communicate the risk",
+      "Reduce paperwork and inspections",
+      "Standardize truck colors"
+    ],
+    "answer_index": 1,
+    "explanation": "The regulations focus on containment rules and communication rules so hazards are packaged safely and clearly communicated."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Driver Responsibilities",
+    "question": "Which is a driver responsibility when hauling hazmat?",
+    "choices": [
+      "Assigning hazard class",
+      "Refusing leaking packages and improper shipments",
+      "Creating package labels",
+      "Issuing permits"
+    ],
+    "answer_index": 1,
+    "explanation": "Drivers must verify proper preparation, refuse leaking packages/shipments, placard when required, and transport safely without delay."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Shipping Paper While Driving",
+    "question": "While driving, where must hazmat shipping papers be kept?",
+    "choices": [
+      "Locked in trailer",
+      "In clear view within immediate reach while seat belt is fastened",
+      "In sleeper storage",
+      "With personal logbook in luggage"
+    ],
+    "answer_index": 1,
+    "explanation": "Rules require shipping papers to be readily accessible while driving and on driver's seat or door pouch when out of vehicle."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazmat Entry Sequence",
+    "question": "If a shipping paper has both hazmat and non-hazmat items, how can hazmat entries be shown?",
+    "choices": [
+      "Only listed at the bottom",
+      "Entered first, highlighted, or marked with X/RQ in HM column",
+      "Written in pencil",
+      "No special format needed"
+    ],
+    "answer_index": 1,
+    "explanation": "Hazmat entries must be clearly identifiable: first, highlighted, or designated with X/RQ in an HM column."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Placard Placement Rules",
+    "question": "Which placard placement rule is correct?",
+    "choices": [
+      "Placards may be covered by equipment",
+      "Placards should be level, readable, and clear of ladders/tarps/attachments",
+      "Only rear placard must be readable",
+      "Any slogan can be printed over placards"
+    ],
+    "answer_index": 1,
+    "explanation": "Placards must be easily seen, level/readable, clear of obstructions, undamaged, and on contrasting backgrounds."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Poison Inhalation Placards",
+    "question": "If INHALATION HAZARD appears on shipping papers or package, what placarding rule applies?",
+    "choices": [
+      "No placards required under 1,001 pounds",
+      "Display POISON GAS or POISON INHALATION placard in addition to other required placards",
+      "Use only DANGEROUS placard",
+      "Use CORROSIVE placard only"
+    ],
+    "answer_index": 1,
+    "explanation": "Inhalation hazards require POISON GAS or POISON INHALATION placards in addition to hazard-class placards; weight exception does not apply."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Marine Pollutant Marking",
+    "question": "How is a marine pollutant bulk package marked?",
+    "choices": [
+      "Blue square only",
+      "White triangle with fish and an X through the fish",
+      "Green circle",
+      "Orange star"
+    ],
+    "answer_index": 1,
+    "explanation": "Marine pollutants use a specific marking (not a placard): white triangle with fish symbol crossed out."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazardous Waste Manifest",
+    "question": "When transporting hazardous waste, what document must the driver carry and sign?",
+    "choices": [
+      "Vehicle registration",
+      "Uniform Hazardous Waste Manifest",
+      "Trip permit only",
+      "Fuel receipt log"
+    ],
+    "answer_index": 1,
+    "explanation": "Hazardous waste shipments require a Uniform Hazardous Waste Manifest with required hand signatures and chain of custody."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "General Loading",
+    "question": "Before loading or unloading hazmat, what should be done first?",
+    "choices": [
+      "Open all valves",
+      "Set parking brake and secure vehicle against movement",
+      "Start cargo heater",
+      "Disconnect trailer lights"
+    ],
+    "answer_index": 1,
+    "explanation": "Before loading/unloading, set the parking brake and make sure the vehicle cannot move."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Leaking Packages",
+    "question": "What is the rule for transporting leaking hazmat packages?",
+    "choices": [
+      "Allowed if leak is minor",
+      "Allowed only with extra placards",
+      "Illegal; do not transport leaking packages",
+      "Allowed within city limits only"
+    ],
+    "answer_index": 2,
+    "explanation": "Leaking hazardous materials packages must be refused and not transported."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Class 7 Proximity Control",
+    "question": "What value is used to control loading distance/proximity for radioactive packages?",
+    "choices": [
+      "Packing group",
+      "Transport index",
+      "UN number parity",
+      "Gross package weight only"
+    ],
+    "answer_index": 1,
+    "explanation": "Class 7 packages use transport index values to control spacing and total exposure limits during transport."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Do Not Load Rule",
+    "question": "What is a correct Do Not Load rule from hazmat segregation guidance?",
+    "choices": [
+      "Nitric acid may be loaded above any product",
+      "Cyanides may be loaded with acids",
+      "Do not load nitric acid above other products",
+      "Poison gas may be loaded with food"
+    ],
+    "answer_index": 2,
+    "explanation": "A key segregation rule is not loading nitric acid above any other product. Additional incompatibility rules also apply."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Portable Tank Marking Size",
+    "question": "For portable tanks over 1,000 gallons, shipping-name letters must be at least how tall?",
+    "choices": [
+      "1 inch",
+      "2 inches",
+      "3 inches",
+      "4 inches"
+    ],
+    "answer_index": 1,
+    "explanation": "Portable tanks over 1,000 gallons must display shipping-name lettering at least two inches tall (one inch for less than 1,000 gallons)."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Qualified Tank Attendance",
+    "question": "During cargo tank loading/unloading, the attending person must be all of the following EXCEPT:",
+    "choices": [
+      "Alert and within 25 feet with clear view",
+      "Knowledgeable of hazards and emergency procedures",
+      "Authorized and able to move the cargo tank",
+      "Inside the cargo tank compartment"
+    ],
+    "answer_index": 3,
+    "explanation": "The qualified person must remain alert, have clear view, stay within 25 feet, know hazards/procedures, and be able/authorized to move the tank."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Flammable Liquid Grounding",
+    "question": "When loading flammable liquids through an open filling hole, when must cargo tank grounding be in place?",
+    "choices": [
+      "After opening the filling hole only",
+      "Before opening and maintained until after closing",
+      "Only while pumping",
+      "Grounding is optional"
+    ],
+    "answer_index": 1,
+    "explanation": "Ground the cargo tank before opening the fill hole and maintain grounding until after the hole is closed."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Compressed Gas Transfer",
+    "question": "After compressed-gas product transfer using engine-driven pump, when should the engine be turned off?",
+    "choices": [
+      "After unhooking the hose",
+      "Before unhooking the hose",
+      "Engine may remain running",
+      "Only after coupling to next trailer"
+    ],
+    "answer_index": 1,
+    "explanation": "If engine runs transfer pump, turn it off after product transfer and before unhooking hose connections."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Explosives Parking Distance",
+    "question": "How close may you park Division 1.1, 1.2, or 1.3 explosives to the traveled part of roadway?",
+    "choices": [
+      "Within 1 foot",
+      "Within 3 feet",
+      "Never within 5 feet",
+      "Within 10 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "You must never park Division 1.1, 1.2, or 1.3 explosives within five feet of the traveled part of the road."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "No Flares Rule",
+    "question": "Which stopped-vehicle warning device is prohibited around certain hazmat loads?",
+    "choices": [
+      "Reflective triangles",
+      "Red electric warning lights",
+      "Burning signals such as flares or fusees",
+      "Flashlight"
+    ],
+    "answer_index": 2,
+    "explanation": "Burning signals are prohibited around flammable tanks and certain explosives; use reflective triangles or red electric lights instead."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Route Restrictions",
+    "question": "When placarded, which route behavior is recommended unless no alternative exists?",
+    "choices": [
+      "Use busiest urban streets for visibility",
+      "Avoid heavily populated areas, tunnels, narrow streets, and alleys",
+      "Always take shortest path regardless of risk",
+      "Follow passenger vehicle routes"
+    ],
+    "answer_index": 1,
+    "explanation": "Placarded vehicles should avoid heavily populated and constrained areas when possible."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Explosives Route Plan",
+    "question": "Transporting Division 1.1, 1.2, or 1.3 explosives requires what planning document?",
+    "choices": [
+      "A verbal route",
+      "A written route plan",
+      "No route planning needed",
+      "Only GPS history"
+    ],
+    "answer_index": 1,
+    "explanation": "Carriers must prepare a written route plan for these explosive classes, and drivers must follow it."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Refueling Rule",
+    "question": "When refueling a motor vehicle containing hazardous materials, what is required?",
+    "choices": [
+      "Engine may idle",
+      "Engine off and someone must control nozzle at all times",
+      "No special requirement",
+      "Driver may leave nozzle unattended briefly"
+    ],
+    "answer_index": 1,
+    "explanation": "Engine must be off before fueling and someone must stay at the nozzle controlling fuel flow."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Chlorine Equipment",
+    "question": "A driver transporting chlorine in cargo tanks must carry which equipment?",
+    "choices": [
+      "Only reflective triangles",
+      "Approved gas mask and emergency leak-control kit for dome cover fittings",
+      "Only an extra fire extinguisher",
+      "Only a tire chain set"
+    ],
+    "answer_index": 1,
+    "explanation": "Chlorine cargo tank operations require an approved gas mask and emergency leak-control kit for dome cover plate fittings."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Rail Crossing Stop Conditions",
+    "question": "Which vehicle/load condition requires stopping before railroad crossings under Section 9?",
+    "choices": [
+      "Only when carrying passengers",
+      "Placarded vehicle, any chlorine amount, or cargo tanks used for hazmat (loaded or empty)",
+      "Only at passive crossings",
+      "Only during daylight"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 9 requires stops for placarded vehicles, chlorine loads, and vehicles with cargo tanks used for hazardous materials (loaded or empty)."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Spill Response Priority",
+    "question": "If hazardous materials are leaking from your vehicle, what is the correct priority action?",
+    "choices": [
+      "Drive to nearest truck stop for phone",
+      "Park, secure area, stay there, and call/send for help",
+      "Continue route carefully",
+      "Repack leaking containers"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not continue driving to seek help if leaking; park safely, secure the scene, stay there, and get help."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Safe Haven",
+    "question": "What is a safe haven in hazardous materials transport?",
+    "choices": [
+      "Any truck stop",
+      "An approved place for unattended parking of vehicles loaded with explosives",
+      "A police escort route",
+      "A tunnel emergency lane"
+    ],
+    "answer_index": 1,
+    "explanation": "A safe haven is a location approved by authorities for unattended vehicles loaded with explosives."
   }
 ]

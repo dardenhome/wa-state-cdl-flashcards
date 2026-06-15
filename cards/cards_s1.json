@@ -198,34 +198,6 @@
   {
     "section": 1,
     "section_name": "Introduction",
-    "topic": "CLP Experience Requirements",
-    "question": "How many years of prior commercial driving experience do you need before you can take the CDL skills test with a Commercial Learner's Permit?",
-    "choices": [
-      "1 year",
-      "2 years",
-      "3 years",
-      "5 years"
-    ],
-    "answer_index": 1,
-    "explanation": "You must have at least 2 years of experience in the commercial driving class, plus at least 5 years of total driving experience."
-  },
-  {
-    "section": 1,
-    "section_name": "Introduction",
-    "topic": "Knowledge Test Valid Period",
-    "question": "For how long is a passed knowledge test (like the hazmat test) valid?",
-    "choices": [
-      "90 days",
-      "180 days",
-      "1 year",
-      "2 years"
-    ],
-    "answer_index": 1,
-    "explanation": "Knowledge test scores are valid for 180 days."
-  },
-  {
-    "section": 1,
-    "section_name": "Introduction",
     "topic": "Weight Limit - Tandem Axles",
     "question": "What is the maximum legal weight allowed on tandem axles that are less than 7 feet apart?",
     "choices": [
@@ -254,6 +226,34 @@
   {
     "section": 1,
     "section_name": "Introduction",
+    "topic": "Length Limit - Single vehicle or trailer in a combination",
+    "question": "What is the maximum allowable length for a single vehicle or trailer in a combination, withor without load?",
+    "choices": [
+      "53 feet",
+      "61 feet",
+      "65 feet",
+      "75 feet"
+    ],
+    "answer_index": 0,
+    "explanation": "A single vehicle or trailer in a combination cannot exceed 53 feet in total length."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Length Limit - Busses and other single motor vehicles",
+    "question": "What is the maximum allowable length for school buses and other single motor vehicles, except certain municipal transport buses?",
+    "choices": [
+      "53 feet",
+      "61 feet",
+      "40 feet",
+      "75 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "Busses and other single motor vehicles cannot exceed 40 feet in total length."
+  },  
+  {
+    "section": 1,
+    "section_name": "Introduction",
     "topic": "Tire Chain Requirements",
     "question": "During what months are tire chains required on commercial vehicles over 10,000 pounds GVWR?",
     "choices": [
@@ -264,5 +264,1251 @@
     ],
     "answer_index": 2,
     "explanation": "Tire chains are required from November 1 through April 1 for vehicles exceeding 10,000 pounds GVWR."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Length Limit - Truck and Trailer Combinations",
+    "question": "What is the maximum allowable length for truck and trailer combinations or log truck and stinger-steered pole trailers, with or without load?",
+    "choices": [
+      "53 feet",
+      "61 feet",
+      "65 feet",
+      "75 feet"
+    ],
+    "answer_index": 3,
+    "explanation": "Truck and trailer combinations or log truck and stinger-steered pole trailers cannot exceed 75 feet in overall length."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Extension - Behind Last Axle",
+    "question": "How many feet may a load extend behind the center of the last axle?",
+    "choices": [
+      "10 feet",
+      "15 feet",
+      "20 feet",
+      "25 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "Loads may not extend more than 15 feet behind the center of the last axle."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Extension - Front Bumper",
+    "question": "What is the maximum distance a load may extend beyond the front bumper?",
+    "choices": [
+      "1 foot",
+      "2 feet",
+      "3 feet",
+      "5 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "Loads may not extend more than 3 feet beyond the front bumper."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Marking - Side Extensions",
+    "question": "What must be used to mark loads extending beyond the sides of the vehicle?",
+    "choices": [
+      "White paint marks",
+      "Yellow reflective tape",
+      "12-inch red flags or red lights",
+      "Orange warning signs"
+    ],
+    "answer_index": 2,
+    "explanation": "Loads extending beyond the sides must be marked with either 12-inch red flags or with red lights."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Marking - Rear Extension Requirement",
+    "question": "How much may a load extend beyond the rear of the vehicle before it must be marked?",
+    "choices": [
+      "1 foot without marking required",
+      "2 feet without marking required",
+      "3 feet without marking required",
+      "4 feet without marking required"
+    ],
+    "answer_index": 3,
+    "explanation": "Loads extending more than 4 feet beyond the rear of the vehicle must have the extending portion marked with either 12-inch red flags or with red lights."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Marking - Rear Extension Markings",
+    "question": "What marking is required for loads extending more than 4 feet beyond the rear of the vehicle?",
+    "choices": [
+      "12-inch red flags or red lights",
+      "Yellow warning tape",
+      "Reflective paint",
+      "Orange caution signs"
+    ],
+    "answer_index": 0,
+    "explanation": "Loads extending more than 4 feet beyond the rear must be marked with either 12-inch red flags or with red lights."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Marking - Poor Visibility",
+    "question": "What additional marking is required for loads when visibility is poor?",
+    "choices": [
+      "Yellow lights and reflectors",
+      "Red lamps and reflectors",
+      "Strobe lights",
+      "Nothing additional is required"
+    ],
+    "answer_index": 1,
+    "explanation": "If visibility is poor, red lamps and reflectors are required for load markings."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Marking - Poles and Logs",
+    "question": "When hauling poles or logs, where must the red light be placed?",
+    "choices": [
+      "At the front of the load",
+      "At the center of the load",
+      "At the most extended point of the load",
+      "At both ends of the load"
+    ],
+    "answer_index": 2,
+    "explanation": "When you haul objects such as poles or logs, you must place a red light at the most extended point of the load."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Marking - Poles and Logs Light Type",
+    "question": "What type of light is required for poles or logs extending beyond the vehicle?",
+    "choices": [
+      "A single red light visible from the rear only",
+      "A combination light visible from the back and both sides",
+      "Two separate lights on each side",
+      "A flashing amber light"
+    ],
+    "answer_index": 1,
+    "explanation": "The light for poles or logs must be a combination light visible from the back and both sides."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Load Securement",
+    "question": "What must drivers do when operating any vehicle transporting a load on public highways?",
+    "choices": [
+      "Notify other drivers of the load",
+      "Securely fasten the load and the load's cover from becoming loose, detached, or hazardous",
+      "Reduce speed by 10 mph",
+      "Use hazard lights at all times"
+    ],
+    "answer_index": 1,
+    "explanation": "Drivers must securely fasten loads and covers to prevent them from becoming loose, detached, or hazardous to other drivers."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Freeboard Requirements",
+    "question": "What is the minimum freeboard required for vehicles loaded with dirt, sand, or gravel?",
+    "choices": [
+      "2 inches",
+      "4 inches",
+      "6 inches",
+      "8 inches"
+    ],
+    "answer_index": 2,
+    "explanation": "Vehicles loaded with dirt, sand, or gravel must maintain at least six inches of freeboard."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Freeboard - Load Settlement",
+    "question": "When must the six inches of freeboard be maintained for uncovered loads of dirt, sand, or gravel?",
+    "choices": [
+      "Only before loading",
+      "Only while loading",
+      "After the load has settled",
+      "Only on certain roads"
+    ],
+    "answer_index": 2,
+    "explanation": "For uncovered loads, the six inches of freeboard must be maintained after the load has settled."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Secured Cover Requirement",
+    "question": "Under what condition must a secured cover be placed on vehicles loaded with dirt, sand, or gravel?",
+    "choices": [
+      "Always, regardless of freeboard",
+      "When the load does not maintain at least six inches of freeboard",
+      "Only when traveling on interstate highways",
+      "Only during rain or poor weather"
+    ],
+    "answer_index": 1,
+    "explanation": "Vehicles loaded with dirt, sand, or gravel that do not maintain at least six inches of freeboard must have a secured cover."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Vehicle Debris Cleaning",
+    "question": "What debris must be removed from vehicles before driving on a paved public highway?",
+    "choices": [
+      "Only loose items from the bed",
+      "Mud, rock, or other debris from the body, fenders, frame, undercarriage, wheels, or tires",
+      "Only visible debris from the windshield",
+      "Nothing is required to be cleaned"
+    ],
+    "answer_index": 1,
+    "explanation": "Vehicles with deposits of mud, rock, or other debris on the body, fenders, frame, undercarriage, wheels, or tires must be cleaned before driving on a paved public highway."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Vehicle Cleaning Equipment",
+    "question": "What should drivers carry in their truck for cleaning purposes?",
+    "choices": [
+      "Fire extinguisher only",
+      "Proper equipment for cleaning debris",
+      "Only a broom",
+      "Reflective tape and markers"
+    ],
+    "answer_index": 1,
+    "explanation": "Proper equipment should be carried in the truck for cleaning purposes to remove debris from the vehicle before driving on paved highways."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Vehicle Width Limit",
+    "question": "What is the maximum allowable width for any vehicle, with or without its load?",
+    "choices": [
+      "7 feet (84 inches)",
+      "8 feet (96 inches)",
+      "8-1/2 feet (102 inches)",
+      "9 feet (108 inches)"
+    ],
+    "answer_index": 2,
+    "explanation": "No vehicle, with or without its load, may be more than 8-1/2 feet (102 inches) wide."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Rearview Mirror Extension",
+    "question": "How many inches may rearview mirrors extend beyond the extreme limits of the vehicle body?",
+    "choices": [
+      "2 inches",
+      "3 inches",
+      "5 inches",
+      "10 inches"
+    ],
+    "answer_index": 2,
+    "explanation": "Rearview mirrors may extend to no more than 5 inches beyond the extreme limits of the body."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Safety Equipment Extension",
+    "question": "What is the maximum extension allowed for safety equipment and parts such as door handles, mud flaps, and turn-signal brackets?",
+    "choices": [
+      "1 inch",
+      "2 inches",
+      "3 inches",
+      "5 inches"
+    ],
+    "answer_index": 2,
+    "explanation": "Safety equipment and parts such as door handles, door hinges, mud flaps, fender extensions, and turn-signal brackets may reach no more than 3 inches beyond the extreme limits of the body."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Vehicle Body Extension Limits",
+    "question": "Which of the following may extend up to 5 inches beyond the vehicle body?",
+    "choices": [
+      "Door handles",
+      "Mud flaps",
+      "Rearview mirrors",
+      "Fender extensions"
+    ],
+    "answer_index": 2,
+    "explanation": "Rearview mirrors are allowed to extend up to 5 inches beyond the body, while other equipment is limited to 3 inches."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Equipment Extension Limits",
+    "question": "Which of the following equipment is limited to 3 inches of extension beyond the vehicle body?",
+    "choices": [
+      "Rearview mirrors only",
+      "Door handles, hinges, mud flaps, and fender extensions",
+      "All safety equipment must extend at least 5 inches",
+      "Extension limits vary by equipment type"
+    ],
+    "answer_index": 1,
+    "explanation": "Door handles, door hinges, mud flaps, fender extensions, and turn-signal brackets may reach no more than 3 inches beyond the extreme limits of the body."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Vehicle Height Limit",
+    "question": "What is the maximum height allowed for any vehicle, including its load?",
+    "choices": [
+      "12 feet",
+      "13 feet",
+      "14 feet",
+      "16 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "No vehicle, including its load, may be more than 14 feet high."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Height Limit Exemptions",
+    "question": "Which of the following are exempt from the 14-foot vehicle height limit?",
+    "choices": [
+      "All commercial vehicles",
+      "Vehicles carrying hazardous materials",
+      "Emergency vehicles and utility repair equipment",
+      "Vehicles operated in rural areas"
+    ],
+    "answer_index": 2,
+    "explanation": "The 14-foot height limit does not apply to emergency vehicles or utility repair equipment."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tunnel and Overpass Clearance",
+    "question": "What should you do when approaching a tunnel or overpass on a new route with no clearance sign visible?",
+    "choices": [
+      "Drive slowly and proceed with caution",
+      "Safely pull off the road and check the clearance height",
+      "Proceed at normal speed, you know your vehicle height",
+      "Call dispatch for clearance information"
+    ],
+    "answer_index": 1,
+    "explanation": "When approaching a tunnel or overpass on a new route with no clearance sign visible, safely pull off the road and check the clearance height."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Clearance Awareness",
+    "question": "Why is it important to check clearance when driving in unfamiliar areas or bad weather?",
+    "choices": [
+      "To practice safe driving habits",
+      "To ensure there is enough clearance for your vehicle, as conditions may affect visibility",
+      "To avoid paying tolls",
+      "To conserve fuel"
+    ],
+    "answer_index": 1,
+    "explanation": "Always make sure there is enough clearance, especially when driving in unfamiliar areas or in bad weather."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Clearance Reduction Factors",
+    "question": "Which of the following may reduce the clearance that is normally enough to pass beneath a tunnel or overpass?",
+    "choices": [
+      "Time of day",
+      "Vehicle color",
+      "Ice, snow, or road repairs",
+      "Speed of travel"
+    ],
+    "answer_index": 2,
+    "explanation": "Ice, snow, or road repairs may reduce a clearance that is normally enough to pass beneath a tunnel or overpass."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Gross Weight - Determining Factors",
+    "question": "What factors determine the allowable gross weight of a bus or truck?",
+    "choices": [
+      "Engine size and horsepower",
+      "Tire size, number of axles, and spacing of axles",
+      "Vehicle age and manufacturer",
+      "Driver experience and license class"
+    ],
+    "answer_index": 1,
+    "explanation": "The allowable gross weight of a bus or truck depends on tire size, the number of axles, and the spacing of axles or axle groups."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Gross Weight - Tire Width Limit",
+    "question": "What is the maximum weight per inch of tire width allowed for standard tires on a vehicle?",
+    "choices": [
+      "400 pounds per inch",
+      "500 pounds per inch",
+      "600 pounds per inch",
+      "700 pounds per inch"
+    ],
+    "answer_index": 2,
+    "explanation": "No vehicle may operate on public highways with a gross weight that is more than 600 pounds per inch of tire width concentrated on 1 tire."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Gross Weight - Tire Size Example",
+    "question": "A tire size 10.00-22 is 10 inches wide. Based on the 600 pounds per inch limit, what is the maximum weight this tire may carry?",
+    "choices": [
+      "4,000 pounds",
+      "5,000 pounds",
+      "6,000 pounds",
+      "7,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "A tire size 10.00-22 is 10 inches wide and may carry 6,000 pounds (10 inches × 600 pounds per inch)."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Gross Weight - Single Tire Limit",
+    "question": "What is the weight limit per inch of tire width for axles carrying more than 10,000 pounds equipped with single tires?",
+    "choices": [
+      "400 pounds per inch",
+      "500 pounds per inch",
+      "600 pounds per inch",
+      "800 pounds per inch"
+    ],
+    "answer_index": 1,
+    "explanation": "Axles carrying more than 10,000 pounds and equipped with single tires are limited to 500 pounds per inch of tire width."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Gross Weight - Exemptions",
+    "question": "How can drivers obtain exemptions from standard gross weight limits?",
+    "choices": [
+      "By purchasing a special license plate",
+      "By contacting WSP Commercial Vehicle Enforcement",
+      "By registering with the local Department of Transportation",
+      "Exemptions are not available for weight limits"
+    ],
+    "answer_index": 1,
+    "explanation": "For exemptions from standard weight limits, drivers should contact WSP Commercial Vehicle Enforcement."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Maximum Weight - Single Axle",
+    "question": "What is the maximum weight allowed on any single axle in Washington?",
+    "choices": [
+      "15,000 pounds",
+      "20,000 pounds",
+      "26,000 pounds",
+      "30,000 pounds"
+    ],
+    "answer_index": 1,
+    "explanation": "Maximum weights for commercial vehicles in Washington are 20,000 pounds on any single axle, depending on tire size."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Maximum Weight - Tandem Axles",
+    "question": "What is the maximum weight allowed on tandem axles spaced less than 7 feet apart in Washington?",
+    "choices": [
+      "26,000 pounds",
+      "30,000 pounds",
+      "34,000 pounds",
+      "40,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "Maximum weights for commercial vehicles in Washington are 34,000 pounds on tandem axles spaced less than 7 feet apart."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Maximum Weight - Single Unit Vehicle",
+    "question": "What is the maximum gross weight for any single-unit vehicle supported by 3 or more axles in Washington?",
+    "choices": [
+      "34,000 pounds",
+      "40,000 pounds",
+      "60,000 pounds",
+      "80,000 pounds"
+    ],
+    "answer_index": 1,
+    "explanation": "Maximum weights for commercial vehicles in Washington are 40,000 pounds for any single-unit vehicle supported by 3 or more axles."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Maximum Weight - Combination Vehicles",
+    "question": "What is the maximum gross weight allowed for any combination of vehicles in Washington?",
+    "choices": [
+      "60,000 pounds",
+      "70,000 pounds",
+      "80,000 pounds",
+      "90,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "Maximum weights for commercial vehicles in Washington are 80,000 pounds for any combination of vehicles."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Maximum Weight Comparison",
+    "question": "Which vehicle configuration has the highest maximum gross weight limit in Washington?",
+    "choices": [
+      "Single axle (20,000 lbs)",
+      "Tandem axles less than 7 feet apart (34,000 lbs)",
+      "Single-unit vehicle with 3+ axles (40,000 lbs)",
+      "Combination of vehicles (80,000 lbs)"
+    ],
+    "answer_index": 3,
+    "explanation": "The maximum gross weight for any combination of vehicles in Washington is 80,000 pounds, which is the highest weight limit."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tire Chains - Mountain Pass Requirements",
+    "question": "What must all vehicles or combinations of vehicles carry while operating in mountain passes or chain control areas?",
+    "choices": [
+      "Emergency flares and warning triangles",
+      "Enough tire chains or approved traction devices",
+      "Extra fuel and water",
+      "Fire extinguishers and first aid kits"
+    ],
+    "answer_index": 1,
+    "explanation": "All vehicles or combinations of vehicles must carry enough tire chains while operating in any mountain pass or in any 'chain/approved traction device control area' designated by WSDOT or Washington State Patrol."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tire Chains - Control Area Designation",
+    "question": "Who designates chain control areas or approved traction device control areas in Washington?",
+    "choices": [
+      "Local city governments only",
+      "Washington State Department of Transportation and Washington State Patrol",
+      "Vehicle manufacturers",
+      "Individual trucking companies"
+    ],
+    "answer_index": 1,
+    "explanation": "Chain/approved traction device control areas are designated by either the Washington State Department of Transportation or the Washington State Patrol."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tire Chains - Mandatory Carry Period",
+    "question": "During what period must vehicles over 10,000 pounds GVWR carry tire chains?",
+    "choices": [
+      "October 1 to May 1",
+      "September 1 to March 31",
+      "November 1 to April 1",
+      "December 1 to February 28"
+    ],
+    "answer_index": 2,
+    "explanation": "Chains must be carried on all vehicles over 10,000 pounds GVWR from November 1 to April 1 of each year."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tire Chains - GVWR Threshold",
+    "question": "What is the gross vehicle weight rating threshold requiring chain carry requirements in Washington?",
+    "choices": [
+      "5,000 pounds",
+      "8,000 pounds",
+      "10,000 pounds",
+      "15,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "Chains must be carried on all vehicles over 10,000 pounds GVWR from November 1 to April 1."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tire Chains - Year-Round Requirements",
+    "question": "When may tire chains be required on vehicles over 10,000 pounds outside the November 1 to April 1 period?",
+    "choices": [
+      "Never, only during November 1 to April 1",
+      "Only during summer months",
+      "At other times when chains are required for such vehicles",
+      "Only when traveling on interstate highways"
+    ],
+    "answer_index": 2,
+    "explanation": "Chains must be carried from November 1 to April 1 of each year or at other times when chains are required for vehicles over 10,000 pounds GVWR."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Speed Limit - Interstate and WA State Highways",
+    "question": "Unless otherwise posted, what is the maximum allowable speed for trucks and buses on interstate and Washington State highways?",
+    "choices": [
+      "50 mph",
+      "55 mph",
+      "60 mph",
+      "70 mph"
+    ],
+    "answer_index": 2,
+    "explanation": "The maximum allowable speed for trucks and buses is 60 mph on interstate and Washington State highways."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Speed Limit - Auto-Stages",
+    "question": "What is the maximum allowable speed for auto-stages (charter buses) on interstate and Washington State highways?",
+    "choices": [
+      "60 mph",
+      "65 mph",
+      "70 mph",
+      "75 mph"
+    ],
+    "answer_index": 2,
+    "explanation": "Auto-stages are allowed 70 mph on interstate and Washington State highways, which is 10 mph higher than regular trucks and buses."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Speed Limit - County Roads",
+    "question": "Unless otherwise posted, what is the maximum allowable speed for trucks and buses on county roads?",
+    "choices": [
+      "35 mph",
+      "45 mph",
+      "50 mph",
+      "55 mph"
+    ],
+    "answer_index": 2,
+    "explanation": "The maximum allowable speed for trucks and buses is 50 mph on county roads."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Speed Limit - City and Town Streets",
+    "question": "Unless otherwise posted, what is the maximum allowable speed for trucks and buses on city and town streets?",
+    "choices": [
+      "15 mph",
+      "20 mph",
+      "25 mph",
+      "30 mph"
+    ],
+    "answer_index": 2,
+    "explanation": "The maximum allowable speed for trucks and buses is 25 mph on city and town streets."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Speed Limit - Posted Signs",
+    "question": "What must you do if posted signs show speed limits lower than the legal maximums?",
+    "choices": [
+      "You may ignore them and maintain the legal maximum",
+      "Posted signs showing lower limits must be obeyed",
+      "You should follow the legal maximum unless heavy traffic is present",
+      "Posted signs only apply to regular passenger vehicles"
+    ],
+    "answer_index": 1,
+    "explanation": "Posted signs showing lower limits must be obeyed regardless of the legal maximum speeds."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Speed Limit - Comparison",
+    "question": "Which of the following represents the correct speed limits for trucks and buses under normal conditions in Washington?",
+    "choices": [
+      "60 mph highways, 45 mph county roads, 20 mph city streets",
+      "60 mph highways, 50 mph county roads, 25 mph city streets",
+      "65 mph highways, 50 mph county roads, 30 mph city streets",
+      "60 mph highways, 55 mph county roads, 25 mph city streets"
+    ],
+    "answer_index": 1,
+    "explanation": "The correct maximum speeds are 60 mph on interstate and Washington State highways, 50 mph on county roads, and 25 mph on city and town streets."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Right Lane Rule",
+    "question": "When driving a heavy vehicle or combination, which lane should you normally travel in?",
+    "choices": [
+      "Left lane only",
+      "Center lane",
+      "Right lane",
+      "Any available lane"
+    ],
+    "answer_index": 2,
+    "explanation": "When driving a heavy vehicle or combination, you should travel in the right lane except when preparing to turn left or when passing another vehicle."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Right Lane - Exceptions",
+    "question": "When may a heavy vehicle or combination leave the right lane?",
+    "choices": [
+      "When traffic is light",
+      "When preparing to turn left or when passing another vehicle",
+      "Any time the driver chooses",
+      "Only during daylight hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Heavy vehicles or combinations may leave the right lane when preparing to turn left or when passing another vehicle."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Left Lane Rule - Weight Restriction",
+    "question": "What is the gross vehicle weight threshold for the left lane restriction on limited access roadways?",
+    "choices": [
+      "5,000 pounds",
+      "8,000 pounds",
+      "10,000 pounds",
+      "15,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "No vehicle or combination over 10,000 pounds may be driven in the left-hand lane of a limited access roadway."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Left Lane Rule - Road Type",
+    "question": "The left lane restriction for vehicles over 10,000 pounds applies to which type of roadway?",
+    "choices": [
+      "All public roads",
+      "City streets only",
+      "Limited access roadways with 3 or more lanes for traffic in one direction",
+      "Rural roads only"
+    ],
+    "answer_index": 2,
+    "explanation": "The left lane restriction applies to limited access roadways having 3 or more lanes for traffic moving in one direction."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Left Lane Rule - Exceptions",
+    "question": "When may vehicles or combinations over 10,000 pounds use the left lane on limited access roadways?",
+    "choices": [
+      "Never, it is always prohibited",
+      "Only when necessary to pass a slower vehicle",
+      "When preparing for a left turn at an intersection, exit, or onto a private road/driveway when a left turn is legally allowed",
+      "During off-peak hours only"
+    ],
+    "answer_index": 2,
+    "explanation": "Vehicles over 10,000 pounds may use the left lane when preparing for a left turn at an intersection, exit, or onto a private road or driveway when a left turn is legally allowed."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Lane Rules - Comparison",
+    "question": "A truck over 10,000 pounds GVWR on a four-lane interstate highway (two lanes each direction) may travel in which lane(s)?",
+    "choices": [
+      "Only the right lane",
+      "Left lane only",
+      "Either lane, but should prefer the right",
+      "Any lane depending on traffic"
+    ],
+    "answer_index": 2,
+    "explanation": "On a limited access roadway with only two lanes in one direction, the left lane restriction applies, but may be used when preparing for a legal left turn."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Lane Rules - Turning Exception",
+    "question": "A heavy vehicle over 10,000 pounds needs to exit a limited access highway on the left side. Is this legal?",
+    "choices": [
+      "No, never allowed to use the left lane",
+      "Yes, because it is preparing for a legal left turn at an exit",
+      "Only if turning between specific hours",
+      "Only on certain days of the week"
+    ],
+    "answer_index": 1,
+    "explanation": "Vehicles over 10,000 pounds may use the left lane when preparing for a left turn at an intersection or exit when the left turn is legally allowed."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Slow Vehicle Pullout",
+    "question": "When driving a slow-moving vehicle on a two-lane highway, how many vehicles must be delayed behind you before you are required to pull off?",
+    "choices": [
+      "Two or more vehicles",
+      "Three or more vehicles",
+      "Five or more vehicles",
+      "Ten or more vehicles"
+    ],
+    "answer_index": 2,
+    "explanation": "If five or more vehicles behind you are delayed and unable to pass on a two-lane highway, you must pull off the roadway at the first safe and available turnout."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Pullout Location",
+    "question": "Where should you pull off when operating a slow-moving vehicle with traffic backed up behind you?",
+    "choices": [
+      "At any convenient location",
+      "After allowing 10 vehicles to pass",
+      "At the first safe and available turnout",
+      "Only at designated rest areas"
+    ],
+    "answer_index": 2,
+    "explanation": "When required to pull off due to delayed traffic, you must do so at the first safe and available turnout."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Turnout Types",
+    "question": "Which of the following describes valid turnout locations for slow-moving vehicles?",
+    "choices": [
+      "Only paved rest areas",
+      "An extended shoulder where you can maintain speed, or a small area where you can stop",
+      "Any area on the roadside",
+      "Only designated turnout signs"
+    ],
+    "answer_index": 1,
+    "explanation": "A turnout may be an extended shoulder where you can keep your present speed, or a small area off the roadway where you can stop before returning to the roadway."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Passing Vehicles",
+    "question": "How many vehicles should you attempt to pass at one time on a two-lane highway?",
+    "choices": [
+      "As many as safely possible",
+      "Only one vehicle at a time",
+      "Two vehicles if the first is slow",
+      "Unlimited, depending on visibility"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not try to pass more than one vehicle at a time when driving on a two-lane highway."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Convoy - Spacing Requirements",
+    "question": "When traveling in a convoy with another truck or bus, what spacing requirement applies?",
+    "choices": [
+      "No specific spacing is required",
+      "Maintain at least 100 feet between vehicles",
+      "Leave enough space for other vehicles to safely pull back into the lane",
+      "Keep bumper-to-bumper to maximize road space"
+    ],
+    "answer_index": 2,
+    "explanation": "When traveling in a convoy, leave enough space between vehicles in the convoy for others to pull back into the lane safely."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Passing and Convoy Safety",
+    "question": "You are driving in a two-truck convoy on a two-lane highway with five cars behind you. What should you do?",
+    "choices": [
+      "Continue at current speed; convoy vehicles can pass together",
+      "Speed up to pass the lead vehicle",
+      "Leave adequate spacing between your convoy trucks to allow other vehicles to pass safely and pull back in",
+      "Block the passing lane to maintain convoy unity"
+    ],
+    "answer_index": 2,
+    "explanation": "When traveling in a convoy, adequate spacing allows other vehicles to pass and safely re-enter the lane, and you should not prevent passing traffic from doing so."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Traffic Flow Priority",
+    "question": "What is the primary purpose of the five-vehicle pullout rule on two-lane highways?",
+    "choices": [
+      "To give the driver a rest break",
+      "To allow safer passing and maintain traffic flow for following vehicles",
+      "To comply with speed limit signs",
+      "To reduce fuel consumption"
+    ],
+    "answer_index": 1,
+    "explanation": "The five-vehicle pullout rule allows following vehicles to safely pass and maintains traffic flow on two-lane highways."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Two-Lane Highway - Turnout Decision",
+    "question": "You are driving a slow vehicle on a two-lane highway. You see an extended shoulder approaching where you could safely pull over. At what point should you consider pulling off?",
+    "choices": [
+      "Only if you count more than five vehicles behind you",
+      "Only after passing at least three turnouts",
+      "When five or more vehicles are backing up behind you and it is the first safe turnout",
+      "Never, unless explicitly directed by law enforcement"
+    ],
+    "answer_index": 2,
+    "explanation": "You must pull off at the first safe and available turnout once five or more vehicles are delayed behind you."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Property-Carrying: 11-Hour Maximum",
+    "question": "For property-carrying drivers in Washington, what is the maximum number of hours you may drive after 10 consecutive hours off duty?",
+    "choices": [
+      "8 hours",
+      "10 hours",
+      "11 hours",
+      "12 hours"
+    ],
+    "answer_index": 2,
+    "explanation": "Property-carrying drivers may drive a maximum of 11 hours after 10 consecutive hours off duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Property-Carrying: 14-Hour Rule",
+    "question": "What is the maximum on-duty period for a property-carrying driver before stopping?",
+    "choices": [
+      "12 hours after coming on duty",
+      "14 hours after coming on duty",
+      "15 hours after coming on duty",
+      "16 hours after coming on duty"
+    ],
+    "answer_index": 1,
+    "explanation": "Property-carrying drivers cannot drive beyond the 14th hour after coming on duty, following 10 consecutive hours off duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Property-Carrying: 60-Hour Rule",
+    "question": "For property-carrying drivers, what is the cumulative driving hour limit in 7 consecutive days?",
+    "choices": [
+      "50 hours",
+      "60 hours",
+      "70 hours",
+      "80 hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Property-carrying drivers must not drive after 60 hours on duty in 7 consecutive days."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Property-Carrying: 70-Hour Rule",
+    "question": "For property-carrying drivers, what is the cumulative driving hour limit in 8 consecutive days?",
+    "choices": [
+      "60 hours",
+      "70 hours",
+      "80 hours",
+      "90 hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Property-carrying drivers must not drive after 70 hours on duty in 8 consecutive days."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Restart Provision",
+    "question": "How many consecutive hours off duty are required to restart a 7 or 8 consecutive day period?",
+    "choices": [
+      "24 hours",
+      "30 hours",
+      "34 hours",
+      "40 hours"
+    ],
+    "answer_index": 2,
+    "explanation": "A driver may restart a 7 or 8 consecutive day period after taking 34 or more consecutive hours off duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Sleeper Berth Provision",
+    "question": "What is the minimum sleeper berth requirement for property-carrying drivers?",
+    "choices": [
+      "8 consecutive hours in the sleeper berth",
+      "7 consecutive hours in sleeper berth plus 3 consecutive hours in sleeper berth or off-duty",
+      "10 consecutive hours total sleeping time",
+      "No specific sleeper berth requirement"
+    ],
+    "answer_index": 1,
+    "explanation": "Commercial drivers using the sleeper berth provision must take at least 7 consecutive hours in the sleeper berth, plus 3 consecutive hours either in the sleeper berth, off duty, or in any combination of both."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Passenger-Carrying: 10-Hour Maximum",
+    "question": "For passenger-carrying drivers, what is the maximum number of hours you may drive following 8 consecutive hours off duty?",
+    "choices": [
+      "8 hours",
+      "9 hours",
+      "10 hours",
+      "11 hours"
+    ],
+    "answer_index": 2,
+    "explanation": "Passenger-carrying drivers must not drive more than 10 hours following 8 consecutive hours off duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Passenger-Carrying: 15-Hour Rule",
+    "question": "For passenger-carrying drivers, what is the maximum on-duty period following 8 consecutive hours off duty?",
+    "choices": [
+      "12 hours",
+      "14 hours",
+      "15 hours",
+      "16 hours"
+    ],
+    "answer_index": 2,
+    "explanation": "Passenger-carrying drivers must not drive for any period after having been on duty for 15 hours following 8 consecutive hours off duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Passenger-Carrying: 60-Hour Rule",
+    "question": "For passenger-carrying drivers, what is the cumulative on-duty hour limit in 7 consecutive days?",
+    "choices": [
+      "50 hours",
+      "60 hours",
+      "70 hours",
+      "80 hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Passenger-carrying drivers must not drive after having been on duty 60 hours in any 7 consecutive days."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Passenger-Carrying: 70-Hour Rule",
+    "question": "For passenger-carrying drivers, what is the cumulative on-duty hour limit in 8 consecutive days?",
+    "choices": [
+      "60 hours",
+      "70 hours",
+      "80 hours",
+      "90 hours"
+    ],
+    "answer_index": 1,
+    "explanation": "Passenger-carrying drivers must not drive after having been on duty 70 hours in any 8 consecutive days."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "30-Minute Break Requirement",
+    "question": "When is a 30-minute break required for commercial drivers?",
+    "choices": [
+      "Every 4 hours of driving",
+      "After 8 hours of driving without a 30-minute interruption",
+      "At the end of each shift",
+      "Every 2 hours of driving"
+    ],
+    "answer_index": 1,
+    "explanation": "A 30-minute break is required when a driver has driven for a period of 8 hours without at least a 30-minute interruption."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "30-Minute Break - Types",
+    "question": "What types of activity can satisfy the 30-minute break requirement?",
+    "choices": [
+      "Driving activities only",
+      "Any non-driving period including on-duty, off-duty, or sleeper berth time",
+      "Off-duty time only",
+      "Sleeper berth time only"
+    ],
+    "answer_index": 1,
+    "explanation": "The 30-minute break may be satisfied by any non-driving period of 30 minutes, including on-duty, off-duty, or sleeper berth time."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Driver's Logbook - Recording Requirements",
+    "question": "How must drivers record their duty status in a logbook?",
+    "choices": [
+      "Once per week in summary form",
+      "In duplicate for every 24-hour period of duty status",
+      "Only for hours exceeding 12 per day",
+      "At the end of each month"
+    ],
+    "answer_index": 1,
+    "explanation": "It is the driver's responsibility to record in duplicate every 24-hour period of duty status in a driver's logbook."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Driver's Logbook - Record Retention",
+    "question": "How long must a driver keep records of duty status available for inspection?",
+    "choices": [
+      "Previous 3 consecutive days",
+      "Previous 5 consecutive days",
+      "Previous 7 consecutive days",
+      "Previous 30 days"
+    ],
+    "answer_index": 2,
+    "explanation": "Drivers must keep a copy of each record of duty status for the previous 7 consecutive days in their possession and available for inspection while on duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Property vs. Passenger Comparison",
+    "question": "Which of the following correctly compares driving hour limits between property-carrying and passenger-carrying drivers?",
+    "choices": [
+      "Property drivers: 11 hours max; Passenger drivers: 10 hours max",
+      "Property drivers: 10 hours max; Passenger drivers: 11 hours max",
+      "Both have the same 11-hour maximum",
+      "Property drivers: 12 hours max; Passenger drivers: 10 hours max"
+    ],
+    "answer_index": 0,
+    "explanation": "Property-carrying drivers may drive a maximum of 11 hours after 10 consecutive hours off duty, while passenger-carrying drivers must not drive more than 10 hours following 8 consecutive hours off duty."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Hours of Service - Interstate Requirement",
+    "question": "Who must obey hours of service laws and regulations in Washington state?",
+    "choices": [
+      "Only intrastate commercial drivers",
+      "Only interstate commercial drivers",
+      "All commercial drivers of private or common carriers, both intrastate and interstate",
+      "Only property-carrying drivers"
+    ],
+    "answer_index": 2,
+    "explanation": "All commercial drivers of private or common carriers within the state of Washington and all interstate commercial drivers must obey laws and regulations governing maximum driving and on-duty time."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "CLP Passenger Restriction",
+    "question": "A CLP holder with P and/or S endorsements may carry which passengers in a CMV bus?",
+    "choices": [
+      "Any paying passengers if supervised",
+      "Only federal/state auditors-inspectors, test examiners, other trainees, and the accompanying CDL holder",
+      "Only family members",
+      "No one at all under any circumstance"
+    ],
+    "answer_index": 1,
+    "explanation": "CLP holders with passenger/school endorsements are prohibited from carrying general passengers; only listed exceptions are allowed."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "CLP Tank Restriction",
+    "question": "What tank-vehicle limitation applies to a CLP holder with an N endorsement?",
+    "choices": [
+      "May haul any loaded tank vehicle",
+      "May not operate a tank vehicle that previously contained hazardous materials unless purged of residue",
+      "May operate only empty tanks regardless of prior contents",
+      "May operate tanks only during daylight"
+    ],
+    "answer_index": 1,
+    "explanation": "A CLP holder with an N endorsement cannot operate a tank vehicle with prior hazardous material contents until residue is purged."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Military Skills Test Waiver",
+    "question": "Who may qualify for a military CDL skills waiver in Washington?",
+    "choices": [
+      "Any veteran with a regular driver license",
+      "Service members currently licensed who are or were within the past 12 months in a military position operating equivalent military CMVs",
+      "Only active-duty members with no driving experience",
+      "Only drivers of school buses"
+    ],
+    "answer_index": 1,
+    "explanation": "The waiver applies to certain military drivers with recent qualifying military CMV-equivalent experience, per CFR 383.77."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Medical Self-Certification",
+    "question": "What happens if a CDL holder required to maintain certified medical status fails to keep a current medical examiner certificate on file?",
+    "choices": [
+      "Nothing until renewal date",
+      "They become not-certified and may lose CDL privileges",
+      "Only a written warning is issued",
+      "They can continue driving interstate without restriction"
+    ],
+    "answer_index": 1,
+    "explanation": "Drivers required to maintain certified medical status must keep medical documents current or risk not-certified status and CDL loss."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Medical Certificate Renewal Timing",
+    "question": "When should a new medical examiner certificate be submitted to DOL before the current one expires?",
+    "choices": [
+      "On the expiration date",
+      "1 to 2 days before expiration",
+      "7 to 10 days before expiration",
+      "30 days after expiration"
+    ],
+    "answer_index": 2,
+    "explanation": "The guide instructs drivers to submit updated medical certification 7 to 10 days before current expiration."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Self-Certification Categories",
+    "question": "If a driver operates in both interstate and intrastate commerce, which self-certification category must be selected?",
+    "choices": [
+      "Intrastate only",
+      "Either category is acceptable",
+      "Interstate",
+      "Excepted intrastate only"
+    ],
+    "answer_index": 2,
+    "explanation": "The manual states if you operate in both, you must choose interstate commerce for self-certification."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Employer Notification - Convictions",
+    "question": "How soon must you notify your employer of any traffic conviction (other than parking)?",
+    "choices": [
+      "Within 24 hours",
+      "Within 7 days",
+      "Within 30 days",
+      "Only at annual review"
+    ],
+    "answer_index": 2,
+    "explanation": "CDL rules require notification to employer within 30 days for any traffic conviction except parking."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Employer Notification - License Status",
+    "question": "How quickly must you notify your employer if your license is suspended, revoked, canceled, or you are disqualified from driving?",
+    "choices": [
+      "Within two business days",
+      "Within 7 calendar days",
+      "Within 30 days",
+      "Only upon request"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide requires notice to employer within two business days for suspension, revocation, cancellation, or disqualification."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "One License Rule",
+    "question": "What is a possible penalty for holding more than one driver license as a CDL holder?",
+    "choices": [
+      "No penalty if licenses are from different states",
+      "Warning only",
+      "Fine up to $5,000 and possible jail",
+      "Automatic 1-day suspension only"
+    ],
+    "answer_index": 2,
+    "explanation": "Federal/state CDL rules prohibit more than one license and allow severe penalties including fines and jail."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Mobile Phone Rule",
+    "question": "What handheld mobile phone action is prohibited while operating a CMV?",
+    "choices": [
+      "Using hands-free voice controls",
+      "Holding a mobile phone for voice communication or dialing by pressing more than one button",
+      "Using dispatch-approved devices",
+      "Turning on Bluetooth"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide prohibits holding a mobile phone to talk and dialing by pressing more than a single button while driving."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Section 1 Texting Rule",
+    "question": "What does Section 1 state about texting while driving a CMV?",
+    "choices": [
+      "Allowed when traffic is light",
+      "Allowed only at low speeds",
+      "Drivers are not allowed to send or read text messages while driving",
+      "Allowed if stopped at a signal"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 1 specifically prohibits sending or reading text messages while driving."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "HME Denial Reasons",
+    "question": "Which situation can cause denial or loss of a hazardous materials endorsement?",
+    "choices": [
+      "Renewing early",
+      "Renouncing U.S. citizenship or being determined a transportation security threat",
+      "Changing employers",
+      "Failing a non-CDL knowledge test"
+    ],
+    "answer_index": 1,
+    "explanation": "HME may be denied or removed for specified security and legal reasons, including renunciation of citizenship and TSA threat determinations."
   }
 ]

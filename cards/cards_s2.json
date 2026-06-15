@@ -4,12 +4,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Tire Tread",
     "question": "What is the minimum tread depth required in every major groove on front tires?",
-    "choices": [
-      "2/32 inch",
-      "4/32 inch",
-      "6/32 inch",
-      "1/32 inch"
-    ],
+    "choices": ["2/32 inch", "4/32 inch", "6/32 inch", "1/32 inch"],
     "answer_index": 1,
     "explanation": "The guide states you need at least 4/32-inch tread depth in every major groove on front tires, and 2/32 inch on other tires."
   },
@@ -18,12 +13,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Tire Tread",
     "question": "What is the minimum tread depth required in major grooves on tires other than the front tires?",
-    "choices": [
-      "4/32 inch",
-      "3/32 inch",
-      "2/32 inch",
-      "5/32 inch"
-    ],
+    "choices": ["4/32 inch", "3/32 inch", "2/32 inch", "5/32 inch"],
     "answer_index": 2,
     "explanation": "The guide requires at least 2/32 inch of tread on tires other than the front, which need 4/32 inch."
   },
@@ -32,12 +22,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Steering",
     "question": "How much steering wheel play can make it hard to steer?",
-    "choices": [
-      "More than 5 degrees",
-      "More than 10 degrees",
-      "More than 20 degrees",
-      "More than 30 degrees"
-    ],
+    "choices": ["More than 5 degrees", "More than 10 degrees", "More than 20 degrees", "More than 30 degrees"],
     "answer_index": 1,
     "explanation": "The guide says steering wheel play of more than 10 degrees (about 2 inches at the rim of a 20-inch wheel) can make it hard to steer."
   },
@@ -46,12 +31,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Emergency Equipment",
     "question": "Which set of warning devices satisfies the emergency equipment requirement for a parked vehicle?",
-    "choices": [
-      "3 reflective triangles, or at least 6 fusees, or 3 liquid burning flares",
-      "2 reflective triangles or 4 fusees",
-      "1 triangle and 1 flare",
-      "4 reflective triangles only"
-    ],
+    "choices": ["3 reflective triangles, or at least 6 fusees, or 3 liquid burning flares", "2 reflective triangles or 4 fusees", "1 triangle and 1 flare", "4 reflective triangles only"],
     "answer_index": 0,
     "explanation": "The guide lists warning devices as three reflective triangles or at least 6 fusees or 3 liquid burning flares."
   },
@@ -60,12 +40,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Hydraulic Brakes",
     "question": "How do you test hydraulic brakes for leaks?",
-    "choices": [
-      "Pump the pedal once and watch for movement",
-      "Pump the pedal three times, then apply firm pressure for five seconds; the pedal should not move",
-      "Hold the pedal down for one minute",
-      "Apply the brakes at 5 mph and check for pulling"
-    ],
+    "choices": ["Pump the pedal once and watch for movement", "Pump the pedal three times, then apply firm pressure for five seconds; the pedal should not move", "Hold the pedal down for one minute", "Apply the brakes at 5 mph and check for pulling"],
     "answer_index": 1,
     "explanation": "The guide says to pump the brake pedal three times, then apply firm pressure and hold for five seconds; the pedal should not move."
   },
@@ -74,12 +49,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Suspension",
     "question": "How many leaves missing from a leaf spring will put a vehicle 'out of service'?",
-    "choices": [
-      "Any one leaf",
-      "One-fourth or more",
-      "One-half or more",
-      "All of them"
-    ],
+    "choices": ["Any one leaf", "One-fourth or more", "One-half or more", "All of them"],
     "answer_index": 1,
     "explanation": "The guide states that if one-fourth or more leaves are missing it puts the vehicle out of service, though any defect could be dangerous."
   },
@@ -88,12 +58,7 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Cargo Check",
     "question": "When transporting cargo, when must a truck driver first inspect the cargo securement?",
-    "choices": [
-      "Within the first 25 miles",
-      "Within the first 50 miles",
-      "Within the first 100 miles",
-      "Only at the destination"
-    ],
+    "choices": ["Within the first 25 miles", "Within the first 50 miles", "Within the first 100 miles", "Only at the destination"],
     "answer_index": 1,
     "explanation": "The guide requires inspecting cargo securement within the first 50 miles, then every 150 miles or three hours (whichever comes first)."
   },
@@ -102,12 +67,7 @@
     "section_name": "Driving Safely",
     "topic": "Basic Control - Backing",
     "question": "Toward which side should you back and turn whenever possible?",
-    "choices": [
-      "The right (passenger) side",
-      "The driver's side",
-      "Either side equally",
-      "Straight back only"
-    ],
+    "choices": ["The right (passenger) side", "The driver's side", "Either side equally", "Straight back only"],
     "answer_index": 1,
     "explanation": "The guide says to back toward the driver's side so you can see better; backing to the right is dangerous because you can't see as well."
   },
@@ -116,12 +76,7 @@
     "section_name": "Driving Safely",
     "topic": "Shifting - Retarders",
     "question": "When should you turn off a retarder?",
-    "choices": [
-      "When going up a steep hill",
-      "When the road is wet, icy, or snow covered",
-      "When carrying a heavy load",
-      "When driving in heavy traffic"
-    ],
+    "choices": ["When going up a steep hill", "When the road is wet, icy, or snow covered", "When carrying a heavy load", "When driving in heavy traffic"],
     "answer_index": 1,
     "explanation": "The guide warns that when drive wheels have poor traction the retarder may cause a skid, so turn it off when the road is wet, icy, or snow covered."
   },
@@ -130,12 +85,7 @@
     "section_name": "Driving Safely",
     "topic": "Seeing - Looking Ahead",
     "question": "How far ahead does the manual say good drivers should look?",
-    "choices": [
-      "5 to 8 seconds",
-      "12 to 15 seconds",
-      "20 to 25 seconds",
-      "2 to 4 seconds"
-    ],
+    "choices": ["5 to 8 seconds", "12 to 15 seconds", "20 to 25 seconds", "2 to 4 seconds"],
     "answer_index": 1,
     "explanation": "The guide states most good drivers look at least 12 to 15 seconds ahead, about one block at low speeds and a quarter mile at highway speeds."
   },
@@ -144,12 +94,7 @@
     "section_name": "Driving Safely",
     "topic": "Communicating - Warning Devices",
     "question": "On a one-way or divided highway, where should you place your warning devices when stopped?",
-    "choices": [
-      "10 feet, 100 feet, and 200 feet toward approaching traffic",
-      "10 feet, 50 feet, and 100 feet behind",
-      "25 feet, 100 feet, and 300 feet",
-      "100 feet, 200 feet, and 500 feet ahead"
-    ],
+    "choices": ["10 feet, 100 feet, and 200 feet toward approaching traffic", "10 feet, 50 feet, and 100 feet behind", "25 feet, 100 feet, and 300 feet", "100 feet, 200 feet, and 500 feet ahead"],
     "answer_index": 0,
     "explanation": "The guide says on a one-way or divided highway, place warning devices 10 feet, 100 feet, and 200 feet toward the approaching traffic."
   },
@@ -158,12 +103,7 @@
     "section_name": "Driving Safely",
     "topic": "Communicating - Warning Devices",
     "question": "After stopping on a road or shoulder, within how many minutes must you put out emergency warning devices?",
-    "choices": [
-      "Within 5 minutes",
-      "Within 10 minutes",
-      "Within 15 minutes",
-      "Within 30 minutes"
-    ],
+    "choices": ["Within 5 minutes", "Within 10 minutes", "Within 15 minutes", "Within 30 minutes"],
     "answer_index": 1,
     "explanation": "The guide states that if you must stop on a road or shoulder, you must put out your emergency warning devices within ten minutes."
   },
@@ -172,12 +112,7 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Stopping Distance",
     "question": "What three distances add up to total stopping distance?",
-    "choices": [
-      "Perception, reaction, and braking distance",
-      "Following, braking, and reaction distance",
-      "Sight, traction, and braking distance",
-      "Perception, traction, and stopping distance"
-    ],
+    "choices": ["Perception, reaction, and braking distance", "Following, braking, and reaction distance", "Sight, traction, and braking distance", "Perception, traction, and stopping distance"],
     "answer_index": 0,
     "explanation": "The guide defines total stopping distance as perception distance plus reaction distance plus braking distance."
   },
@@ -186,12 +121,7 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Stopping Distance",
     "question": "At 55 mph on dry pavement with good brakes, what is the approximate total stopping distance?",
-    "choices": [
-      "About 216 feet",
-      "About 142 feet",
-      "About 419 feet",
-      "About 300 feet"
-    ],
+    "choices": ["About 216 feet", "About 142 feet", "About 419 feet", "About 300 feet"],
     "answer_index": 2,
     "explanation": "The guide states that at 55 mph the vehicle will travel a minimum of 419 feet total (braking distance alone is about 216 feet)."
   },
@@ -200,12 +130,7 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Effect of Speed",
     "question": "If you double your speed from 20 to 40 mph, how much greater is the braking distance?",
-    "choices": [
-      "2 times longer",
-      "4 times longer",
-      "8 times longer",
-      "16 times longer"
-    ],
+    "choices": ["2 times longer", "4 times longer", "8 times longer", "16 times longer"],
     "answer_index": 1,
     "explanation": "The guide states that doubling speed from 20 to 40 mph makes the impact and braking distance 4 times greater."
   },
@@ -214,12 +139,7 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Road Surface",
     "question": "On a wet road, by about how much should you reduce your speed?",
-    "choices": [
-      "By about one-third (e.g., 55 to about 35 mph)",
-      "By one-half",
-      "By one-tenth",
-      "Reduce to a crawl"
-    ],
+    "choices": ["By about one-third (e.g., 55 to about 35 mph)", "By one-half", "By one-tenth", "Reduce to a crawl"],
     "answer_index": 0,
     "explanation": "The guide says to reduce speed by about one-third on a wet road, by a half or more on packed snow, and to a crawl on ice."
   },
@@ -228,12 +148,7 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Hydroplaning",
     "question": "At what speed can hydroplaning occur if there is a lot of water on the road?",
-    "choices": [
-      "As low as 30 mph",
-      "Only above 55 mph",
-      "Only above 45 mph",
-      "As low as 10 mph"
-    ],
+    "choices": ["As low as 30 mph", "Only above 55 mph", "Only above 45 mph", "As low as 10 mph"],
     "answer_index": 0,
     "explanation": "The guide states hydroplaning can occur at speeds as low as 30 mph if there is a lot of water."
   },
@@ -242,12 +157,7 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Hydroplaning",
     "question": "How do you regain control if your vehicle is hydroplaning?",
-    "choices": [
-      "Brake firmly and steer hard",
-      "Release the accelerator and push in the clutch; do not brake",
-      "Accelerate to power through the water",
-      "Apply the parking brake"
-    ],
+    "choices": ["Brake firmly and steer hard", "Release the accelerator and push in the clutch; do not brake", "Accelerate to power through the water", "Apply the parking brake"],
     "answer_index": 1,
     "explanation": "The guide says to release the accelerator and push in the clutch to let the wheels turn freely, and do not use the brakes when hydroplaning."
   },
@@ -256,12 +166,7 @@
     "section_name": "Driving Safely",
     "topic": "Managing Space - Following Distance",
     "question": "Below 40 mph, how much following distance does the rule recommend per 10 feet of vehicle length?",
-    "choices": [
-      "One-half second",
-      "One second",
-      "Two seconds",
-      "Three seconds"
-    ],
+    "choices": ["One-half second", "One second", "Two seconds", "Three seconds"],
     "answer_index": 1,
     "explanation": "The guide says you need at least one second for each 10 feet of vehicle length at speeds below 40 mph."
   },
@@ -270,12 +175,7 @@
     "section_name": "Driving Safely",
     "topic": "Managing Space - Following Distance",
     "question": "How many seconds of following distance should a 40-foot vehicle keep at speeds over 40 mph?",
-    "choices": [
-      "4 seconds",
-      "5 seconds",
-      "6 seconds",
-      "7 seconds"
-    ],
+    "choices": ["4 seconds", "5 seconds", "6 seconds", "7 seconds"],
     "answer_index": 1,
     "explanation": "A 40-foot vehicle needs 4 seconds below 40 mph; over 40 mph you add 1 second for safety, giving 5 seconds."
   },
@@ -284,12 +184,7 @@
     "section_name": "Driving Safely",
     "topic": "Managing Space - Tailgaters",
     "question": "What should you do if you are being tailgated?",
-    "choices": [
-      "Speed up to create distance",
-      "Flash your brake lights to warn them",
-      "Increase your following distance and avoid quick changes",
-      "Move into the left lane and slow down"
-    ],
+    "choices": ["Speed up to create distance", "Flash your brake lights to warn them", "Increase your following distance and avoid quick changes", "Move into the left lane and slow down"],
     "answer_index": 2,
     "explanation": "The guide advises increasing your following distance, avoiding quick changes, not speeding up, and avoiding tricks like flashing brake lights."
   },
@@ -298,12 +193,7 @@
     "section_name": "Driving Safely",
     "topic": "Distracted Driving - Texting",
     "question": "Texting while driving makes a CMV driver how many times more likely to be in a safety-critical event?",
-    "choices": [
-      "6 times",
-      "23.2 times",
-      "2 times",
-      "4 times"
-    ],
+    "choices": ["6 times", "23.2 times", "2 times", "4 times"],
     "answer_index": 1,
     "explanation": "The guide reports the odds of a safety-critical event are 23.2 times greater for CMV drivers who text while driving."
   },
@@ -312,12 +202,7 @@
     "section_name": "Driving Safely",
     "topic": "Night Driving - Headlights",
     "question": "About how far ahead can you see with low-beam headlights?",
-    "choices": [
-      "About 100 feet",
-      "About 250 feet",
-      "About 500 feet",
-      "About 750 feet"
-    ],
+    "choices": ["About 100 feet", "About 250 feet", "About 500 feet", "About 750 feet"],
     "answer_index": 1,
     "explanation": "The guide states that with low beams you can see ahead about 250 feet, and with high beams about 350-500 feet."
   },
@@ -326,12 +211,7 @@
     "section_name": "Driving Safely",
     "topic": "Night Driving - Dimming Lights",
     "question": "Within how many feet of an oncoming vehicle must you dim your high beams?",
-    "choices": [
-      "200 feet",
-      "300 feet",
-      "500 feet",
-      "1000 feet"
-    ],
+    "choices": ["200 feet", "300 feet", "500 feet", "1000 feet"],
     "answer_index": 2,
     "explanation": "The guide says to dim your lights within 500 feet of an oncoming vehicle and when following another vehicle within 500 feet."
   },
@@ -340,12 +220,7 @@
     "section_name": "Driving Safely",
     "topic": "Driving in Fog",
     "question": "Which headlights should you use for best visibility when driving in fog?",
-    "choices": [
-      "High beams",
-      "Low-beam headlights and fog lights",
-      "Parking lights only",
-      "Hazard flashers only"
-    ],
+    "choices": ["High beams", "Low-beam headlights and fog lights", "Parking lights only", "Hazard flashers only"],
     "answer_index": 1,
     "explanation": "The guide says to use low-beam headlights and fog lights for best visibility in fog, even in the daytime."
   },
@@ -354,12 +229,7 @@
     "section_name": "Driving Safely",
     "topic": "Railroad Crossings - Stopping Distance",
     "question": "Where must vehicles required to stop position themselves relative to the nearest rail (when no stop line is painted)?",
-    "choices": [
-      "No closer than 5 feet or more than 25 feet",
-      "No closer than 15 feet or more than 50 feet",
-      "No closer than 25 feet or more than 75 feet",
-      "Exactly 10 feet from the rail"
-    ],
+    "choices": ["No closer than 5 feet or more than 25 feet", "No closer than 15 feet or more than 50 feet", "No closer than 25 feet or more than 75 feet", "Exactly 10 feet from the rail"],
     "answer_index": 1,
     "explanation": "The guide says vehicles required to stop must stop no closer than 15 feet and no more than 50 feet from the nearest rail."
   },
@@ -368,12 +238,7 @@
     "section_name": "Driving Safely",
     "topic": "Railroad Crossings - Clearing Tracks",
     "question": "How long does a typical tractor-trailer take to clear a double track?",
-    "choices": [
-      "At least 14 seconds",
-      "More than 15 seconds",
-      "About 5 seconds",
-      "About 10 seconds"
-    ],
+    "choices": ["At least 14 seconds", "More than 15 seconds", "About 5 seconds", "About 10 seconds"],
     "answer_index": 1,
     "explanation": "The guide states a typical tractor-trailer takes at least 14 seconds to clear a single track and more than 15 seconds to clear a double track."
   },
@@ -382,12 +247,7 @@
     "section_name": "Driving Safely",
     "topic": "Mountain Driving - Braking Technique",
     "question": "Using proper braking technique on a downgrade, you release the brakes when speed drops to about how far below your 'safe' speed?",
-    "choices": [
-      "About 2 mph below",
-      "About 5 mph below",
-      "About 10 mph below",
-      "About 15 mph below"
-    ],
+    "choices": ["About 2 mph below", "About 5 mph below", "About 10 mph below", "About 15 mph below"],
     "answer_index": 1,
     "explanation": "The guide says to brake until speed is reduced to about five mph below your safe speed, then release for about three seconds."
   },
@@ -396,12 +256,7 @@
     "section_name": "Driving Safely",
     "topic": "Emergencies - Stopping",
     "question": "Which describes the stab braking method?",
-    "choices": [
-      "Apply brakes lightly and hold steady pressure",
-      "Apply brakes fully, release when wheels lock, then reapply fully when wheels roll",
-      "Pump the brakes rapidly without full application",
-      "Press the brake as hard as possible and hold it"
-    ],
+    "choices": ["Apply brakes lightly and hold steady pressure", "Apply brakes fully, release when wheels lock, then reapply fully when wheels roll", "Pump the brakes rapidly without full application", "Press the brake as hard as possible and hold it"],
     "answer_index": 1,
     "explanation": "The guide describes stab braking as applying brakes all the way, releasing when wheels lock, then reapplying fully as soon as the wheels start rolling."
   },
@@ -410,12 +265,7 @@
     "section_name": "Driving Safely",
     "topic": "Emergencies - Tire Failure",
     "question": "What should you do immediately if a tire fails while driving?",
-    "choices": [
-      "Brake hard to stop quickly",
-      "Hold the steering wheel firmly and stay off the brake until the vehicle slows",
-      "Accelerate to maintain control",
-      "Steer sharply onto the shoulder"
-    ],
+    "choices": ["Brake hard to stop quickly", "Hold the steering wheel firmly and stay off the brake until the vehicle slows", "Accelerate to maintain control", "Steer sharply onto the shoulder"],
     "answer_index": 1,
     "explanation": "The guide says to hold the steering wheel firmly with both hands and stay off the brake until the vehicle has slowed, then brake gently."
   },
@@ -424,12 +274,7 @@
     "section_name": "Driving Safely",
     "topic": "Antilock Braking Systems",
     "question": "What does ABS do for your vehicle?",
-    "choices": [
-      "It shortens your stopping distance",
-      "It keeps wheels from locking up and helps you keep control during hard braking",
-      "It replaces your normal brakes",
-      "It lets you follow more closely"
-    ],
+    "choices": ["It shortens your stopping distance", "It keeps wheels from locking up and helps you keep control during hard braking", "It replaces your normal brakes", "It lets you follow more closely"],
     "answer_index": 1,
     "explanation": "The guide states ABS keeps wheels from locking up during hard braking and helps maintain control, but does not necessarily shorten stopping distance."
   },
@@ -438,97 +283,1086 @@
     "section_name": "Driving Safely",
     "topic": "Fires - Extinguisher Use",
     "question": "Which type of fire should you NOT use water on?",
-    "choices": [
-      "Burning wood",
-      "Burning paper",
-      "An electrical or gasoline fire",
-      "Burning cloth"
-    ],
+    "choices": ["Burning wood", "Burning paper", "An electrical or gasoline fire", "Burning cloth"],
     "answer_index": 2,
     "explanation": "The guide warns not to use water on an electrical fire (can cause shock) or a gasoline fire (it will spread the flames)."
   },
   {
     "section": 2,
     "section_name": "Driving Safely",
-    "topic": "Air Pressure Build Time",
-    "question": "After starting the engine, how long should it take for air pressure to build from 0 to 90 psi in the air tanks?",
+    "topic": "Vehicle Inspection - Spring Hangers",
+    "question": "What is a major suspension defect to look for?",
     "choices": [
-      "1-2 minutes",
-      "2-3 minutes",
-      "3-5 minutes",
-      "5-10 minutes"
-    ],
-    "answer_index": 2,
-    "explanation": "Air pressure should build from 0 to 90 psi in 3 to 5 minutes after starting the engine."
-  },
-  {
-    "section": 2,
-    "section_name": "Driving Safely",
-    "topic": "Governor Cut-out Pressure",
-    "question": "At what air pressure does the governor typically cut out (stop compressor)?",
-    "choices": [
-      "80 psi",
-      "100 psi",
-      "125 psi",
-      "150 psi"
-    ],
-    "answer_index": 2,
-    "explanation": "The governor cuts out at approximately 125 psi and the compressor stops pumping air."
-  },
-  {
-    "section": 2,
-    "section_name": "Driving Safely",
-    "topic": "Steering Wheel Play Maximum",
-    "question": "What is the maximum amount of steering wheel play allowed?",
-    "choices": [
-      "5 degrees (1 inch on 20-inch wheel)",
-      "10 degrees (2 inches on 20-inch wheel)",
-      "15 degrees (3 inches on 20-inch wheel)",
-      "20 degrees (4 inches on 20-inch wheel)"
-    ],
-    "answer_index": 1,
-    "explanation": "Steering wheel play must not exceed 10 degrees or 2 inches on a 20-inch steering wheel."
-  },
-  {
-    "section": 2,
-    "section_name": "Driving Safely",
-    "topic": "Minimum Tread Depth",
-    "question": "What is the minimum tread depth requirement for tires other than the front tires?",
-    "choices": [
-      "1/16 inch",
-      "2/32 inch",
-      "3/32 inch",
-      "1/4 inch"
+      "Spring hangers that allow axle movement from proper position",
+      "Clean springs with no rust",
+      "Springs painted recently",
+      "Spring bolts that are tight"
     ],
     "answer_index": 0,
-    "explanation": "Tires other than front tires must have a minimum tread depth of 1/16 inch."
+    "explanation": "Spring hangers that allow axle movement from proper position are dangerous suspension defects that can cause vehicle failure."
   },
   {
     "section": 2,
     "section_name": "Driving Safely",
-    "topic": "Cargo Securing - Free Board",
-    "question": "What is the minimum freeboard (clearance from cargo to top of truck bed) required for loose cargo like dirt or gravel?",
+    "topic": "Vehicle Inspection - Brake Drums",
+    "question": "Which of the following is a defect in brake drums or shoes?",
     "choices": [
-      "2 inches",
-      "4 inches",
-      "6 inches",
-      "12 inches"
-    ],
-    "answer_index": 2,
-    "explanation": "A minimum 6-inch freeboard is required on all loose cargo loads."
-  },
-  {
-    "section": 2,
-    "section_name": "Driving Safely",
-    "topic": "Following Distance",
-    "question": "What is the minimum following distance rule for commercial vehicles?",
-    "choices": [
-      "One second per 10 feet of vehicle length only",
-      "One second per 10 feet of vehicle length plus 1 additional second if speed exceeds 40 mph",
-      "One second for every 5 feet of vehicle length",
-      "At least 300 feet regardless of speed"
+      "Shoes with light polish",
+      "Cracked drums or shoes with oil, grease, or brake fluid on them",
+      "New paint on drums",
+      "Properly secured shoes"
     ],
     "answer_index": 1,
-    "explanation": "You should maintain at least 1 second of following distance for every 10 feet of your vehicle length, plus 1 additional second if driving faster than 40 mph."
+    "explanation": "Bad brake drums or shoes include cracked drums and shoes or pads with oil, grease, or brake fluid on them."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Vehicle Inspection - Steering System",
+    "question": "Which is NOT a steering system defect?",
+    "choices": [
+      "Missing nuts, bolts, or cotter keys",
+      "Bent or loose steering column",
+      "Properly functioning power steering with no leaks",
+      "Loose or broken tie rods"
+    ],
+    "answer_index": 2,
+    "explanation": "Properly functioning power steering with no leaks is good; defects include missing parts and bent, loose, or broken steering components."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Vehicle Inspection - Exhaust System",
+    "question": "What is a danger related to a broken exhaust system?",
+    "choices": [
+      "It improves air conditioning",
+      "It reduces fuel consumption",
+      "Poison fumes can enter the cab or sleeper berth",
+      "It improves visibility"
+    ],
+    "answer_index": 2,
+    "explanation": "A broken exhaust system can let poison fumes into the cab or sleeper berth, which is very dangerous."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Vehicle Inspection - Wheel Problems",
+    "question": "What does rust around wheel nuts indicate?",
+    "choices": [
+      "The wheels are new",
+      "The wheels are painted",
+      "The nuts may be loose",
+      "Normal wheel condition"
+    ],
+    "answer_index": 2,
+    "explanation": "Rust around wheel nuts may mean the nuts are loose and should be checked for tightness. After a tire change, stop later to re-check."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Basic Control - Accelerating",
+    "question": "What precaution should you take when starting to move to avoid rolling back?",
+    "choices": [
+      "Rev the engine to maximum speed",
+      "Partly engage the clutch before taking your foot off the brake, or apply parking brake as needed",
+      "Shift to reverse first",
+      "Always start on a flat surface only"
+    ],
+    "answer_index": 1,
+    "explanation": "For manual transmission vehicles, partly engage the clutch before taking your foot off the brake. You may put on the parking brake to keep from rolling back."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Basic Control - Accelerating",
+    "question": "How should you accelerate when driving a commercial vehicle?",
+    "choices": [
+      "Accelerate as fast as possible",
+      "Smooth and gradual acceleration",
+      "In quick jerks",
+      "Only on flat ground"
+    ],
+    "answer_index": 1,
+    "explanation": "Speed up smoothly and gradually so the vehicle does not jerk. Rough acceleration can cause mechanical damage and damage couplings."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Basic Control - Acceleration in Poor Traction",
+    "question": "What should you do if drive wheels begin to spin when accelerating in rain or snow?",
+    "choices": [
+      "Press harder on the accelerator",
+      "Take your foot off the accelerator",
+      "Brake immediately",
+      "Shift to a higher gear"
+    ],
+    "answer_index": 1,
+    "explanation": "If drive wheels begin to spin, take your foot off the accelerator. You could lose control if you use too much power in rain or snow."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Basic Control - Steering",
+    "question": "How should you hold the steering wheel?",
+    "choices": [
+      "With one hand at the top",
+      "Loosely with fingertips only",
+      "Firmly with both hands on opposite sides of the wheel",
+      "With hands together at the bottom"
+    ],
+    "answer_index": 2,
+    "explanation": "Hold the steering wheel firmly with both hands on opposite sides. If you hit a curb or pothole, the wheel could pull away unless you have a firm hold."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Basic Control - Stopping",
+    "question": "How should you brake when stopping a commercial vehicle?",
+    "choices": [
+      "Push down hard and fast",
+      "Tap the brake lightly",
+      "Push the brake pedal down gradually with controlled pressure",
+      "Use brakes only on flat ground"
+    ],
+    "answer_index": 2,
+    "explanation": "Push the brake pedal down gradually. The amount of brake pressure needed depends on speed and how quickly you need to stop. Control pressure for a smooth stop."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Shifting - Manual Transmission Double Clutching",
+    "question": "What is the basic first step in double clutching to shift up?",
+    "choices": [
+      "Press the accelerator hard",
+      "Release accelerator, push in clutch, and shift to neutral at the same time",
+      "Pull on the handbrake",
+      "Turn on hazard lights"
+    ],
+    "answer_index": 1,
+    "explanation": "The basic method for double clutching starts with releasing the accelerator, pushing in the clutch, and shifting to neutral at the same time."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Shifting - Knowing When to Shift Up",
+    "question": "Which is NOT a way to know when to shift up?",
+    "choices": [
+      "Watch your tachometer and shift at the top of the operating rpm range",
+      "Use road speed and know what speeds each gear is good for",
+      "Listen to engine sounds",
+      "Shift whenever the road is uphill"
+    ],
+    "answer_index": 3,
+    "explanation": "Two ways to know when to shift are: use engine speed (rpm) by watching the tachometer, or use road speed by knowing the right speeds for each gear."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Shifting - Downshifting",
+    "question": "Before starting down a hill, what should you do?",
+    "choices": [
+      "Speed up to build momentum",
+      "Slow down and shift down to a speed you can control without hard braking",
+      "Continue in the current gear",
+      "Shift to neutral and coast"
+    ],
+    "answer_index": 1,
+    "explanation": "Before starting down a hill, slow down and shift down to a speed that you can control without using the brakes hard. Otherwise brakes can overheat."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Shifting - Before Entering a Curve",
+    "question": "Why should you downshift before entering a curve?",
+    "choices": [
+      "To increase speed through the curve",
+      "To allow you to use engine power for stability and to speed up after the curve",
+      "To reduce fuel consumption",
+      "To avoid using the steering wheel"
+    ],
+    "answer_index": 1,
+    "explanation": "Downshift to the right gear before entering a curve. This lets you use some power through the curve to help stability while turning, and to speed up as you exit."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Shifting - Automatic Transmissions",
+    "question": "How can you use an automatic transmission to help slow down on a grade?",
+    "choices": [
+      "You cannot; just use brakes",
+      "Select a low range to get greater engine braking",
+      "Shift to neutral and coast",
+      "Use the parking brake"
+    ],
+    "answer_index": 1,
+    "explanation": "Some automatic transmissions allow you to select a low range to get greater engine braking when going down grades. This is important to reduce brake wear."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Seeing - Mirrors Adjustment",
+    "question": "When should mirror adjustment be checked?",
+    "choices": [
+      "Only when the vehicle is serviced",
+      "Prior to the start of any trip, with trailers straight",
+      "Never; mirrors don't need adjustment",
+      "Only at night"
+    ],
+    "answer_index": 1,
+    "explanation": "Mirror adjustment should be checked prior to the start of any trip and can only be checked accurately when the trailer(s) are straight."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Seeing - Convex Mirrors",
+    "question": "What is an advantage and disadvantage of a convex mirror?",
+    "choices": [
+      "Shows only the rear; nothing on sides",
+      "Shows a wider area than flat mirrors, but everything appears smaller and farther away than it actually is",
+      "Shows everything full-size and accurate",
+      "Shows only what is behind the vehicle"
+    ],
+    "answer_index": 1,
+    "explanation": "Convex mirrors show a wider area than flat mirrors but everything appears smaller and farther away. It's important to realize this and allow for it."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Seeing - Lane Changes",
+    "question": "How many times should you check mirrors during a lane change?",
+    "choices": [
+      "Only once",
+      "Before the change, after signaling, right after starting the change, and after completing it",
+      "Never; just look over your shoulder",
+      "Twice during the change"
+    ],
+    "answer_index": 1,
+    "explanation": "Check mirrors: before changing lanes, after signaling, right after starting the lane change, and after you complete it."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Seeing - Mirror Use While Driving",
+    "question": "How should you use mirrors while driving on the road?",
+    "choices": [
+      "Stare at them constantly",
+      "Check quickly and look back and forth between mirrors and the road ahead without focusing too long on mirrors",
+      "Use them only when turning",
+      "Never check them while moving"
+    ],
+    "answer_index": 1,
+    "explanation": "Check mirrors quickly, looking back and forth between mirrors and the road ahead. Don't focus on mirrors too long or you won't know what's happening ahead."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Communicating - Signaling Turns",
+    "question": "What is the correct procedure for signaling a turn?",
+    "choices": [
+      "Signal right before you turn",
+      "Signal early, signal continuously (don't cancel until turn complete), then cancel the signal",
+      "Signal only to nearby vehicles",
+      "Turn first, then signal to show what you did"
+    ],
+    "answer_index": 1,
+    "explanation": "Signal early (well before the turn), signal continuously (both hands on wheel during turn), and cancel the signal after completing the turn."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Communicating - Lane Change Signaling",
+    "question": "When should you signal before a lane change?",
+    "choices": [
+      "After you start changing lanes",
+      "Only at night",
+      "Before changing lanes; change slowly and smoothly",
+      "Only on highways"
+    ],
+    "answer_index": 2,
+    "explanation": "Put your turn signal on before changing lanes. Change lanes slowly and smoothly so drivers you didn't see may honk or avoid your vehicle."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Communicating - Warning Slow Down",
+    "question": "How do you warn drivers behind you when you need to slow down?",
+    "choices": [
+      "Brake suddenly without warning",
+      "Honk the horn loudly",
+      "A few light taps on the brake pedal to flash lights",
+      "Turn on all lights"
+    ],
+    "answer_index": 2,
+    "explanation": "Use a few light taps on the brake pedal—enough to flash the brake lights—to warn following drivers that you're slowing down."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Communicating - Communicating Presence",
+    "question": "When passing a vehicle or pedestrian, you should:",
+    "choices": [
+      "Assume they see you",
+      "Assume they don't see you and be ready to avoid a crash even if they don't see or hear you",
+      "Never pass if you're not sure they see you",
+      "Only pass on left side"
+    ],
+    "answer_index": 1,
+    "explanation": "Whenever you are about to pass, assume they don't see you. They could suddenly move in front of you. Drive carefully enough to avoid a crash even if they don't see you."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Communicating - Hard to See Conditions",
+    "question": "What should you do to make yourself easier to see in dawn, dusk, rain, or snow?",
+    "choices": [
+      "Drive faster to get through the area",
+      "Turn on headlights (low beams), not just identification or clearance lights",
+      "Use only parking lights",
+      "Drive with hazard flashers only"
+    ],
+    "answer_index": 1,
+    "explanation": "Turn on your headlights (low beams, not just identification or clearance lights). Use low beams; high beams can bother people daytime and at night."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Communicating - Parked Vehicle Warnings",
+    "question": "What should you do when you pull off the road and stop?",
+    "choices": [
+      "Leave all lights off to save energy",
+      "Turn on four-way emergency flashers",
+      "Turn on hazard lights only at night",
+      "Position your vehicle in the middle of the road for visibility"
+    ],
+    "answer_index": 1,
+    "explanation": "When you pull off the road and stop, turn on four-way emergency flashers. This is important at night."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Curves",
+    "question": "What can happen if you take a curve too fast in a commercial vehicle?",
+    "choices": [
+      "Nothing; curves don't affect speed",
+      "Tires lose traction and you skid off, OR tires keep traction and vehicle rolls over",
+      "You accelerate too quickly",
+      "Your brakes cool down"
+    ],
+    "answer_index": 1,
+    "explanation": "If you take a curve too fast, tires can lose traction and you skid off, or tires may keep traction and the vehicle rolls over."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Curves",
+    "question": "What should you do before entering a curve?",
+    "choices": [
+      "Speed up to get through it faster",
+      "Slow to a safe speed before entering; brake in a curve is dangerous",
+      "Use high gear through the curve",
+      "Don't shift gears while turning"
+    ],
+    "answer_index": 1,
+    "explanation": "Slow to a safe speed before you enter a curve. Braking in a curve is dangerous because it is easier to lock wheels and cause a skid."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Distance Ahead",
+    "question": "What should you always be able to do regarding stopping and visibility?",
+    "choices": [
+      "Stop within twice the distance you can see",
+      "Stop within the distance you can see ahead",
+      "Stop immediately without looking",
+      "Only worry about stopping on clear days"
+    ],
+    "answer_index": 1,
+    "explanation": "You should always be able to stop within the distance you can see ahead. Fog, rain, or other conditions may require you to slow down."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Traffic Flow",
+    "question": "What is the safest speed when driving in heavy traffic?",
+    "choices": [
+      "The speed limit",
+      "The speed of other vehicles",
+      "As fast as your vehicle can go",
+      "A speed 10 mph above other vehicles"
+    ],
+    "answer_index": 1,
+    "explanation": "The safest speed in heavy traffic is the speed of other vehicles. Vehicles going the same direction at the same speed won't run into each other."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Traffic Flow",
+    "question": "Why is it not worth exceeding speed limits to save time?",
+    "choices": [
+      "It never saves time",
+      "You'll have to keep passing other vehicles, increasing crash risk and fatigue",
+      "It uses more fuel",
+      "It's always illegal"
+    ],
+    "answer_index": 1,
+    "explanation": "If you drive faster than traffic, you'll keep passing other vehicles, increasing crash chance and causing fatigue. Risks aren't worth any time saved."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Downgrades",
+    "question": "What is the principal way to control speed on downgrades?",
+    "choices": [
+      "Use the brakes continuously",
+      "Use the braking effect of the engine in lower gears",
+      "Shift to neutral and coast",
+      "Speed up to avoid slow traffic"
+    ],
+    "answer_index": 1,
+    "explanation": "Use the braking effect of the engine as the principal way to control speed on downgrades. This is greatest in lower gears near governed rpms."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Downgrades",
+    "question": "What should you do before starting down a long grade?",
+    "choices": [
+      "Accelerate to build momentum",
+      "Shift to your transmission to a low gear before starting down",
+      "Coast in neutral",
+      "Speed up to clear the grade quickly"
+    ],
+    "answer_index": 1,
+    "explanation": "Shift your transmission to a low gear before starting down the grade and use proper braking techniques to maintain control."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Work Zones",
+    "question": "What is the number one cause of injury and death in roadway work zones?",
+    "choices": [
+      "Distracted driving",
+      "Poor road conditions",
+      "Speeding traffic",
+      "Vehicle defects"
+    ],
+    "answer_index": 2,
+    "explanation": "Speeding traffic is the number one cause of injury and death in roadway work zones. Always observe posted speed limits."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Black Ice",
+    "question": "How can you identify black ice on the road?",
+    "choices": [
+      "It's always black colored",
+      "It's thicker ice that's always visible",
+      "When temperature is below freezing and the road looks wet, it may be black ice",
+      "You can hear it under the tires"
+    ],
+    "answer_index": 2,
+    "explanation": "Black ice is a thin, clear layer you can see the road underneath. When temperature is below freezing and the road looks wet, watch out for black ice."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Bridges Freezing",
+    "question": "When should you be especially careful about ice on bridges?",
+    "choices": [
+      "Only in the middle of winter",
+      "When temperature is close to 32 degrees Fahrenheit",
+      "Never; bridges don't freeze",
+      "Only on sunny days"
+    ],
+    "answer_index": 1,
+    "explanation": "Bridges freeze before the road surface will. Be especially careful when temperature is close to 32 degrees Fahrenheit."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Vehicle Icing",
+    "question": "How can you check if the road surface is starting to ice up?",
+    "choices": [
+      "Look at the thermometer",
+      "Open the window and feel the front of the mirror or antenna for ice",
+      "Listen to tire sounds",
+      "Check the time of day"
+    ],
+    "answer_index": 1,
+    "explanation": "Open the window and feel the front of the mirror, mirror support, or antenna. If there's ice on these, the road surface is probably starting to ice up."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Controlling Speed - Rain Beginning",
+    "question": "Why is the road especially slippery right when rain begins?",
+    "choices": [
+      "Rain immediately washes the road clean",
+      "Water mixes with oil left on the road by vehicles, making it very slippery",
+      "The road temperature drops instantly",
+      "Rain reduces visibility"
+    ],
+    "answer_index": 1,
+    "explanation": "Right after it starts to rain, water mixes with oil left on the road by vehicles. This makes the road very slippery."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Space Behind",
+    "question": "What should you do if a heavy load is slowing you down on a hill?",
+    "choices": [
+      "Stay in the left lane to go faster",
+      "Try to pass multiple vehicles at once",
+      "Stay in the right lane if you can",
+      "Speed up to keep up with traffic"
+    ],
+    "answer_index": 2,
+    "explanation": "If a heavy load is slowing you down, stay in the right lane if you can. Heavy vehicles are often tailgated when they can't keep up with traffic."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Sides",
+    "question": "Why should you avoid driving alongside other vehicles?",
+    "choices": [
+      "It's more boring",
+      "Another driver may change lanes suddenly and turn into you, or you may be trapped when needing to change lanes",
+      "It uses more fuel",
+      "It's faster"
+    ],
+    "answer_index": 1,
+    "explanation": "Don't drive alongside others. Another driver may change lanes suddenly and hit you, or you may be trapped when you need to change lanes."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Sides",
+    "question": "What danger do strong winds present when driving alongside other vehicles?",
+    "choices": [
+      "They improve visibility",
+      "They make it hard to stay in your lane, especially for lighter vehicles",
+      "They slow you down",
+      "They only affect parked vehicles"
+    ],
+    "answer_index": 1,
+    "explanation": "Strong winds make it difficult to stay in your lane. Don't drive alongside others if you can avoid it, especially in strong wind situations."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Overhead",
+    "question": "Why shouldn't you trust posted heights at bridges and overpasses?",
+    "choices": [
+      "The signs are always wrong",
+      "Re-paving or packed snow may have reduced clearances since the heights were posted",
+      "Bridges grow taller over time",
+      "Heights are only for cars"
+    ],
+    "answer_index": 1,
+    "explanation": "Don't assume posted heights are correct. Re-paving or packed snow may have reduced clearances since the heights were posted."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Overhead",
+    "question": "How does the weight of cargo affect a van's height?",
+    "choices": [
+      "Heavy cargo raises the van higher",
+      "An empty van is higher than a loaded one",
+      "Weight has no effect on height",
+      "Cargo weight makes the van lower only at the rear"
+    ],
+    "answer_index": 1,
+    "explanation": "An empty van is higher than a loaded one. Just because you got under a bridge when loaded doesn't mean you can when empty."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Below",
+    "question": "When is the space under a vehicle particularly small?",
+    "choices": [
+      "Never; there's always plenty of space below",
+      "When a vehicle is heavily loaded",
+      "When driving on highways",
+      "When carrying light cargo"
+    ],
+    "answer_index": 1,
+    "explanation": "Many drivers forget about space under their vehicles. That space can be very small when a vehicle is heavily loaded."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Below",
+    "question": "What should you be careful about when crossing drainage channels or railroad tracks?",
+    "choices": [
+      "They don't pose any hazard",
+      "Ends of vehicles can drag or get hung up, especially trailers with low clearance",
+      "They improve traction",
+      "They're always clear"
+    ],
+    "answer_index": 1,
+    "explanation": "Drainage channels across roads can cause vehicle ends to drag. Railroad tracks can cause problems with low-clearance trailers. Cross carefully."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Right Turns",
+    "question": "When making a right turn and you can't make it without swinging into another lane, what should you do?",
+    "choices": [
+      "Don't turn; use an alternative route",
+      "Turn wide as you complete the turn while keeping rear close to curb",
+      "Turn wide to the left first to signal your intent",
+      "Speed up through the turn"
+    ],
+    "answer_index": 1,
+    "explanation": "Turn wide as you complete the right turn, keeping the rear of your vehicle close to the curb to prevent other drivers from passing on the right."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Right Turns",
+    "question": "Why shouldn't you turn wide to the left at the START of a right turn?",
+    "choices": [
+      "It wastes time",
+      "A following driver may think you're turning left and try to pass on the right, causing a crash",
+      "It improves visibility",
+      "It helps signal your turn"
+    ],
+    "answer_index": 1,
+    "explanation": "Don't turn wide to the left at the start of a right turn. A following driver may think you're turning left and try to pass on the right."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Left Turns",
+    "question": "When making a left turn, when should you start the turn?",
+    "choices": [
+      "As early as possible from your lane",
+      "After you have reached the center of the intersection",
+      "Before entering the intersection",
+      "When you see oncoming traffic slow down"
+    ],
+    "answer_index": 1,
+    "explanation": "Make sure you have reached the center of the intersection before you start the left turn. If you turn too soon, off-tracking may hit another vehicle."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Left Turns",
+    "question": "If there are two turning lanes, which one should you take?",
+    "choices": [
+      "The left (inside) lane for better visibility",
+      "The right turning lane; don't start in inside lane or you may have to swing right",
+      "Whichever is most convenient",
+      "The left lane is always correct"
+    ],
+    "answer_index": 1,
+    "explanation": "Always take the right turn lane. Don't start in the inside lane because you may have to swing right to make the turn."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Managing Space - Entering Traffic",
+    "question": "Why may you need a much larger gap to enter traffic in a commercial vehicle than in a car?",
+    "choices": [
+      "You're not sure of your route",
+      "Because of slow acceleration and the space large vehicles require",
+      "To show other drivers respect",
+      "There's no real difference"
+    ],
+    "answer_index": 1,
+    "explanation": "Because of slow acceleration and the space large vehicles require, you may need a much larger gap to enter traffic than you would in a car."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Work Zones",
+    "question": "What hazards are present in work zones?",
+    "choices": [
+      "None; work zones are always clear",
+      "Narrower lanes, sharp turns, uneven surfaces, distracted drivers, and workers",
+      "Only when raining",
+      "Only during nighttime"
+    ],
+    "answer_index": 1,
+    "explanation": "In work zones there may be narrower lanes, sharp turns, or uneven surfaces. Other drivers are often distracted and workers/construction vehicles may get in the way."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Drop Off",
+    "question": "What is a pavement drop off hazard?",
+    "choices": [
+      "A small dip in the road",
+      "A sharp drop near the edge that can tilt your vehicle and cause it to hit roadside objects",
+      "A painted marking on the road",
+      "Water on the road"
+    ],
+    "answer_index": 1,
+    "explanation": "A pavement drop off is a sharp drop near the edge that can tilt your vehicle toward the roadside and cause the top to hit roadside objects."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Foreign Objects",
+    "question": "Why should you be alert for foreign objects on the road?",
+    "choices": [
+      "They never cause problems",
+      "They can damage tires, rims, electrical and brake lines, and become lodged between dual tires",
+      "They only affect motorcycles",
+      "They improve traction"
+    ],
+    "answer_index": 1,
+    "explanation": "Foreign objects can damage tires, wheel rims, electrical/brake lines, and can be caught between dual tires causing severe damage."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Off Ramps and On Ramps",
+    "question": "Why can off ramps be particularly dangerous for commercial vehicles?",
+    "choices": [
+      "They have no speed limits",
+      "Speed limit signs show speeds safe for automobiles but may not be safe for larger or loaded vehicles",
+      "They're always one-way",
+      "They're designed for trucks only"
+    ],
+    "answer_index": 1,
+    "explanation": "Off ramps and on ramps often have speed limit signs, but these speeds may be safe for automobiles but not for larger or heavily loaded vehicles."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Blocked Vision",
+    "question": "Which vehicles should you watch carefully because of limited vision?",
+    "choices": [
+      "Only sports cars",
+      "Vans, loaded station wagons, and rental trucks with blocked rear windows",
+      "Only large trucks",
+      "Motorcycles only"
+    ],
+    "answer_index": 1,
+    "explanation": "Watch vans, loaded station wagons, and rental trucks carefully. Their drivers often don't realize how limited their vision is to sides and rear."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Parked Vehicles",
+    "question": "What signs indicate a parked vehicle is about to move?",
+    "choices": [
+      "There are no warning signs",
+      "Brake lights, backup lights, exhaust, movement inside, or the vehicle itself starting to move",
+      "Only the color of the car",
+      "Only at night"
+    ],
+    "answer_index": 1,
+    "explanation": "Watch for brake lights or backup lights, exhaust, movement inside the vehicle, or the vehicle itself moving—these show a driver is about to move."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Stopped Bus",
+    "question": "Why should you be careful of a stopped bus?",
+    "choices": [
+      "Buses never stop on roadways",
+      "Passengers may cross in front or behind; they often can't see you",
+      "Buses are always empty",
+      "There's no hazard from a stopped bus"
+    ],
+    "answer_index": 1,
+    "explanation": "Be careful of a stopped bus. Passengers may cross in front of or behind it, and they often can't see you."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Pedestrians and Bicyclists",
+    "question": "Why are pedestrians and bicyclists walking with their back to traffic a hazard?",
+    "choices": [
+      "They're not a hazard",
+      "They can't see you and may not hear you either, especially with headsets on",
+      "They always look before moving",
+      "They're very visible"
+    ],
+    "answer_index": 1,
+    "explanation": "Walkers and bicyclists with backs to traffic can't see you. With portable stereos and headsets, they can't hear you either."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Children",
+    "question": "Why are children a serious hazard?",
+    "choices": [
+      "They're not a hazard",
+      "They act quickly without checking traffic, and playing children may not look for traffic",
+      "They're always aware of danger",
+      "They only play at night"
+    ],
+    "answer_index": 1,
+    "explanation": "Children are a serious hazard. They tend to act quickly without checking traffic, and children playing may not look for traffic."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Confused Drivers",
+    "question": "What are clues that a driver is confused?",
+    "choices": [
+      "They're always going fast",
+      "Stopping in middle of block, changing lanes for no reason, hesitation, very slow driving, looking at maps or street signs",
+      "Only visible at night",
+      "Speeding excessively"
+    ],
+    "answer_index": 1,
+    "explanation": "Clues to confused drivers include stopping mid-block, changing lanes suddenly, hesitation, slow driving, or looking at maps/signs."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazards - Impaired Drivers",
+    "question": "Which is NOT a clue to an impaired driver?",
+    "choices": [
+      "Weaving across the road",
+      "Stopping at wrong times",
+      "Driving smoothly and predictably",
+      "Leaving the road"
+    ],
+    "answer_index": 2,
+    "explanation": "Clues to impaired drivers (sleepy, drunk, drugged) include weaving, leaving the road, stopping at wrong times, and erratic speed changes."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Distracted Driving - Effects",
+    "question": "What are effects of distracted driving?",
+    "choices": [
+      "Improved focus and reaction time",
+      "Slowed perception and delayed decision making",
+      "No change in driving ability",
+      "Faster stopping ability"
+    ],
+    "answer_index": 1,
+    "explanation": "Distracted driving causes slowed perception (delay perceiving traffic events) and delayed decision making/improper action."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Distracted Driving - Types",
+    "question": "What is an example of a physical distraction?",
+    "choices": [
+      "Thinking about something else",
+      "Reaching for an object in the vehicle",
+      "Looking at a billboard",
+      "Listening to the radio"
+    ],
+    "answer_index": 1,
+    "explanation": "Physical distraction is one that causes you to take your hands off the wheel or eyes off the road, such as reaching for an object."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Distracted Driving - Types",
+    "question": "Which type of distraction increases risk the most?",
+    "choices": [
+      "Physical distraction only",
+      "Mental distraction only",
+      "Both physical and mental distraction together",
+      "None; distractions don't matter"
+    ],
+    "answer_index": 2,
+    "explanation": "Both physical and mental distraction combined create the greatest chance a crash could happen, such as talking on cell phones or texting."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Aggressive Driving vs Road Rage",
+    "question": "What best distinguishes road rage from aggressive driving?",
+    "choices": [
+      "Road rage is only speeding; aggressive driving is tailgating",
+      "Aggressive driving is pushy/selfish driving; road rage includes intent to do harm",
+      "They are exactly the same",
+      "Road rage happens only in cities"
+    ],
+    "answer_index": 1,
+    "explanation": "The manual defines aggressive driving as selfish/pushy operation, while road rage involves intent to harm another person or vehicle."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Confronted by Aggressive Driver",
+    "question": "When confronted by an aggressive driver, what is the safest first response?",
+    "choices": [
+      "Challenge them by holding your lane",
+      "Avoid eye contact and make every attempt to get out of their way",
+      "Brake-check to warn them",
+      "Exchange gestures to de-escalate"
+    ],
+    "answer_index": 1,
+    "explanation": "Guidance is to avoid confrontation: get out of the way, avoid eye contact, ignore gestures, and report the driver when safe."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Winter Driving - Tire Chains",
+    "question": "What chain-related preparation does the manual recommend for winter driving?",
+    "choices": [
+      "Carry one chain for emergency use only",
+      "Carry the right number of chains and extra cross-links that fit your drive tires",
+      "Chains are needed only for steering tires",
+      "Install chains before every trip regardless of conditions"
+    ],
+    "answer_index": 1,
+    "explanation": "The manual says to carry the correct number of properly fitting chains plus extra cross-links and inspect chain condition."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Winter Driving - Wet Brakes",
+    "question": "After driving through deep water, what should you do to restore brake effectiveness?",
+    "choices": [
+      "Apply hard braking immediately",
+      "Maintain light brake pressure briefly to heat and dry brakes, then test when safe",
+      "Shift to neutral and coast",
+      "Set parking brake until brakes cool"
+    ],
+    "answer_index": 1,
+    "explanation": "The manual advises light brake pressure to dry brakes after water exposure, then a safe test stop to verify braking."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hot Weather - Tire Pressure",
+    "question": "In very hot weather, what should you do if tire pressure rises from heat?",
+    "choices": [
+      "Bleed air to return to normal immediately",
+      "Do not let air out; pressure will drop when tires cool",
+      "Add air for stability",
+      "Ignore pressure changes"
+    ],
+    "answer_index": 1,
+    "explanation": "Hot-weather guidance says not to bleed hot tires; doing so can leave pressure too low after the tires cool."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Skid Causes",
+    "question": "Which is one of the four main causes of skids listed in the manual?",
+    "choices": [
+      "Under-steering only",
+      "Over-braking, over-steering, over-acceleration, or driving too fast for conditions",
+      "Using low gear on downgrades",
+      "Keeping long following distance"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 2.19 lists four causes: over-braking, over-steering, over-acceleration, and driving too fast for conditions."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Drive-wheel Braking Skid Recovery",
+    "question": "What is the first corrective action for a drive-wheel braking skid?",
+    "choices": [
+      "Brake harder to straighten the vehicle",
+      "Stop braking so rear wheels can roll again",
+      "Accelerate out of the skid",
+      "Steer away from the skid direction and hold"
+    ],
+    "answer_index": 1,
+    "explanation": "For a drive-wheel braking skid, first stop braking to let wheels roll and regain traction, then counter-steer as needed."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Front-wheel Skid Recovery",
+    "question": "When a front-wheel skid occurs, what is the proper recovery action?",
+    "choices": [
+      "Turn sharper and brake harder",
+      "Stop turning/braking so hard and let the vehicle slow down",
+      "Accelerate to transfer weight rearward",
+      "Use parking brake briefly"
+    ],
+    "answer_index": 1,
+    "explanation": "In a front-wheel skid, the key is to reduce steering/braking demand and let speed drop until traction returns."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Accident Procedures - Basic Steps",
+    "question": "What are the three basic steps at any accident scene?",
+    "choices": [
+      "Call dispatch, tow vehicle, resume route",
+      "Protect the area, notify authorities, care for the injured",
+      "Move injured first, then move vehicles",
+      "Set triangles, leave scene, file report later"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 2.20 gives three basics: protect the area, notify authorities, and care for the injured."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Accident Procedures - Severe Injury",
+    "question": "When should you move a severely injured person after a crash?",
+    "choices": [
+      "Immediately, to improve comfort",
+      "Only if danger from fire or passing traffic makes it necessary",
+      "Whenever police have not arrived",
+      "Always move them to shoulder"
+    ],
+    "answer_index": 1,
+    "explanation": "The manual says do not move severely injured people unless immediate danger (such as fire or traffic) requires it."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazmat Basics - Rule Intent",
+    "question": "What are the three main intents of hazardous materials rules?",
+    "choices": [
+      "Increase speed, reduce inspections, simplify paperwork",
+      "Contain the product, communicate the risk, ensure safe drivers/equipment",
+      "Reduce placards, increase load weight, reduce routing limits",
+      "Only protect cargo value"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 2.23 states hazmat rules are intended to contain products, communicate risks, and ensure safe drivers and equipment."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazmat Shipping Papers",
+    "question": "Where may hazmat shipping papers be kept while driving?",
+    "choices": [
+      "Only in the trailer",
+      "In a driver-door pouch, in clear view within reach, or on the driver seat when out of vehicle",
+      "Only with dispatch",
+      "Anywhere in sleeper berth"
+    ],
+    "answer_index": 1,
+    "explanation": "The manual specifies approved locations so responders can quickly find hazmat shipping papers after an incident."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Hazmat Placards",
+    "question": "How many identical placards must a placarded vehicle display, and where?",
+    "choices": [
+      "Two placards, front and rear only",
+      "At least four placards: front, rear, and both sides",
+      "One placard on driver door",
+      "Three placards on rear and sides"
+    ],
+    "answer_index": 1,
+    "explanation": "Placarded vehicles must display at least four identical placards: one on each side, front, and rear."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Illness and Driving",
+    "question": "If you are too ill to operate safely, what does the manual allow?",
+    "choices": [
+      "Continue normal route until shift end",
+      "Do not drive, except in emergency to nearest place you can safely stop",
+      "Drive only on highways",
+      "Take medication and continue"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 2.22.3 says do not drive when too ill to operate safely, except in emergency to nearest safe stopping location."
   }
 ]

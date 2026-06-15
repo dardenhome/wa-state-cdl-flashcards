@@ -222,5 +222,1237 @@
     ],
     "answer_index": 2,
     "explanation": "Students should walk 10 feet away from the bus where the driver can see them, stop at the road edge, wait for the signal, then cross."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "CDL Endorsement Requirements",
+    "question": "Which endorsement is required to drive a bus with a passenger endorsement?",
+    "choices": [
+      "No endorsement required",
+      "Passenger (P) endorsement",
+      "Air brake (S) endorsement",
+      "School bus (S) endorsement"
+    ],
+    "answer_index": 1,
+    "explanation": "Bus drivers must have a passenger endorsement on their CDL. If the bus has air brakes, an air brake endorsement is also required."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Driver Certification",
+    "question": "What does a driver certify when signing the previous driver's inspection report?",
+    "choices": [
+      "That the report was accurate",
+      "That all defects reported have been fixed or don't need repair",
+      "That no new defects were found",
+      "That the bus should be taken out of service"
+    ],
+    "answer_index": 1,
+    "explanation": "When you sign the previous driver's report, you certify that defects reported earlier have been certified as repaired or not needed to be repaired."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Parking Brake Check",
+    "question": "What must you verify about the parking brake during pre-trip inspection?",
+    "choices": [
+      "Only visual inspection",
+      "Test it to ensure it holds the bus",
+      "Check if it has air pressure",
+      "It doesn't need to be checked"
+    ],
+    "answer_index": 1,
+    "explanation": "The parking brake must be checked and verified to work properly and hold the bus in place."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Steering Mechanism Check",
+    "question": "What should be inspected about the steering mechanism?",
+    "choices": [
+      "Only the steering wheel grip",
+      "Whether steering operates smoothly with no excessive free play",
+      "The steering wheel color only",
+      "Nothing; buses don't need steering checks"
+    ],
+    "answer_index": 1,
+    "explanation": "The steering mechanism must be checked to ensure it operates smoothly and safely with no excessive free play or damage."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Lights and Reflectors",
+    "question": "What lights and reflectors must a bus have?",
+    "choices": [
+      "Only headlights",
+      "Headlights, taillights, and brake lights only",
+      "All lights and reflectors must work properly including brake lights, turn signals, and hazard lights",
+      "Buses don't need reflectors"
+    ],
+    "answer_index": 2,
+    "explanation": "Lights and reflectors must all be in good working order, including headlights, taillights, brake lights, turn signals, and hazard lights."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Horn and Wipers",
+    "question": "What condition must the horn and windshield wipers be in?",
+    "choices": [
+      "They are optional equipment",
+      "They must be in good working order",
+      "Only the horn needs to be checked",
+      "Wipers are not required"
+    ],
+    "answer_index": 1,
+    "explanation": "Both the horn and windshield wipers must be in good working order for safe bus operation."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Mirrors and Vision",
+    "question": "What type of mirrors must a bus have and be in what condition?",
+    "choices": [
+      "No mirrors required",
+      "Rear-vision mirrors only",
+      "Rear-vision mirrors in good working condition",
+      "Any type of mirror"
+    ],
+    "answer_index": 2,
+    "explanation": "Rear-vision mirrors must be present and in good working condition for safe passenger transport."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Coupling Devices",
+    "question": "If a bus has a trailer or semitrailer, what additional items must be checked?",
+    "choices": [
+      "Only the tire tread",
+      "Service brakes and air hose couplings",
+      "Nothing additional",
+      "Only lights"
+    ],
+    "answer_index": 1,
+    "explanation": "If a bus has a trailer or semitrailer, service brakes and air hose couplings must be checked during pre-trip inspection."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Wheels and Rims",
+    "question": "What conditions make wheels or rims unsafe for bus operation?",
+    "choices": [
+      "Any wheel condition is acceptable",
+      "Cracks, chips, missing lugs, or bent rims make wheels unsafe",
+      "Only flat tires are unsafe",
+      "Wheels never need inspection"
+    ],
+    "answer_index": 1,
+    "explanation": "Wheels and rims must be checked for cracks, chips, missing lugs, or damage that would make them unsafe."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Emergency Equipment - Extinguisher",
+    "question": "What emergency equipment must every bus have?",
+    "choices": [
+      "Only first aid kits",
+      "Fire extinguisher and emergency reflectors",
+      "Only reflectors",
+      "No special emergency equipment"
+    ],
+    "answer_index": 1,
+    "explanation": "Every bus must have a fire extinguisher and emergency reflectors (3 triangles, 6 fusees, or 3 liquid burning flares) as required by law."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Fuses and Electrical",
+    "question": "What must a bus have for electrical protection?",
+    "choices": [
+      "Nothing is required",
+      "Spare electrical fuses unless equipped with circuit breakers",
+      "Only circuit breakers",
+      "Fuses and circuit breakers are unnecessary"
+    ],
+    "answer_index": 1,
+    "explanation": "The bus must have spare electrical fuses unless equipped with circuit breakers as per safety requirements."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Emergency Exits",
+    "question": "What must you do with open emergency exits before driving?",
+    "choices": [
+      "Leave them open for ventilation",
+      "Close any open emergency exits",
+      "Mark them with cones",
+      "They should stay open at all times"
+    ],
+    "answer_index": 1,
+    "explanation": "You must close any open emergency exits before driving to prevent passenger injury and satisfy safety regulations."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Access Panels",
+    "question": "What should be done with access panels for baggage or engine before driving?",
+    "choices": [
+      "Leave them open for inspection",
+      "Close any open access panels",
+      "Leave them partially open",
+      "Panels don't need to be closed"
+    ],
+    "answer_index": 1,
+    "explanation": "All open access panels (for baggage, restroom, engine, etc.) must be closed before driving the bus."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Aisles and Stairwells",
+    "question": "What condition must aisles and stairwells be in?",
+    "choices": [
+      "They can have items in them",
+      "They must always be clear for rider safety",
+      "Stairwells don't need to be clear",
+      "Obstructions are acceptable"
+    ],
+    "answer_index": 1,
+    "explanation": "Aisles and stairwells should always be clear to ensure rider safety and prevent trips and falls."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Handholds and Railings",
+    "question": "What condition must handholds and railings be in?",
+    "choices": [
+      "They don't need inspection",
+      "They must be secure and in safe working condition",
+      "Only visual inspection is needed",
+      "Broken handholds are acceptable"
+    ],
+    "answer_index": 1,
+    "explanation": "Each handhold and railing must be checked to ensure they are secure and in safe working condition for rider safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Floor Covering",
+    "question": "What should you check about the floor covering inside the bus?",
+    "choices": [
+      "Floor color only",
+      "That it is in safe condition with no tears or holes that could trip riders",
+      "Carpet thickness only",
+      "Nothing needs to be checked"
+    ],
+    "answer_index": 1,
+    "explanation": "Floor covering must be in safe condition to prevent riders from tripping or being injured."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Signaling Devices",
+    "question": "Which signaling devices must be checked on a bus?",
+    "choices": [
+      "None are required",
+      "Only the horn",
+      "Restroom emergency buzzer and other signaling devices required by the bus design",
+      "Signaling devices are optional"
+    ],
+    "answer_index": 2,
+    "explanation": "Signaling devices including the restroom emergency buzzer (if equipped) must be in working condition."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Emergency Exit Handles",
+    "question": "What condition must emergency exit handles be in?",
+    "choices": [
+      "They don't need inspection",
+      "They must work properly and be clearly accessible",
+      "Only the door itself needs checking",
+      "Broken handles are acceptable"
+    ],
+    "answer_index": 1,
+    "explanation": "Emergency exit handles must be in working condition to ensure passengers can exit safely in an emergency."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Bus Seats",
+    "question": "What must be true about bus seats?",
+    "choices": [
+      "Seats can be loose if still usable",
+      "All seats must be securely fastened to the bus",
+      "Seat condition is not important",
+      "Only the driver's seat needs to be secure"
+    ],
+    "answer_index": 1,
+    "explanation": "All seats must be securely fastened to the bus to ensure passenger safety and prevent seats from coming loose during driving."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Open Emergency Exits",
+    "question": "When driving, what must never be allowed?",
+    "choices": [
+      "Passenger talking",
+      "Luggage in aisles",
+      "An open emergency exit door or window",
+      "The use of air conditioning"
+    ],
+    "answer_index": 2,
+    "explanation": "Never drive with an open emergency exit door or window, as this creates a safety hazard for passengers."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Emergency Exit Signs",
+    "question": "What must be true about emergency exit signs?",
+    "choices": [
+      "They are optional",
+      "They must be clearly visible on every emergency door",
+      "Only required at night",
+      "Signs don't matter if doors are marked"
+    ],
+    "answer_index": 1,
+    "explanation": "The 'Emergency Exit' sign on emergency doors must be clearly visible to help passengers identify exits in an emergency."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Emergency Exit Lights",
+    "question": "When must the red emergency door light be turned on?",
+    "choices": [
+      "It doesn't need to be used",
+      "Only during inspections",
+      "At night or any time you use outside lights",
+      "Only in emergencies"
+    ],
+    "answer_index": 2,
+    "explanation": "If the bus has a red emergency door light, it must be turned on at night or any time you use your outside lights."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Roof Hatches",
+    "question": "Under what conditions may roof hatches be left partly open?",
+    "choices": [
+      "Anytime for ventilation",
+      "Only some emergency roof hatches may be locked partly open for fresh air",
+      "They must always be fully closed",
+      "Roof hatches are not allowed"
+    ],
+    "answer_index": 1,
+    "explanation": "Some emergency roof hatches may be locked in a partly open position for fresh air, but should not be left open as regular practice."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Roof Hatches - Clearance",
+    "question": "What must you keep in mind when driving with roof hatches open?",
+    "choices": [
+      "Nothing special needs to be considered",
+      "The bus's higher clearance with hatches open",
+      "Only that passengers can see better",
+      "Hatches don't affect clearance"
+    ],
+    "answer_index": 1,
+    "explanation": "Keep in mind the bus's higher clearance while driving with roof hatches open to avoid hitting overhead structures."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Driver Seatbelt",
+    "question": "What should every driver's seat have, and when should it be used?",
+    "choices": [
+      "A headrest only",
+      "A seat belt that should always be used for safety",
+      "Nothing special is required",
+      "Only armrests"
+    ],
+    "answer_index": 1,
+    "explanation": "The driver's seat should have a seat belt and it should always be used for the driver's safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Baggage and Cargo Placement",
+    "question": "Where should carry-on baggage NOT be placed on a bus?",
+    "choices": [
+      "In passenger lap bags",
+      "In doorways or aisles",
+      "In compartments",
+      "Under seats only"
+    ],
+    "answer_index": 1,
+    "explanation": "Baggage should not be left in doorways or aisles as it can trip other riders and obstruct emergency access."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Baggage Requirements",
+    "question": "What must baggage and freight placement allow?",
+    "choices": [
+      "Passengers to stand anywhere they want",
+      "The driver to move freely and easily, riders to exit in emergencies, and protection from falling baggage",
+      "Baggage to be stacked anywhere",
+      "Cargo to block emergency exits"
+    ],
+    "answer_index": 1,
+    "explanation": "Baggage and freight must be secured to allow the driver freedom of movement, ensure emergency exits are accessible, and prevent injury if cargo shifts."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Identification",
+    "question": "How are hazardous materials marked on containers?",
+    "choices": [
+      "By color only",
+      "By name, ID number, and hazard label (four-inch diamond shape)",
+      "Hazmat doesn't need marking",
+      "By text only"
+    ],
+    "answer_index": 1,
+    "explanation": "Hazardous materials are marked with the material name, identification number, and diamond-shaped hazard labels so transporters can identify them."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Recognition",
+    "question": "What should you watch for when boarding passengers?",
+    "choices": [
+      "Only passenger clothing",
+      "Cargo or baggage containing hazardous materials marked with diamond labels",
+      "Nothing special needs attention",
+      "Only large bags"
+    ],
+    "answer_index": 1,
+    "explanation": "Watch for diamond-shaped hazard labels on luggage and cargo. Do not transport any hazardous material unless you're sure the rules allow it."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Explosives",
+    "question": "Which hazard class includes ammunition and fireworks?",
+    "choices": [
+      "Class 2 - Gases",
+      "Class 1 - Explosives",
+      "Class 3 - Flammable Liquids",
+      "Class 5 - Oxidizers"
+    ],
+    "answer_index": 1,
+    "explanation": "Class 1 includes explosives such as ammunition, dynamite, and fireworks and is generally prohibited on buses."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Gases",
+    "question": "What is an example of Class 2 hazardous materials?",
+    "choices": [
+      "Gasoline and acetone",
+      "Propane, oxygen, and helium",
+      "Pesticides and arsenic",
+      "Matches and fuses"
+    ],
+    "answer_index": 1,
+    "explanation": "Class 2 gases include propane, oxygen, helium, and other compressed gases that are prohibited on most buses."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Flammable",
+    "question": "Which class includes gasoline and fuel?",
+    "choices": [
+      "Class 4 - Flammable Solids",
+      "Class 3 - Flammable Liquids",
+      "Class 1 - Explosives",
+      "Class 2 - Gases"
+    ],
+    "answer_index": 1,
+    "explanation": "Class 3 includes flammable liquids such as gasoline, fuel, and acetone."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Flammable Solids",
+    "question": "What is an example of Class 4 hazardous materials?",
+    "choices": [
+      "Propane and oxygen",
+      "Pesticides and arsenic",
+      "Matches and fuses",
+      "Uranium and plutonium"
+    ],
+    "answer_index": 2,
+    "explanation": "Class 4 includes flammable solids such as matches and fuses that can ignite easily."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Oxidizers",
+    "question": "Which class includes ammonium nitrate?",
+    "choices": [
+      "Class 3 - Flammable Liquids",
+      "Class 5 - Oxidizers",
+      "Class 6 - Poisons",
+      "Class 2 - Gases"
+    ],
+    "answer_index": 1,
+    "explanation": "Class 5 includes oxidizers such as ammonium nitrate and hydrogen peroxide."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Poisons",
+    "question": "What is an example of Class 6 hazardous materials?",
+    "choices": [
+      "Propane and oxygen",
+      "Matches and fuses",
+      "Pesticides and arsenic",
+      "Hydrochloric acid"
+    ],
+    "answer_index": 2,
+    "explanation": "Class 6 includes poisons such as pesticides and arsenic that pose serious health risks."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Radioactive",
+    "question": "Which class includes uranium and plutonium?",
+    "choices": [
+      "Class 5 - Oxidizers",
+      "Class 6 - Poisons",
+      "Class 7 - Radioactive",
+      "Class 8 - Corrosives"
+    ],
+    "answer_index": 2,
+    "explanation": "Class 7 includes radioactive materials such as uranium and plutonium that are prohibited in passenger areas."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Class - Corrosives",
+    "question": "What is an example of Class 8 hazardous materials?",
+    "choices": [
+      "Uranium and plutonium",
+      "Propane and oxygen",
+      "Hydrochloric acid and battery acid",
+      "Pesticides and arsenic"
+    ],
+    "answer_index": 2,
+    "explanation": "Class 8 includes corrosives such as hydrochloric acid and battery acid that can burn skin and corrode materials."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat - Miscellaneous",
+    "question": "What is an example of Class 9 hazardous materials?",
+    "choices": [
+      "Matches and fuses",
+      "Gasoline and acetone",
+      "Formaldehyde and asbestos",
+      "Propane and oxygen"
+    ],
+    "answer_index": 2,
+    "explanation": "Class 9 includes miscellaneous hazardous materials such as formaldehyde and asbestos."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat - ORM-D",
+    "question": "What is ORM-D (Other Regulated Material-Domestic)?",
+    "choices": [
+      "Explosives",
+      "Hair spray or charcoal that is less hazardous",
+      "Flammable liquids",
+      "Poisons"
+    ],
+    "answer_index": 1,
+    "explanation": "ORM-D includes materials like hair spray and charcoal that are less hazardous and may be allowed on buses."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat - Combustible Liquids",
+    "question": "What is an example of combustible liquids?",
+    "choices": [
+      "Water and juice",
+      "Fuel oils and lighter fluid",
+      "Gasoline and propane",
+      "Hair spray only"
+    ],
+    "answer_index": 1,
+    "explanation": "Combustible liquids include fuel oils and lighter fluid that can ignite under certain conditions."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Allowed Hazmat on Buses",
+    "question": "What hazardous materials can buses carry?",
+    "choices": [
+      "Any hazmat with a label",
+      "Small-arms ammunition (ORM-D), emergency hospital supplies, and drugs only",
+      "All classes of hazmat",
+      "No hazmat is allowed"
+    ],
+    "answer_index": 1,
+    "explanation": "Buses may only carry small-arms ammunition labeled ORM-D, emergency hospital supplies, and drugs. Small amounts of other hazmat may be permitted if shippers cannot send them any other way."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Forbidden Hazmat - Poison Gas",
+    "question": "Is poison gas allowed on a bus?",
+    "choices": [
+      "Yes, if properly sealed",
+      "No, Division 2.3 poison gas is forbidden",
+      "Only in small amounts",
+      "Yes, with a permit"
+    ],
+    "answer_index": 1,
+    "explanation": "Division 2.3 poison gas, tear gas, and irritating material are forbidden on buses due to severe health risks."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Forbidden Hazmat - Liquid Poison",
+    "question": "How much liquid Class 6 poison can a bus carry?",
+    "choices": [
+      "Any amount if sealed",
+      "Up to 50 pounds",
+      "Liquid Class 6 poisons are forbidden on buses",
+      "Up to 100 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "Liquid Class 6 poison is forbidden on buses in any amount due to the severe risk to passengers."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Forbidden Hazmat - Solid Poison",
+    "question": "What is the limit for solid Class 6 poisons on a bus?",
+    "choices": [
+      "No limit if sealed",
+      "No solid poisons allowed",
+      "More than 100 pounds of solid Class 6 poisons is forbidden",
+      "Up to 500 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "Buses must never carry more than 100 pounds of solid Class 6 poisons."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Forbidden Hazmat - Explosives",
+    "question": "Can explosives be carried on a bus?",
+    "choices": [
+      "Yes, if sealed",
+      "No explosives except small-arms ammunition in non-passenger areas",
+      "Yes, any amount with a permit",
+      "Explosives are allowed with proper warning signs"
+    ],
+    "answer_index": 1,
+    "explanation": "Explosives are forbidden in the space occupied by people, except small-arms ammunition which may be allowed as ORM-D."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Forbidden Hazmat - Radioactive",
+    "question": "Can labeled radioactive materials be carried in the passenger area of a bus?",
+    "choices": [
+      "Yes, if properly labeled",
+      "No, radioactive materials are forbidden in passenger areas",
+      "Only in small amounts",
+      "Yes, with a permit"
+    ],
+    "answer_index": 1,
+    "explanation": "Labeled radioactive materials are forbidden in the space occupied by people on a bus."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Hazmat Weight Limits",
+    "question": "What is the total hazmat weight limit and per-class limit for buses?",
+    "choices": [
+      "1,000 pounds total, 500 pounds per class",
+      "500 pounds total, 100 pounds per class",
+      "No limits for buses",
+      "250 pounds total, 50 pounds per class"
+    ],
+    "answer_index": 1,
+    "explanation": "Buses must never carry more than 500 pounds total of allowed hazardous materials, and no more than 100 pounds of any one class."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Unmarked Hazmat",
+    "question": "What should you do if a passenger brings an item like a car battery or gasoline on the bus?",
+    "choices": [
+      "Allow it if it seems safe",
+      "Do not allow riders to carry hazardous materials like batteries or gasoline",
+      "Only allow it if sealed",
+      "Allow it in the cargo hold"
+    ],
+    "answer_index": 1,
+    "explanation": "Don't allow riders to carry common hazards such as car batteries or gasoline on the bus, even if unlabeled."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Standee Line Placement",
+    "question": "Where must the standee line be located?",
+    "choices": [
+      "At the front of the bus",
+      "Forward of the rear of the driver's seat",
+      "Anywhere the driver chooses",
+      "It doesn't have to be marked"
+    ],
+    "answer_index": 1,
+    "explanation": "No rider may stand forward of the rear of the driver's seat. The standee line marks this boundary and must be clearly visible."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Standee Line Marking",
+    "question": "What can be used to mark a standee line?",
+    "choices": [
+      "Paint only",
+      "A two-inch line on the floor or other means of showing riders where they cannot stand",
+      "Signs only",
+      "Tape that is easily removed"
+    ],
+    "answer_index": 1,
+    "explanation": "Buses designed to allow standing must have a two-inch line on the floor or other means of showing riders where they cannot stand."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Standing Rider Rules",
+    "question": "What must all standing riders do?",
+    "choices": [
+      "Hold onto whatever is available",
+      "Stay behind the standee line and use handholds",
+      "Stand anywhere they choose",
+      "Only stand when the bus is stationary"
+    ],
+    "answer_index": 1,
+    "explanation": "All standing riders must stay behind the standee line to remain in a safe area of the bus."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Destination Announcement",
+    "question": "What should you announce when arriving at a stop?",
+    "choices": [
+      "Only the location",
+      "Location, reason for stopping, next departure time, and bus number",
+      "Only the bus number",
+      "Nothing is required"
+    ],
+    "answer_index": 1,
+    "explanation": "When arriving at a destination or stop, announce the location, reason for stopping, next departure time, and bus number."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Passenger Reminders",
+    "question": "What should you remind passengers when they exit the bus?",
+    "choices": [
+      "Only to thank you for riding",
+      "To take carry-ons; if aisles are lower than seats, remind them of the step-down",
+      "Nothing needs to be said",
+      "Only to use the rear door"
+    ],
+    "answer_index": 1,
+    "explanation": "Remind riders to take carry-ons with them and warn them of any step-down from the aisle to the exit, preferably before stopping."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Charter Bus Boarding",
+    "question": "When should charter bus drivers allow riders on the bus?",
+    "choices": [
+      "As soon as they arrive",
+      "At departure time only to prevent theft and vandalism",
+      "Anytime before departure",
+      "During passenger count time only"
+    ],
+    "answer_index": 1,
+    "explanation": "Charter bus drivers should not allow riders on the bus until departure time. This prevents theft and vandalism of the bus."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Passenger Supervision While Driving",
+    "question": "What should you do while driving regarding passenger supervision?",
+    "choices": [
+      "Focus only on the road ahead",
+      "Scan interior and road ahead, sides, rear; remind passengers of rules and keep them safe",
+      "Ignore passenger activity",
+      "Only watch mirrors"
+    ],
+    "answer_index": 1,
+    "explanation": "While driving, scan the interior of the bus as well as the road ahead, to the sides, and to the rear to supervise passengers."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Passenger Rules",
+    "question": "What passenger rules should be mentioned at the start of a trip?",
+    "choices": [
+      "None; passengers should know the rules",
+      "Rules about smoking, drinking, radio/tape player use, and comfort rules",
+      "Only safety rules",
+      "Only emergency procedures"
+    ],
+    "answer_index": 1,
+    "explanation": "Many carriers have passenger comfort and safety rules about smoking, drinking, radio/tape players, etc. Explaining these at trip start prevents trouble later."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Rider Reminders",
+    "question": "What should you remind passengers during the trip?",
+    "choices": [
+      "Nothing; they should follow rules",
+      "Rules about safety, keep arms/heads inside, watch steps at stops",
+      "Only to stay seated",
+      "Only to be quiet"
+    ],
+    "answer_index": 1,
+    "explanation": "You may have to remind riders about rules and to keep arms and heads inside the bus for their safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Stopping Safely",
+    "question": "What should you do when passengers are getting on or off?",
+    "choices": [
+      "Start moving as soon as doors open",
+      "Use smooth stops and starts; wait for them to sit or brace before starting",
+      "Drive at normal speed",
+      "Ignore their movements"
+    ],
+    "answer_index": 1,
+    "explanation": "Starting and stopping should be as smooth as possible. Wait for passengers to sit down or brace themselves before starting to avoid injury."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Disruptive Passengers",
+    "question": "What should you do with a drunk or disruptive rider?",
+    "choices": [
+      "Immediately eject them",
+      "Ensure their safety and that of others; don't discharge where unsafe; use scheduled stops or well-lit areas",
+      "Ignore them",
+      "Continue driving normally"
+    ],
+    "answer_index": 1,
+    "explanation": "Ensure the safety of disruptive riders and others. Don't discharge them where it would be unsafe. Discharge at the next scheduled stop or well-lighted area with other people nearby."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Disruptive Passenger Guidelines",
+    "question": "What resources exist for handling disruptive passengers?",
+    "choices": [
+      "No guidelines exist",
+      "Many carriers have established guidelines for handling disruptive riders",
+      "Drivers must decide on their own",
+      "Police handle all disruptive passengers"
+    ],
+    "answer_index": 1,
+    "explanation": "Many carriers have specific guidelines for handling disruptive riders. Follow your employer's guidelines."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Intersection Accidents",
+    "question": "Where do most bus accidents occur?",
+    "choices": [
+      "On curves",
+      "At intersections",
+      "On straightaways",
+      "On bridges"
+    ],
+    "answer_index": 1,
+    "explanation": "Bus accidents often happen at intersections. Use extra caution, even if traffic signals or stop signs control other traffic."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Bus Stop Hazards",
+    "question": "What hazards exist when pulling out from a bus stop?",
+    "choices": [
+      "No special hazards",
+      "Scraping mirrors or hitting passing vehicles; need to know clearance gap required",
+      "Only weather hazards",
+      "Only pedestrian hazards"
+    ],
+    "answer_index": 1,
+    "explanation": "School and mass transit buses sometimes scrape mirrors or hit passing vehicles when pulling out. Remember your bus's clearance and watch for poles and tree limbs."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Pulling Out from Stop",
+    "question": "What should you do before leaving a bus stop?",
+    "choices": [
+      "Pull out immediately",
+      "Wait for a gap in traffic large enough for your bus's acceleration and merging speed",
+      "Assume other drivers will brake for you",
+      "Signal and start moving"
+    ],
+    "answer_index": 1,
+    "explanation": "Know the size of the gap your bus needs to accelerate and merge with traffic. Wait for the gap to open before leaving the stop."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Right-of-Way Assumptions",
+    "question": "What should you assume about other drivers at bus stops?",
+    "choices": [
+      "They will always brake for you",
+      "Never assume other drivers will brake to give you room when signaling or starting to pull out",
+      "They will always move out of your way",
+      "They know you're in a bus"
+    ],
+    "answer_index": 1,
+    "explanation": "Never assume other drivers will brake to give you room when you signal or start to pull out. Always make sure the gap is safe."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Curve Accident Causes",
+    "question": "What causes crashes on curves?",
+    "choices": [
+      "Mechanical failure",
+      "Excessive speed often in rain/snow creating roadway slipperiness",
+      "Traffic signals",
+      "Other vehicles"
+    ],
+    "answer_index": 1,
+    "explanation": "Crashes on curves that kill people and destroy buses result from excessive speed, often when rain or snow has made the road slippery."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Curve Design Speed",
+    "question": "What is the relationship between design speed and posted speed on curves?",
+    "choices": [
+      "Design speed and posted speed are always the same",
+      "Posted speed is safe for cars but may be too high for many buses",
+      "Buses are faster than cars on curves",
+      "Design speed is higher than posted speed"
+    ],
+    "answer_index": 1,
+    "explanation": "Every banked curve has a safe 'design speed.' The posted speed is safe for cars but it may be too high for many buses."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Traction and Rollover Risk",
+    "question": "What are the two risks when driving a bus on a curve too fast?",
+    "choices": [
+      "Engine stall and tire blowout",
+      "Rollover with good traction, sliding off with poor traction",
+      "Brake failure only",
+      "No risks; all speeds are safe"
+    ],
+    "answer_index": 1,
+    "explanation": "With good traction, the bus may roll over; with poor traction, it might slide off the curve. Always reduce speed for curves."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Railroad Crossing Signal",
+    "question": "What should you look and listen for at railroad crossings?",
+    "choices": [
+      "Only look both directions",
+      "Listen and look in both directions for trains",
+      "Only listen for horns",
+      "Wait for a green light"
+    ],
+    "answer_index": 1,
+    "explanation": "Listen and look in both directions for trains at railroad crossings. Open your forward door if it improves your ability to see or hear an approaching train."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Multiple Tracks",
+    "question": "What must you check before crossing railroad tracks after a train passes?",
+    "choices": [
+      "Nothing; if one train passed, it's safe",
+      "Make sure there isn't another train coming in the other direction on other tracks",
+      "Only check the same track",
+      "Check that the lights are off"
+    ],
+    "answer_index": 1,
+    "explanation": "Before crossing after a train has passed, make sure there isn't another train coming in the other direction on other tracks."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Manual Transmission at Crossings",
+    "question": "What should you never do when crossing railroad tracks?",
+    "choices": [
+      "Brake hard",
+      "With a manual transmission, never change gears while crossing the tracks",
+      "Turn the steering wheel",
+      "Release the throttle"
+    ],
+    "answer_index": 1,
+    "explanation": "If your bus has a manual transmission, never change gears while crossing the railroad tracks."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Streetcar Crossings",
+    "question": "What must you do at a streetcar crossing?",
+    "choices": [
+      "Always stop",
+      "You do not have to stop, but must slow down and carefully check for other vehicles",
+      "Drive at normal speed",
+      "Accelerate through"
+    ],
+    "answer_index": 1,
+    "explanation": "You do not have to stop at streetcar crossings, but must slow down and carefully check for other vehicles."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Police Directed Crossings",
+    "question": "Do you have to stop at a crossing where a policeman is directing traffic?",
+    "choices": [
+      "Always stop",
+      "No, you do not have to stop but must slow down and check for vehicles",
+      "Stop only if no vehicles are present",
+      "The police will control traffic for you"
+    ],
+    "answer_index": 1,
+    "explanation": "Where a policeman or flagman is directing traffic, you do not have to stop but must slow down and carefully check for vehicles."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Green Light Crossings",
+    "question": "Do you have to stop at a railroad crossing with a green traffic signal?",
+    "choices": [
+      "Always stop",
+      "No, but you must slow down and check for trains if signals are working",
+      "Green light means no trains",
+      "Stop only if you see a train"
+    ],
+    "answer_index": 1,
+    "explanation": "At crossings marked as green on a traffic signal, you do not have to stop but must slow down and carefully check for vehicles."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Exempt or Abandoned Crossings",
+    "question": "What must you do at crossings marked as exempt or abandoned?",
+    "choices": [
+      "Always stop",
+      "Accelerate through",
+      "You do not have to stop but must slow down and check for vehicles",
+      "Close your doors"
+    ],
+    "answer_index": 2,
+    "explanation": "At crossings marked as 'exempt' or 'abandoned,' you do not have to stop but must slow down and carefully check for vehicles."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Drawbridge Signal Light",
+    "question": "When must you stop at a drawbridge?",
+    "choices": [
+      "Always stop at drawbridges",
+      "When there is no signal light or traffic control attendant",
+      "Only in bad weather",
+      "Never; drawbridges are always safe"
+    ],
+    "answer_index": 1,
+    "explanation": "Stop at drawbridges that do not have a signal light or traffic control attendant."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Drawbridge Approach Distance",
+    "question": "What distance must you stop from a drawbridge draw?",
+    "choices": [
+      "At least 25 feet",
+      "At least 50 feet before the draw",
+      "At least 100 feet",
+      "Any distance is acceptable"
+    ],
+    "answer_index": 1,
+    "explanation": "Stop at least 50 feet before the draw of the bridge and look to make sure the draw is completely closed before crossing."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Drawbridge Verification",
+    "question": "What must you do before crossing a drawbridge?",
+    "choices": [
+      "Only check on one side",
+      "Look to make sure the draw is completely closed before crossing",
+      "Trust that it's closed",
+      "Accelerate quickly across"
+    ],
+    "answer_index": 1,
+    "explanation": "Before crossing a drawbridge, make sure the draw is completely closed to prevent your bus from falling into the gap."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Green Light Drawbridge",
+    "question": "When do you not need to stop at a drawbridge?",
+    "choices": [
+      "Never; always stop",
+      "When there is a green light or an attendant controls traffic",
+      "Only at night",
+      "Only for small buses"
+    ],
+    "answer_index": 1,
+    "explanation": "You do not need to stop, but must slow down and make sure it's safe when there is a traffic light showing green or an attendant controls traffic."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "After-Trip Inspection",
+    "question": "When must you inspect your bus?",
+    "choices": [
+      "Only before trips",
+      "At the end of each shift",
+      "Only when something seems wrong",
+      "Never if the pre-trip was done"
+    ],
+    "answer_index": 1,
+    "explanation": "You must inspect your bus at the end of each shift to ensure any damage is reported and can be repaired before the next trip."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Inspection Report Requirement",
+    "question": "Who must complete a written inspection report?",
+    "choices": [
+      "All bus drivers",
+      "Only interstate carrier drivers; report must list any defect affecting safety",
+      "Only urban transit drivers",
+      "Nobody needs to write reports"
+    ],
+    "answer_index": 1,
+    "explanation": "If you work for an interstate carrier, you must complete a written inspection report for each bus driven, listing any defects affecting safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Rider Damage Reporting",
+    "question": "What types of damage should you report after your shift?",
+    "choices": [
+      "Only mechanical damage",
+      "Safety-related damage like handholds, seats, exits, windows that riders sometimes damage",
+      "Only windshield damage",
+      "No damage needs reporting"
+    ],
+    "answer_index": 1,
+    "explanation": "Report damage to handholds, seats, emergency exits, and windows at shift end so mechanics can repair before the next trip."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Mass Transit Final Check",
+    "question": "What additional systems should mass transit drivers check at the end of shift?",
+    "choices": [
+      "Nothing special",
+      "Passenger signaling devices and brake-door interlocks",
+      "Only fuel level",
+      "Only tire pressure"
+    ],
+    "answer_index": 1,
+    "explanation": "Mass transit drivers should ensure passenger signaling devices and brake-door interlocks work properly at the end of their shift."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Prohibited - Fueling with Riders",
+    "question": "What is the rule about fueling with riders on board?",
+    "choices": [
+      "It is always allowed",
+      "Avoid fueling with riders aboard unless absolutely necessary; never fuel in closed buildings with riders",
+      "Only allowed in open air",
+      "Fuel with doors open only"
+    ],
+    "answer_index": 1,
+    "explanation": "Avoid fueling your bus with riders on board unless absolutely necessary. Never refuel in a closed building with riders aboard due to fire risk."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Prohibited - Distracting Activities",
+    "question": "What should you never do while driving?",
+    "choices": [
+      "Use the steering wheel",
+      "Watch the road",
+      "Talk with riders or engage in other distracting activities",
+      "Monitor mirrors"
+    ],
+    "answer_index": 2,
+    "explanation": "Don't talk with riders or engage in any other distracting activity while driving to maintain focus on the road and passenger safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Prohibited - Towing with Riders",
+    "question": "Can you tow or push a disabled bus with riders aboard?",
+    "choices": [
+      "Always allowed",
+      "Only if getting off would be unsafe; only tow to the nearest safe spot for discharge",
+      "Never allowed",
+      "Only at slow speeds"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not tow or push a disabled bus with riders aboard unless getting off would be unsafe. Only tow to the nearest safe spot to discharge passengers."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Brake-door Interlock Function",
+    "question": "How does the brake-door interlock system work?",
+    "choices": [
+      "It locks the rear door only",
+      "It applies brakes and holds throttle at idle when rear door is open; releases when rear door closes",
+      "It opens emergency exits",
+      "It only functions in park"
+    ],
+    "answer_index": 1,
+    "explanation": "The interlock applies the brakes and holds the throttle in idle position when the rear door is open, then releases when you close the rear door."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Brake-door Interlock Limitation",
+    "question": "Can the brake-door interlock be used in place of the parking brake?",
+    "choices": [
+      "Yes, it's just as effective",
+      "Yes, it's better than the parking brake",
+      "No, it must not be used in place of the parking brake",
+      "Only on some buses"
+    ],
+    "answer_index": 2,
+    "explanation": "Do not use the brake-door interlock safety feature in place of the parking brake. Always use the parking brake when stopping."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "After-trip Report - No Defects",
+    "question": "If no safety defects are found during an after-trip inspection report, what should the report indicate?",
+    "choices": [
+      "Leave the form blank",
+      "State that there are no defects",
+      "List a minor defect anyway",
+      "Only note mileage"
+    ],
+    "answer_index": 1,
+    "explanation": "For required inspection reports, if there are no defects affecting safety or causing breakdown risk, the report should say so."
   }
 ]

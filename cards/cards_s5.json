@@ -306,5 +306,313 @@
     ],
     "answer_index": 2,
     "explanation": "The low air pressure warning must come on before the pressure drops below 60 psi."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Air Tank Drains",
+    "question": "If your vehicle does not have automatic air tank drains, when should you drain the tanks?",
+    "choices": [
+      "Once per week",
+      "At the end of each working day",
+      "Only in winter",
+      "Only when low air warning comes on"
+    ],
+    "answer_index": 1,
+    "explanation": "If the vehicle does not have automatic drains, air tanks should be drained at the end of each working day to remove moisture and oil."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Parking Brake Control",
+    "question": "On newer air-brake vehicles, how do you apply spring parking brakes with the yellow knob?",
+    "choices": [
+      "Push in to apply",
+      "Pull out to apply",
+      "Turn left to apply",
+      "Press the brake pedal twice"
+    ],
+    "answer_index": 1,
+    "explanation": "On newer vehicles, the yellow diamond-shaped push-pull control is pulled out to apply parking brakes and pushed in to release."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Spring Brakes Caution",
+    "question": "Why should you avoid pressing the brake pedal when spring brakes are applied?",
+    "choices": [
+      "It drains fuel",
+      "It can damage brakes from combined spring and air forces",
+      "It disables ABS",
+      "It turns off brake lights"
+    ],
+    "answer_index": 1,
+    "explanation": "Pressing the pedal with spring brakes on can damage components due to combined spring force and air pressure."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Brake Fade Cause",
+    "question": "What is the main cause of brake fade on long downgrades?",
+    "choices": [
+      "Using engine braking too much",
+      "Overheating from excessive service brake use",
+      "Driving in low gear",
+      "Too much tire pressure"
+    ],
+    "answer_index": 1,
+    "explanation": "Brake fade is mainly caused by overheating from overusing service brakes instead of relying on proper gear and engine braking."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Proper Downgrade Braking",
+    "question": "After slowing about 5 mph below safe speed on a downgrade, what should you do next?",
+    "choices": [
+      "Keep heavy pressure on brakes",
+      "Release brakes and let speed rise back to safe speed before reapplying",
+      "Shift to higher gear",
+      "Apply parking brake briefly"
+    ],
+    "answer_index": 1,
+    "explanation": "Proper downgrade technique is to apply firm braking to reduce speed, release, then reapply when speed returns to the chosen safe speed."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "ABS Malfunction",
+    "question": "If ABS malfunctions, what braking capability remains?",
+    "choices": [
+      "No brakes remain",
+      "Only trailer brakes work",
+      "Normal brakes still work, but ABS assist is lost",
+      "Only parking brakes work"
+    ],
+    "answer_index": 2,
+    "explanation": "ABS is an added safety system. If it fails, regular braking remains available, though wheel-lock control is reduced."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Wet or Hot Parking Brakes",
+    "question": "When should parking brakes be avoided temporarily?",
+    "choices": [
+      "Anytime in daylight",
+      "When brakes are very hot or very wet in freezing temperatures",
+      "Only on weekends",
+      "When driving downhill"
+    ],
+    "answer_index": 1,
+    "explanation": "Very hot brakes can be damaged if set immediately, and very wet brakes in freezing conditions can freeze. Use chocks when needed."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Supply Pressure Gauge",
+    "question": "What does the air supply pressure gauge tell you?",
+    "choices": [
+      "How hard you are pressing the brake pedal",
+      "How much pressure is in the air tank(s)",
+      "How much pressure is in each tire",
+      "How hot the brake drums are"
+    ],
+    "answer_index": 1,
+    "explanation": "Supply pressure gauges show the available air pressure in the reservoir tank(s)."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "ABS Equipment Check",
+    "question": "How can you verify whether a vehicle is equipped with ABS?",
+    "choices": [
+      "Check tire sidewalls",
+      "Check the certification label manufacturing date and ABS indicator lamps",
+      "Listen for compressor noise",
+      "Look for a blue parking brake knob"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide points to certification date and ABS malfunction lamps as key indicators of ABS equipment."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Dual Air System Purpose",
+    "question": "What is a dual air brake system?",
+    "choices": [
+      "Two pedals controlling front and rear brakes separately",
+      "Two separate air systems sharing one set of brake controls for safety",
+      "A system used only on trailers",
+      "A backup hydraulic brake circuit"
+    ],
+    "answer_index": 1,
+    "explanation": "A dual air system has primary and secondary circuits with separate tanks/lines for safety redundancy."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Parking Brake Test",
+    "question": "How do you test that the parking brake will hold?",
+    "choices": [
+      "Press and release pedal rapidly",
+      "Set parking brake, then gently pull against it in a low gear",
+      "Rev engine to governor cut-out",
+      "Turn steering full left"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 5.3.3 says to apply the parking brake and gently pull against it in low gear to verify holding power."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Service Brake Test",
+    "question": "During final checks, how should service brakes be tested?",
+    "choices": [
+      "At highway speed only",
+      "Move slowly (about 5 mph) and brake firmly, checking for pull or delayed stopping",
+      "Only with trailer disconnected",
+      "Only on steep downgrades"
+    ],
+    "answer_index": 1,
+    "explanation": "Guide procedure calls for a low-speed, firm brake test to detect pull, unusual feel, or delay."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Controlled Braking",
+    "question": "What is controlled braking in an emergency?",
+    "choices": [
+      "Pump brakes lightly every second",
+      "Brake as hard as possible without locking wheels, releasing if lockup occurs",
+      "Use only engine brake",
+      "Pull parking brake handle repeatedly"
+    ],
+    "answer_index": 1,
+    "explanation": "Controlled braking uses strong brake pressure while avoiding wheel lock so steering control can be maintained."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "ABS Braking Method",
+    "question": "When driving a tractor-trailer with ABS, what basic braking approach is recommended?",
+    "choices": [
+      "Brake differently depending on which unit has ABS",
+      "Brake normally and monitor tractor/trailer stability",
+      "Always stab-brake",
+      "Use only trailer hand valve"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide says to brake the same way as usual, using only the force needed and monitoring stability."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "ABS Full-Brake Exception",
+    "question": "When is full brake application in an emergency specifically allowed by the guide?",
+    "choices": [
+      "Any vehicle with at least one ABS axle",
+      "Only if trailer ABS lamp is off",
+      "If you always drive a straight truck or combination with working ABS on all axles",
+      "Only below 25 mph"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 5.4.2 gives one exception: with working ABS on all axles (and that operating context), emergency full application is acceptable."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Unattended Vehicle Safety",
+    "question": "What should you do before leaving an air-brake vehicle unattended?",
+    "choices": [
+      "Leave it in neutral only",
+      "Apply parking brakes or chock wheels",
+      "Drain tanks completely first",
+      "Disable ABS"
+    ],
+    "answer_index": 1,
+    "explanation": "Never leave the vehicle unattended without applying parking brakes or using chocks to prevent rollaway."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Stop Light Switch",
+    "question": "What triggers the brake lights in an air brake system?",
+    "choices": [
+      "A mechanical linkage at each wheel",
+      "An electric switch activated by air pressure",
+      "The parking brake knob position only",
+      "Compressor governor cut-out"
+    ],
+    "answer_index": 1,
+    "explanation": "The stop-light switch is air-pressure operated and turns on brake lights when air brakes are applied."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Application Pressure Gauge",
+    "question": "If the application pressure gauge shows you need more pressure to hold the same speed, what is a likely problem?",
+    "choices": [
+      "Brakes may be fading or out of adjustment",
+      "Air tanks are overfilled",
+      "ABS is improving stopping power",
+      "Compressor cut-out is too low"
+    ],
+    "answer_index": 0,
+    "explanation": "Needing increasing application pressure for the same effect can indicate brake fade, adjustment issues, or leaks/mechanical faults."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Pedal Pumping Risk",
+    "question": "Why should you avoid pressing and releasing the brake pedal unnecessarily in an air brake vehicle?",
+    "choices": [
+      "It overheats only the front brakes",
+      "It can use air faster than the compressor can replace it",
+      "It disables the low-air warning",
+      "It causes the parking brakes to release"
+    ],
+    "answer_index": 1,
+    "explanation": "Unnecessary pedal cycling can deplete air pressure; if pressure gets too low, braking capability is reduced."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Single-System Buildup Rate",
+    "question": "For older single air systems, what buildup rate is typically required at idle?",
+    "choices": [
+      "50 to 90 psi within 3 minutes",
+      "85 to 100 psi within 45 seconds",
+      "60 to 120 psi within 2 minutes",
+      "100 to 125 psi within 30 seconds"
+    ],
+    "answer_index": 0,
+    "explanation": "For pre-1975 single systems, a typical requirement is pressure build from 50 to 90 psi within 3 minutes at 600-900 rpm idle."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Modulating Control Valve",
+    "question": "What is the purpose of a modulating spring-brake control valve?",
+    "choices": [
+      "To drain tanks automatically",
+      "To apply spring brakes gradually for control if service brakes fail",
+      "To increase compressor output",
+      "To switch between ABS modes"
+    ],
+    "answer_index": 1,
+    "explanation": "A modulating valve allows graduated spring-brake application, useful for controlling the vehicle during certain failures."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Dual Parking Control Valves",
+    "question": "On vehicles with dual parking control valves, why must emergency spring-brake release moves be planned carefully?",
+    "choices": [
+      "Because ABS is disabled during release",
+      "Because the separate release tank has limited air and can be used only a few times",
+      "Because front brakes do not work",
+      "Because trailer brakes cannot be tested"
+    ],
+    "answer_index": 1,
+    "explanation": "Some vehicles use a separate tank to release spring brakes temporarily; limited reserve means only a few releases are available."
   }
 ]

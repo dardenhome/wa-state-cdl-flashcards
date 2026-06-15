@@ -264,5 +264,817 @@
     ],
     "answer_index": 1,
     "explanation": "A safe place for evacuation must be at least 100 feet from the road in the direction of oncoming traffic, upwind if there is fire, and away from train tracks."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Convex Mirrors",
+    "question": "What is true about outside convex mirrors on a school bus?",
+    "choices": [
+      "They show exact size and distance",
+      "They provide a wide-angle side view but distort size and distance",
+      "They are used only at night",
+      "They replace flat mirrors"
+    ],
+    "answer_index": 1,
+    "explanation": "Convex mirrors provide a wider field of view for side monitoring, but objects appear distorted and distance judgments can be inaccurate."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Convex Mirror Adjustment",
+    "question": "When properly adjusted, convex mirrors should allow the driver to see what?",
+    "choices": [
+      "Only the service door",
+      "Entire side of bus up to mirror mounts, front of rear tires touching ground, and at least one traffic lane on each side",
+      "Only rear bumper",
+      "Only overhead clearance"
+    ],
+    "answer_index": 1,
+    "explanation": "Convex mirrors should show the bus side, rear tire ground contact, and at least one traffic lane on each side for safe monitoring."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Inside Rearview Mirror",
+    "question": "What is the primary use of the overhead inside rearview mirror on a school bus?",
+    "choices": [
+      "Watching traffic behind the bus",
+      "Monitoring passenger activity inside the bus",
+      "Checking front bumper clearance",
+      "Viewing right-side blind zones"
+    ],
+    "answer_index": 1,
+    "explanation": "The inside rearview mirror is primarily for monitoring students inside the bus, not for replacing exterior traffic checks."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Mirror Blind Spots",
+    "question": "What blind spot exists directly behind many school buses?",
+    "choices": [
+      "Only 5 feet",
+      "A large blind zone that can extend up to 400 feet or more behind the bus",
+      "No blind zone exists",
+      "Exactly 30 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "A significant rear blind area can extend far behind the bus, so drivers must rely on proper exterior mirror scanning."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Approaching Stop Procedure",
+    "question": "When approaching a school bus stop, what turn signal timing is recommended before pulling over?",
+    "choices": [
+      "Immediately at the stop",
+      "About 100-300 feet or approximately 3-5 seconds before pulling over",
+      "At least 500 feet before stop",
+      "Only after opening the door"
+    ],
+    "answer_index": 1,
+    "explanation": "Recommended procedure is to signal right about 100-300 feet (around 3-5 seconds) before pulling over, while continuing mirror checks."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Bus Position at Stop",
+    "question": "At route stops, where should the bus be positioned on the roadway when possible?",
+    "choices": [
+      "Centered in lane",
+      "As far as possible to the right on the traveled portion",
+      "Left of center for visibility",
+      "On shoulder only"
+    ],
+    "answer_index": 1,
+    "explanation": "The bus should move as far right as practical on the traveled portion to reduce traffic conflict and improve loading safety."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Loading in Darkness",
+    "question": "What lighting is recommended while students board in the dark?",
+    "choices": [
+      "Hazard flashers only",
+      "Dome light should be on while loading",
+      "Headlights off to reduce glare",
+      "Interior lights should remain off"
+    ],
+    "answer_index": 1,
+    "explanation": "During dark loading conditions, the dome light should be on to improve student visibility and boarding safety."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Missing Student at Stop",
+    "question": "If a student cannot be accounted for outside the bus, what should the driver do?",
+    "choices": [
+      "Continue route immediately",
+      "Secure bus, take key, and check around and underneath the bus",
+      "Sound horn and leave",
+      "Call school after route ends"
+    ],
+    "answer_index": 1,
+    "explanation": "Procedure requires securing the bus and physically checking around/under it when a student cannot be accounted for in danger zones."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Missed Drop-Off Stop",
+    "question": "If you miss a student's unloading stop, what should you NOT do?",
+    "choices": [
+      "Follow local procedure",
+      "Back up the bus",
+      "Notify dispatch if needed",
+      "Continue safely to a legal unloading option"
+    ],
+    "answer_index": 1,
+    "explanation": "If a stop is missed, do not back up. Follow local procedures for safe handling of the missed stop."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Roadway Crossing Signal",
+    "question": "Before students cross in front of the bus, what should they do at the roadway edge?",
+    "choices": [
+      "Run quickly across",
+      "Stop, look all directions, verify red lights flashing, and wait for driver signal",
+      "Wait behind bus",
+      "Cross only with other students"
+    ],
+    "answer_index": 1,
+    "explanation": "Students should stop at the edge, check traffic and bus warning lights, and cross only on the driver's signal."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "School Unloading Security",
+    "question": "When unloading at school and leaving the driver compartment, what should be done?",
+    "choices": [
+      "Leave key in ignition",
+      "Turn off ignition and remove key",
+      "Leave bus idling for speed",
+      "Use hazard lights only"
+    ],
+    "answer_index": 1,
+    "explanation": "At school unloading, secure the bus by turning off ignition and removing the key if leaving driver compartment."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Dropped Objects",
+    "question": "What should students do if they drop an object near the bus danger zone?",
+    "choices": [
+      "Immediately pick it up",
+      "Move to a safe spot and get driver attention to retrieve it",
+      "Go under bus quickly",
+      "Ignore and board bus"
+    ],
+    "answer_index": 1,
+    "explanation": "Students should not re-enter danger zones to retrieve dropped items; they should move to safety and alert the driver."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Handrail Hang-Ups",
+    "question": "Why must drivers closely observe students exiting the bus door area?",
+    "choices": [
+      "To count uniforms",
+      "To detect clothing/body handrail or door hang-ups before moving",
+      "To speed route time",
+      "To adjust mirrors"
+    ],
+    "answer_index": 1,
+    "explanation": "Students can be injured if clothing or body parts get caught in handrails/doors; confirm clear safe location before moving bus."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Post-Trip Inspection",
+    "question": "Which item is part of a school bus post-trip inspection?",
+    "choices": [
+      "Only fuel level",
+      "Sleeping students, articles left, open windows/doors, and damage",
+      "Only tire pressure",
+      "Only route paperwork"
+    ],
+    "answer_index": 1,
+    "explanation": "Post-trip checks include sleeping students, left items, open windows/doors, unique school bus equipment issues, and vandalism/damage."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Evacuation Decision",
+    "question": "As a general rule, when is student safety often best maintained during many emergencies?",
+    "choices": [
+      "Immediate evacuation every time",
+      "Keeping students on the bus unless staying exposes them to unnecessary risk",
+      "Sending students to nearby traffic lanes",
+      "Letting students decide"
+    ],
+    "answer_index": 1,
+    "explanation": "General guidance is to keep students on the bus unless conditions make staying more dangerous than evacuation."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Evacuation Safe Place - Hazmat",
+    "question": "If there is risk from spilled hazardous materials, students should be led how far upwind?",
+    "choices": [
+      "At least 50 feet",
+      "At least 100 feet",
+      "At least 300 feet",
+      "At least 1,000 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "For hazardous material spill risk, guidance is to lead students upwind at least 300 feet from the bus."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Neck/Spinal Injury Caution",
+    "question": "When should a student with suspected neck/spinal injury be moved during evacuation?",
+    "choices": [
+      "Immediately in all cases",
+      "Only if life is in immediate danger unless specially trained procedure is used",
+      "After all other students",
+      "Never move under any condition"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not move suspected neck/spinal injury victims unless immediate danger exists; improper movement can worsen injury."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Crossing Approach - Hazard Lights",
+    "question": "When approaching a railroad-highway crossing, when should hazard lights be activated?",
+    "choices": [
+      "At the track",
+      "Approximately 200 feet before the crossing",
+      "After crossing tracks",
+      "Only at passive crossings"
+    ],
+    "answer_index": 1,
+    "explanation": "Recommended procedure is to activate hazard lights about 200 feet before the crossing so other traffic understands your intent."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Crossing Procedure - Noise",
+    "question": "At a school bus railroad crossing stop, what should be done with radios and noisy equipment?",
+    "choices": [
+      "Turn them up",
+      "Turn off radios/noisy equipment and silence passengers",
+      "Ignore if windows open",
+      "Use only intercom"
+    ],
+    "answer_index": 1,
+    "explanation": "Drivers should eliminate noise distractions to improve ability to detect trains by sight and hearing before crossing."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Gate Comes Down",
+    "question": "If railroad gates lower after your bus has started crossing, what should you do?",
+    "choices": [
+      "Stop on tracks",
+      "Back up immediately",
+      "Drive through the gate and clear the tracks",
+      "Wait for dispatcher callback"
+    ],
+    "answer_index": 2,
+    "explanation": "If gates come down after crossing begins, continue through even if gate is broken; clearing tracks is the priority."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Stalled on Tracks",
+    "question": "If the bus stalls or is trapped on tracks, where should students move?",
+    "choices": [
+      "Beside the bus",
+      "Far away at an angle from tracks and toward the train",
+      "Directly behind bus",
+      "Under roadside bridge"
+    ],
+    "answer_index": 1,
+    "explanation": "Evacuate immediately and move everyone away from tracks at an angle toward the train direction to reduce struck-by-debris risk."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Containment Area Rule",
+    "question": "What is the containment-area rule at crossings with traffic control beyond tracks?",
+    "choices": [
+      "If it won't fit, don't commit",
+      "Enter tracks and wait",
+      "Always cross quickly",
+      "Cross only if gate is up"
+    ],
+    "answer_index": 0,
+    "explanation": "Do not enter a crossing unless there is enough storage space to completely clear tracks on the far side."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Student Management",
+    "question": "When should on-bus behavior problems be handled during route stops?",
+    "choices": [
+      "While students are unloading",
+      "After unloading students are safely away; pull over if needed",
+      "While crossing tracks",
+      "Only at end of shift"
+    ],
+    "answer_index": 1,
+    "explanation": "Loading/unloading requires full attention outside the bus. Handle behavior issues after students are safely clear and bus is secured."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Serious Discipline Procedure",
+    "question": "For serious student conduct issues that make driving unsafe, what is correct?",
+    "choices": [
+      "Put student off at nearest corner",
+      "Stop safely, secure bus, follow school procedures, and request administrator/police assistance if needed",
+      "Continue driving and ignore",
+      "Use loudspeaker to shame offender"
+    ],
+    "answer_index": 1,
+    "explanation": "Drivers should never put students off except at authorized locations; use school discipline procedures and request help when needed."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Strobe Light Use",
+    "question": "When should a roof-mounted white strobe light be used, if equipped?",
+    "choices": [
+      "In all weather",
+      "When visibility is limited, according to state/local regulations",
+      "Only in school parking lots",
+      "Only during student loading"
+    ],
+    "answer_index": 1,
+    "explanation": "Strobe lights are intended for limited-visibility conditions, and usage must follow state or local rules."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "High Winds",
+    "question": "What is the recommended action if strong winds are affecting school bus handling?",
+    "choices": [
+      "Speed up to pass gust zone",
+      "Keep firm steering grip, slow down, or pull off and wait; contact dispatcher",
+      "Use cruise control",
+      "Drive in left lane"
+    ],
+    "answer_index": 1,
+    "explanation": "Strong crosswinds can push or tip buses. Maintain control, reduce speed, consider stopping, and communicate with dispatch."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Backing Guidance",
+    "question": "Which statement about backing a school bus is correct?",
+    "choices": [
+      "Backing is preferred when uncertain",
+      "Backing is strongly discouraged and should never be done with students outside the bus",
+      "Backing is required at all stops",
+      "Students should guide from behind"
+    ],
+    "answer_index": 1,
+    "explanation": "Backing is dangerous and should be avoided. Never back when students are outside; if unavoidable, use strict procedures and lookout."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Convex Mirrors",
+    "question": "What is true about outside convex mirrors on school buses?",
+    "choices": [
+      "They show exact size and distance",
+      "They provide a wider side view but distort size and distance",
+      "They are used only at railroad crossings",
+      "They replace flat mirrors entirely"
+    ],
+    "answer_index": 1,
+    "explanation": "Convex mirrors provide a wide-angle view of sides/clearances but do not accurately reflect object size or distance."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Convex Mirror Adjustment",
+    "question": "Properly adjusted convex mirrors should allow you to see which of the following?",
+    "choices": [
+      "Only the lane directly behind the bus",
+      "Entire side of bus up to mirror mounts, front of rear tires at ground, and at least one traffic lane on each side",
+      "Only front bumper danger zone",
+      "Only student seats in rear"
+    ],
+    "answer_index": 1,
+    "explanation": "Convex mirrors should show the side of the bus, front of rear tires touching ground, and at least one lane on each side."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Inside Rearview Mirror",
+    "question": "What is the primary purpose of the overhead inside rearview mirror?",
+    "choices": [
+      "Monitoring passenger activity inside the bus",
+      "Observing all blind spots behind bus",
+      "Checking left-side traffic lanes",
+      "Checking front bumper danger zone"
+    ],
+    "answer_index": 0,
+    "explanation": "The overhead inside rearview mirror is primarily for monitoring students and activity inside the bus."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Inside Mirror Blind Spots",
+    "question": "Why must exterior mirrors still be used even if you have an inside rearview mirror?",
+    "choices": [
+      "Inside mirror can fail at night",
+      "Large blind spot exists behind rear bumper and behind driver's seat",
+      "Inside mirror is only for weather conditions",
+      "State law prohibits using inside mirror while moving"
+    ],
+    "answer_index": 1,
+    "explanation": "The inside mirror has limited rear coverage and significant blind spots, so side/exterior mirrors are needed to monitor approaching traffic."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Approaching Stop Signals",
+    "question": "About how far before a stop should the right turn signal be activated?",
+    "choices": [
+      "25-50 feet",
+      "100-300 feet or about 3-5 seconds",
+      "At the stop sign only",
+      "After door is opened"
+    ],
+    "answer_index": 1,
+    "explanation": "Guidance in Section 10 says activate right turn indicator about 100-300 feet (or around 3-5 seconds) before pulling over."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Student Boarding",
+    "question": "When should students board at a bus stop?",
+    "choices": [
+      "As soon as they see the bus",
+      "Only when signaled by the driver",
+      "Only after red lights turn off",
+      "Only in pairs"
+    ],
+    "answer_index": 1,
+    "explanation": "Students should wait in designated area and board only when signaled by the driver."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Route Stop Changes",
+    "question": "Can a driver change a designated school bus stop location on their own?",
+    "choices": [
+      "Yes, if traffic is heavy",
+      "Yes, if students request it",
+      "No, not without written approval from school district official",
+      "Only in rain or snow"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 10 states stop locations should not be changed without written approval from the appropriate district official."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Loading in Dark",
+    "question": "What lighting action is recommended while loading students in the dark?",
+    "choices": [
+      "Turn off all interior lights",
+      "Dome light should be on",
+      "Use hazard lights only",
+      "Flash headlights repeatedly"
+    ],
+    "answer_index": 1,
+    "explanation": "During dark loading conditions, dome light should be on to improve visibility and safety."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Missed Stop",
+    "question": "If you miss a student's unloading stop on route, what should you NOT do?",
+    "choices": [
+      "Follow local procedures",
+      "Notify dispatch or supervisor as required",
+      "Back up the bus",
+      "Keep students seated"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 10 notes that if you miss a stop, do not back up; follow local procedures."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Dropped Objects",
+    "question": "If a student drops an item near the bus, what should the student be taught to do?",
+    "choices": [
+      "Quickly retrieve it without notifying driver",
+      "Run behind bus to pick it up",
+      "Leave it, move to safety, and get driver's attention",
+      "Ask another student to retrieve it"
+    ],
+    "answer_index": 2,
+    "explanation": "Dropped-object incidents are high-risk; students should move to safety and alert the driver instead of re-entering danger zones."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Handrail Hang-ups",
+    "question": "Why must drivers watch students closely as they exit?",
+    "choices": [
+      "To count backpacks",
+      "To ensure no clothing/body parts are caught in handrail or door",
+      "To speed unloading only",
+      "To verify attendance sheet"
+    ],
+    "answer_index": 1,
+    "explanation": "Students have been injured in handrail/door hang-ups; driver must confirm each student reaches a safe location before moving."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Post-Trip Inspection",
+    "question": "Which item is part of a required post-trip school bus inspection?",
+    "choices": [
+      "Only checking fuel level",
+      "Checking for sleeping students and articles left on bus",
+      "Only washing windows",
+      "Checking route map only"
+    ],
+    "answer_index": 1,
+    "explanation": "Post-trip inspection includes checking for sleeping students, left items, open windows/doors, and unique school-bus equipment issues."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Emergency Decision Rule",
+    "question": "As a general rule in emergencies, student safety/control is usually best maintained by:",
+    "choices": [
+      "Immediate evacuation every time",
+      "Keeping students on the bus unless this exposes them to unnecessary risk",
+      "Letting students decide",
+      "Moving students to roadway shoulder"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 10 states safety/control is often best by keeping students onboard unless conditions make staying more dangerous."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Mandatory Evacuation - Fire",
+    "question": "Which condition requires mandatory bus evacuation?",
+    "choices": [
+      "Minor student argument",
+      "Bus on fire or threat of fire",
+      "Light traffic congestion",
+      "Running late on route"
+    ],
+    "answer_index": 1,
+    "explanation": "Mandatory evacuation includes fire/threat of fire, stalled on/near tracks, imminent collision, hazardous spill, and other listed imminent risks."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Hazmat Evacuation Distance",
+    "question": "If there is risk from spilled hazardous materials during evacuation, students should be led how far upwind?",
+    "choices": [
+      "At least 100 feet",
+      "At least 200 feet",
+      "At least 300 feet",
+      "At least 500 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "Section 10 recommends leading students at least 300 feet upwind when there is risk from spilled hazardous materials."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Tornado Evacuation",
+    "question": "If a bus is in the direct path of a tornado and evacuation is ordered, where should students go if no building shelter is available?",
+    "choices": [
+      "Under the bus",
+      "To nearby ditch/culvert, lying face down with hands covering head",
+      "To middle of roadway",
+      "To railroad tracks"
+    ],
+    "answer_index": 1,
+    "explanation": "Guidance is to move to nearby ditch/culvert (away from bus tip-over path), lie face down, and protect head, avoiding flash-flood-prone areas."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Passive vs Active Crossing",
+    "question": "What distinguishes an active railroad-highway crossing from a passive one?",
+    "choices": [
+      "Active crossings have warning control devices like flashing lights/gates",
+      "Passive crossings have gates and bells",
+      "Active crossings are only in cities",
+      "There is no difference"
+    ],
+    "answer_index": 0,
+    "explanation": "Active crossings use traffic control devices (e.g., flashing lights, bells, gates). Passive crossings do not."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Rail Crossing Procedure",
+    "question": "At a railroad crossing stop, what should the driver do regarding noise and visibility?",
+    "choices": [
+      "Keep radio on for weather updates",
+      "Turn off noisy equipment, silence passengers, open service door and driver's window",
+      "Close all windows and doors",
+      "Leave transmission in drive and coast"
+    ],
+    "answer_index": 1,
+    "explanation": "Recommended crossing procedure includes reducing noise, opening door/window, and actively looking/listening for trains."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Multiple Tracks",
+    "question": "At a multiple-track crossing, where should you stop before proceeding?",
+    "choices": [
+      "Before each track one by one",
+      "Only before the first set of tracks, then proceed only when all tracks are clear",
+      "In the middle of tracks",
+      "At least 100 feet away always"
+    ],
+    "answer_index": 1,
+    "explanation": "Guidance says stop before first set, then proceed across all tracks only when sure no train is approaching on any track."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Gate Descends While Crossing",
+    "question": "If crossing gates start coming down after the bus has begun crossing, what should the driver do?",
+    "choices": [
+      "Stop immediately on tracks",
+      "Back up to save the gate",
+      "Drive through even if gate breaks",
+      "Unload students on tracks"
+    ],
+    "answer_index": 2,
+    "explanation": "If already crossing and gate descends, continue through to clear tracks, even if breaking gate, rather than stopping on rails."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Trapped on Tracks",
+    "question": "If the bus is stalled or trapped on tracks, students should be moved:",
+    "choices": [
+      "Along the tracks",
+      "Far from bus at an angle away from tracks and toward the train",
+      "Behind the bus only",
+      "Under nearby bridge"
+    ],
+    "answer_index": 1,
+    "explanation": "Emergency guidance: get everyone off immediately and move away at an angle from tracks and toward the train to avoid debris trajectory."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Containment Area Rule",
+    "question": "What is the key rule when approaching a crossing with potential traffic backup on the far side?",
+    "choices": [
+      "Proceed if lights are off",
+      "If it will not fit, do not commit",
+      "Move halfway across and wait",
+      "Use horn and continue"
+    ],
+    "answer_index": 1,
+    "explanation": "School bus drivers should ensure enough storage/containment space exists beyond tracks; if it will not fit, do not enter."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Student Discipline at Stops",
+    "question": "When should on-bus behavior problems generally be handled during route unloading/loading?",
+    "choices": [
+      "While students are crossing",
+      "After students unloading are safely off and moved away",
+      "While approaching railroad crossings",
+      "Only at red lights"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not divert attention from loading/unloading; handle behavior after students are safely clear of the bus area."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Serious Student Problems",
+    "question": "For a serious behavior problem, what is the safe first action?",
+    "choices": [
+      "Confront while driving",
+      "Stop in a safe location, secure bus, then address the issue",
+      "Open door and continue route",
+      "Drive to next railroad crossing"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 10 recommends stopping in a safe place, securing bus (and key if leaving seat), then addressing discipline per policy."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "ABS Required Dates",
+    "question": "Which statement about required ABS dates is correct?",
+    "choices": [
+      "All buses required ABS since 1990",
+      "Air-brake vehicles built on/after March 1, 1998, and hydraulic trucks/buses 10,000+ GVWR built on/after March 1, 1999",
+      "Only trailers required ABS",
+      "School buses are exempt from ABS requirements"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 10.6 lists required dates: air brake vehicles 1998 and hydraulic 10,000+ GVWR trucks/buses 1999."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "ABS Safety Reminder",
+    "question": "Which is true about ABS and stopping distance?",
+    "choices": [
+      "ABS always shortens stopping distance",
+      "ABS helps control but does not always shorten stopping distance",
+      "ABS replaces normal brakes",
+      "ABS allows closer following distance"
+    ],
+    "answer_index": 1,
+    "explanation": "ABS primarily helps maintain control and prevent brake-induced lockup; it does not guarantee shorter stops in all conditions."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Strobe Lights",
+    "question": "When should roof-mounted white strobe lights be used on school buses (if equipped)?",
+    "choices": [
+      "At every stop",
+      "When visibility is limited, according to state/local rules",
+      "Only in school zones",
+      "Only after dark, regardless of conditions"
+    ],
+    "answer_index": 1,
+    "explanation": "Strobe light use is for limited visibility and must follow state/local regulations."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "High Winds",
+    "question": "What is recommended if strong crosswinds are affecting school bus handling?",
+    "choices": [
+      "Speed up to reduce drift",
+      "Slow down to lessen wind effect or pull off road and wait",
+      "Turn off hazard lights",
+      "Use parking brake while moving"
+    ],
+    "answer_index": 1,
+    "explanation": "In high winds, maintain firm steering control, slow down, and if necessary pull off and contact dispatcher for guidance."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Backing Rules",
+    "question": "When is backing a school bus acceptable?",
+    "choices": [
+      "Whenever route is behind schedule",
+      "Only when no other safe option exists",
+      "Any time with hazard lights on",
+      "At every student stop"
+    ],
+    "answer_index": 1,
+    "explanation": "Backing is strongly discouraged and should only be done when no other safe movement option exists."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Backing with Students",
+    "question": "What is the rule about backing when students are outside the bus?",
+    "choices": [
+      "Allowed if a lookout is present",
+      "Never back when students are outside",
+      "Allowed under 5 mph",
+      "Allowed only at school loading zones"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 10 explicitly states you should never back a school bus when students are outside the bus."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Tail Swing",
+    "question": "How much tail swing can a school bus have during turns?",
+    "choices": [
+      "About 1 foot",
+      "Up to 2 feet",
+      "Up to 3 feet",
+      "Up to 5 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "A school bus can have up to a three-foot tail swing, so mirror checks are required before and during turns."
   }
 ]

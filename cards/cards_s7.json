@@ -208,5 +208,215 @@
     ],
     "answer_index": 2,
     "explanation": "The proper uncoupling sequence includes lowering the landing gear first for stability, then closing air shut-offs, disconnecting lines, and pulling trailers out."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Steering in Doubles/Triples",
+    "question": "What steering approach is required to prevent rollover in doubles and triples?",
+    "choices": [
+      "Fast steering inputs",
+      "Gentle steering and slow speed around corners and ramps",
+      "Brake-and-turn sharply",
+      "Countersteer quickly"
+    ],
+    "answer_index": 1,
+    "explanation": "Doubles and triples are less stable, so steering must be gentle and speed reduced on curves, ramps, and corners."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Look Far Ahead",
+    "question": "Why is looking far ahead especially important with doubles/triples?",
+    "choices": [
+      "To pass more often",
+      "To make gradual lane/speed changes and avoid sudden maneuvers",
+      "To reduce fuel use only",
+      "To monitor dashboard lights"
+    ],
+    "answer_index": 1,
+    "explanation": "Because doubles/triples are less stable, drivers should plan far ahead and make smooth gradual adjustments."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Parking Strategy",
+    "question": "What is a key parking rule for doubles/triples?",
+    "choices": [
+      "Back into any available spot",
+      "Avoid spots you cannot pull straight through",
+      "Always park on curves",
+      "Leave trailer brakes released"
+    ],
+    "answer_index": 1,
+    "explanation": "Plan parking so you can pull out safely; getting trapped in a tight spot with doubles/triples can be difficult and risky."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Dolly Tow Bar Hazard",
+    "question": "What hazard can occur if pintle hook is unlocked too soon during uncoupling?",
+    "choices": [
+      "Air tanks overfill",
+      "Dolly tow bar can fly up and cause injury",
+      "ABS lamp comes on",
+      "Landing gear collapses automatically"
+    ],
+    "answer_index": 1,
+    "explanation": "Unlocking pintle hook while the dolly is still under a trailer can let the tow bar spring upward, creating injury risk."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Shut-Off Valve Positions",
+    "question": "In triples, what should rear shut-off valves be on the last trailer?",
+    "choices": [
+      "Open",
+      "Closed",
+      "Half-open",
+      "Either position works"
+    ],
+    "answer_index": 1,
+    "explanation": "Rear shut-off valves on the last trailer should be closed; upstream trailer rear valves are generally open to pass air through the set."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Tractor Protection Test",
+    "question": "When air is fanned down during tractor protection testing, what should happen?",
+    "choices": [
+      "Nothing should change",
+      "Trailer air supply control should pop out in the specified low-pressure range",
+      "Parking brakes release",
+      "Service line pressure rises"
+    ],
+    "answer_index": 1,
+    "explanation": "The trailer air supply control should pop out at low pressure (typically 20-45 psi), confirming tractor protection operation."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Additional Inspection",
+    "question": "Which additional connection should be checked closely on doubles/triples during walk-around?",
+    "choices": [
+      "Only tractor hood latches",
+      "Pintle hook latch and safety chains",
+      "AM/FM radio connections",
+      "Windshield tint"
+    ],
+    "answer_index": 1,
+    "explanation": "In doubles/triples, pintle hook latch security and safety chains are critical additional checks beyond standard single-unit inspections."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Manage Space",
+    "question": "Why do doubles and triples require more following distance and larger traffic gaps?",
+    "choices": [
+      "They accelerate faster than single units",
+      "They are longer and cannot be turned or stopped suddenly",
+      "They are always lightly loaded",
+      "They have stronger brakes"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 7.1.5 states doubles/triples need more space because of length and reduced ability to stop or turn suddenly."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Adverse Conditions",
+    "question": "In bad weather or mountain driving, why are doubles/triples at higher traction risk?",
+    "choices": [
+      "They have fewer axles",
+      "Greater length and more dead axles increase skid/loss-of-traction risk",
+      "They use only one brake circuit",
+      "They cannot use engine braking"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 7.1.6 notes doubles/triples have greater length and more dead axles to pull, increasing skids and traction loss risk."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Securing Second Trailer",
+    "question": "If the second trailer has no spring brakes, which method helps set its emergency brakes before coupling?",
+    "choices": [
+      "Open all shut-off valves and pull forward",
+      "Connect emergency line, charge trailer air tank, then disconnect emergency line",
+      "Apply trailer hand valve continuously",
+      "Lower landing gear fully and wait"
+    ],
+    "answer_index": 1,
+    "explanation": "To secure a rear trailer without spring brakes, connect emergency line, charge air tank, then disconnect to set emergency brakes (with proper adjustment)."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Converter Dolly Drain Valve",
+    "question": "During doubles/triples walk-around, what should the converter dolly air tank drain valve position be?",
+    "choices": [
+      "Open",
+      "Closed",
+      "Half-open",
+      "Any position is acceptable"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 7.3.1 lists converter dolly air tank drain valve as CLOSED during inspection."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Trailer Emergency Brake Test",
+    "question": "How do you test trailer emergency brakes in a doubles/triples setup?",
+    "choices": [
+      "Apply tractor parking brake only",
+      "Pull out trailer air supply control and gently pull trailer with tractor to confirm brakes are on",
+      "Open emergency line at rear and listen",
+      "Use hazard lights and coast"
+    ],
+    "answer_index": 1,
+    "explanation": "Test by charging trailer system, then placing trailer air supply in emergency position and gently pulling to verify emergency brakes engage."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Trailer Service Brake Test",
+    "question": "What indicates trailer service brakes are connected and working during a low-speed test?",
+    "choices": [
+      "Air pressure gauge drops to zero",
+      "You feel trailer brakes come on when applied with hand control (if equipped)",
+      "ABS lamp remains lit",
+      "Parking brake knob pops out"
+    ],
+    "answer_index": 1,
+    "explanation": "Section 7.4.1 states moving slowly and applying trailer brakes with hand control should produce a clear braking feel, confirming connection."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Triples Shut-off Valves",
+    "question": "In a set of triples, what should rear shut-off valves be on middle trailers?",
+    "choices": [
+      "Closed",
+      "Open",
+      "Only emergency line open",
+      "Only service line open"
+    ],
+    "answer_index": 1,
+    "explanation": "For air to reach the back, rear shut-off valves on front and middle trailers should be open; only rear of last trailer remains closed."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Inspect Completely",
+    "question": "Why does Section 7 emphasize complete inspections on doubles/triples?",
+    "choices": [
+      "They have fewer components",
+      "There are more critical parts and connection points that can fail",
+      "Inspection is optional if route is short",
+      "Only tires matter"
+    ],
+    "answer_index": 1,
+    "explanation": "Doubles/triples have additional couplings, air lines, valves, and dolly hardware, so complete inspection is essential for safe operation."
   }
 ]
