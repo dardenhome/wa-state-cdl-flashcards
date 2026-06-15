@@ -138,5 +138,75 @@
     ],
     "answer_index": 1,
     "explanation": "A converter gear on a dolly is a coupling device of one or two axles and a fifth wheel by which a semitrailer can be coupled to the rear of a tractor-trailer combination, forming a double bottom rig."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Trailer Weight Order",
+    "question": "When pulling doubles, where should the heavier trailer be positioned?",
+    "choices": [
+      "In the second position for better handling",
+      "In the first position for stability",
+      "It doesn't matter",
+      "Always in the rear"
+    ],
+    "answer_index": 1,
+    "explanation": "The heavier trailer should be in the first (front) position and the lighter trailer in the rear for better handling characteristics."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Converter Dolly",
+    "question": "What is a converter dolly?",
+    "choices": [
+      "A type of storage container",
+      "A coupling device with one or two axles and a fifth wheel",
+      "A backup generator",
+      "A type of brake system"
+    ],
+    "answer_index": 1,
+    "explanation": "A converter dolly is the coupling device that converts a single trailer to a double trailer configuration, with one or two axles and a fifth wheel."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Coupling Visual Check",
+    "question": "During coupling doubles/triples, what should you visually verify about the fifth wheel connection?",
+    "choices": [
+      "That it matches the color of the tractor",
+      "That there is no space between upper and lower portions and the kingpin is not bent",
+      "That the mirrors are adjusted",
+      "That the air lines are blue"
+    ],
+    "answer_index": 1,
+    "explanation": "You must visually check that there is no gap between the upper and lower fifth wheel and that the kingpin is not bent."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Air Line Testing",
+    "question": "When testing air flow on doubles/triples, what must you verify?",
+    "choices": [
+      "Only the tractor has air",
+      "All trailers receive air to both emergency and service lines",
+      "Only the first trailer needs air",
+      "Air pressure alone is sufficient"
+    ],
+    "answer_index": 1,
+    "explanation": "You must test that all trailers receive air to both the emergency line and service line."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Uncoupling Order",
+    "question": "In what order should you uncouple trailers to maintain vehicle stability?",
+    "choices": [
+      "Always the rear trailer first",
+      "Always the front trailer first",
+      "Lower landing gear before disconnecting anything",
+      "The order doesn't matter"
+    ],
+    "answer_index": 2,
+    "explanation": "The proper uncoupling sequence includes lowering the landing gear first for stability, then closing air shut-offs, disconnecting lines, and pulling trailers out."
   }
 ]

@@ -194,5 +194,75 @@
     ],
     "answer_index": 2,
     "explanation": "The guide states the maximum speed for trucks and buses is 60 mph on interstate and Washington State highways (70 mph for auto-stages)."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "CLP Experience Requirements",
+    "question": "How many years of prior commercial driving experience do you need before you can take the CDL skills test with a Commercial Learner's Permit?",
+    "choices": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "5 years"
+    ],
+    "answer_index": 1,
+    "explanation": "You must have at least 2 years of experience in the commercial driving class, plus at least 5 years of total driving experience."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Knowledge Test Valid Period",
+    "question": "For how long is a passed knowledge test (like the hazmat test) valid?",
+    "choices": [
+      "90 days",
+      "180 days",
+      "1 year",
+      "2 years"
+    ],
+    "answer_index": 1,
+    "explanation": "Knowledge test scores are valid for 180 days."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Weight Limit - Tandem Axles",
+    "question": "What is the maximum legal weight allowed on tandem axles that are less than 7 feet apart?",
+    "choices": [
+      "20,000 pounds",
+      "26,000 pounds",
+      "34,000 pounds",
+      "40,000 pounds"
+    ],
+    "answer_index": 2,
+    "explanation": "The legal weight limit for tandem axles less than 7 feet apart is 34,000 pounds."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Length Limit - Double Trailers",
+    "question": "What is the maximum allowable length for double trailers?",
+    "choices": [
+      "53 feet",
+      "61 feet",
+      "65 feet",
+      "75 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "Doubles cannot exceed 61 feet in total length."
+  },
+  {
+    "section": 1,
+    "section_name": "Introduction",
+    "topic": "Tire Chain Requirements",
+    "question": "During what months are tire chains required on commercial vehicles over 10,000 pounds GVWR?",
+    "choices": [
+      "June 1 - September 30",
+      "September 1 - May 31",
+      "November 1 - April 1",
+      "October 1 - March 31"
+    ],
+    "answer_index": 2,
+    "explanation": "Tire chains are required from November 1 through April 1 for vehicles exceeding 10,000 pounds GVWR."
   }
 ]

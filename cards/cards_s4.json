@@ -138,5 +138,89 @@
     ],
     "answer_index": 1,
     "explanation": "The interlock applies the brakes and holds the throttle in idle when the rear door is open, and it must not be used in place of the parking brake."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Bus Pre-trip - Service Brakes",
+    "question": "What must be verified about the service brakes during a bus pre-trip inspection?",
+    "choices": [
+      "Visual inspection only",
+      "That they operate smoothly and the brake pedal has proper resistance",
+      "Only test them on the road",
+      "They never need to be checked"
+    ],
+    "answer_index": 1,
+    "explanation": "Service brakes must be checked to ensure they operate smoothly and the brake pedal has proper resistance and does not go to the floor."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Bus Interior Equipment",
+    "question": "Which of the following is NOT part of the bus interior pre-trip inspection?",
+    "choices": [
+      "Checking that handholds and railings are secure",
+      "Verifying all seats are fastened",
+      "Ensuring emergency exits are marked and accessible",
+      "Checking tire pressure"
+    ],
+    "answer_index": 3,
+    "explanation": "Interior checks include handholds, railings, seats, signaling devices, and emergency exits. Tire pressure is an exterior check."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Loading Passengers",
+    "question": "In what order should passengers board a bus?",
+    "choices": [
+      "All at once for speed",
+      "Standing room only",
+      "In single file using the handrail",
+      "Heaviest passengers first"
+    ],
+    "answer_index": 2,
+    "explanation": "Passengers should board in single file using the handrail for safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Standee Line",
+    "question": "How far away must the standee line be from the driver's seat?",
+    "choices": [
+      "At the driver's seat back",
+      "At least 1 foot forward",
+      "At the rear of the driver's seat",
+      "Exactly 2 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "No rider may stand forward of the rear of the driver's seat; the standee line marks this boundary."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Bus Hazmat Limits",
+    "question": "Which of these items is allowed on a bus with hazmat limitations?",
+    "choices": [
+      "Tear gas or riot control gas",
+      "Small-arms ammunition",
+      "Liquid poison (Class 6)",
+      "More than 500 pounds total of hazmat"
+    ],
+    "answer_index": 1,
+    "explanation": "Small-arms ammunition (ORM-D) and emergency hospital supplies are allowed. Poison gases, liquid poisons, and excessive hazmat are forbidden."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Student Crossing Safety",
+    "question": "How far away from the bus should students walk when crossing the street?",
+    "choices": [
+      "Right next to the bus door",
+      "5 feet in front of the bus",
+      "10 feet away from the bus in the direction of the driver's vision",
+      "20 feet away"
+    ],
+    "answer_index": 2,
+    "explanation": "Students should walk 10 feet away from the bus where the driver can see them, stop at the road edge, wait for the signal, then cross."
   }
 ]

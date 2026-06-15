@@ -278,5 +278,61 @@
     ],
     "answer_index": 2,
     "explanation": "Notification is required when estimated property damage exceeds $50,000 as a direct result of a hazardous materials incident."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazmat H-Endorsement Valid Period",
+    "question": "How long is a Hazmat (H) endorsement valid?",
+    "choices": [
+      "2 years",
+      "3 years",
+      "5 years",
+      "Until renewal"
+    ],
+    "answer_index": 2,
+    "explanation": "The Hazmat (H) endorsement is valid for 5 years and requires TSA background check and fingerprinting."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Hazmat Classes",
+    "question": "Which of the following is a correct hazmat class example?",
+    "choices": [
+      "Class 1 = Flammable Liquids",
+      "Class 3 = Flammable Liquids",
+      "Class 5 = Explosives",
+      "Class 8 = Gases"
+    ],
+    "answer_index": 1,
+    "explanation": "The 9 hazmat classes are: 1=Explosives, 2=Gases, 3=Flammable liquids, 4=Flammable solids, 5=Oxidizers, 6=Poisons, 7=Radioactive, 8=Corrosives, 9=Miscellaneous."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Shipper Responsibility",
+    "question": "Which responsibility falls to the shipper in hazmat transportation?",
+    "choices": [
+      "Refueling the vehicle",
+      "Identifying the material and determining hazard class",
+      "Driving the vehicle safely",
+      "Loading and unloading"
+    ],
+    "answer_index": 1,
+    "explanation": "The shipper is responsible for identifying the material, determining hazard class, proper packaging, labeling, marking, and providing shipping papers."
+  },
+  {
+    "section": 9,
+    "section_name": "Hazardous Materials",
+    "topic": "Placard Shape",
+    "question": "How should a hazmat placard be positioned on a vehicle?",
+    "choices": [
+      "Sideways like a square",
+      "Tilted 45 degrees like a diamond",
+      "Upside down",
+      "In any orientation"
+    ],
+    "answer_index": 1,
+    "explanation": "Hazmat placards are diamond-shaped (rotated square) warning signs that must be properly displayed."
   }
 ]

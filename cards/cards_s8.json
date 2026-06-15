@@ -124,5 +124,75 @@
     ],
     "answer_index": 2,
     "explanation": "To control surge, keep steady pressure on the brakes and do not release too soon when coming to a stop."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Tank Leaks Inspection",
+    "question": "What is the most critical item to check when inspecting a tank vehicle?",
+    "choices": [
+      "Tire pressure",
+      "Paint condition",
+      "Leaks under and around the tank",
+      "Interior tank color"
+    ],
+    "answer_index": 2,
+    "explanation": "The most important inspection item for tank vehicles is checking for any leaks - under and around the vehicle, tank shell, valves, pipes, and hoses."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Baffles and Surge",
+    "question": "What type of liquid surge do baffles help prevent?",
+    "choices": [
+      "Side-to-side surge only",
+      "Forward and backward surge, but not side-to-side",
+      "All liquid movement",
+      "They increase surge control"
+    ],
+    "answer_index": 1,
+    "explanation": "Baffles help control forward and backward (fore-aft) liquid surge by dividing the tank, but side-to-side surge can still occur."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Outage",
+    "question": "What must outage account for?",
+    "choices": [
+      "The driver's personal storage",
+      "Room for the pump mechanism",
+      "Space for liquid to expand as it warms and to prevent splashing",
+      "Extra cargo to add weight"
+    ],
+    "answer_index": 2,
+    "explanation": "Outage is the room you must leave in the tank because liquids expand as they warm; different liquids require different outage amounts."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Tank Braking Technique",
+    "question": "What is the key braking technique for controlling liquid surge in a tank vehicle?",
+    "choices": [
+      "Hard braking at the last moment",
+      "Pump the brakes rapidly",
+      "Apply steady pressure and don't release too soon",
+      "Use the hand valve"
+    ],
+    "answer_index": 2,
+    "explanation": "To control surge when stopping, maintain steady brake pressure and don't release too soon."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Curves and Rollover Risk",
+    "question": "Why should tank vehicles take curves and on/off ramps well below posted speeds?",
+    "choices": [
+      "To save fuel",
+      "Because tankers can rollover at posted speeds due to high center of gravity",
+      "To protect cargo quality",
+      "It's required by law for all vehicles"
+    ],
+    "answer_index": 1,
+    "explanation": "Tankers can rollover at speeds posted for regular vehicles due to their high center of gravity, so they must take curves well below posted speeds."
   }
 ]

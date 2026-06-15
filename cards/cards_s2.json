@@ -4,7 +4,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Tire Tread",
     "question": "What is the minimum tread depth required in every major groove on front tires?",
-    "choices": ["2/32 inch", "4/32 inch", "6/32 inch", "1/32 inch"],
+    "choices": [
+      "2/32 inch",
+      "4/32 inch",
+      "6/32 inch",
+      "1/32 inch"
+    ],
     "answer_index": 1,
     "explanation": "The guide states you need at least 4/32-inch tread depth in every major groove on front tires, and 2/32 inch on other tires."
   },
@@ -13,7 +18,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Tire Tread",
     "question": "What is the minimum tread depth required in major grooves on tires other than the front tires?",
-    "choices": ["4/32 inch", "3/32 inch", "2/32 inch", "5/32 inch"],
+    "choices": [
+      "4/32 inch",
+      "3/32 inch",
+      "2/32 inch",
+      "5/32 inch"
+    ],
     "answer_index": 2,
     "explanation": "The guide requires at least 2/32 inch of tread on tires other than the front, which need 4/32 inch."
   },
@@ -22,7 +32,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Steering",
     "question": "How much steering wheel play can make it hard to steer?",
-    "choices": ["More than 5 degrees", "More than 10 degrees", "More than 20 degrees", "More than 30 degrees"],
+    "choices": [
+      "More than 5 degrees",
+      "More than 10 degrees",
+      "More than 20 degrees",
+      "More than 30 degrees"
+    ],
     "answer_index": 1,
     "explanation": "The guide says steering wheel play of more than 10 degrees (about 2 inches at the rim of a 20-inch wheel) can make it hard to steer."
   },
@@ -31,7 +46,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Emergency Equipment",
     "question": "Which set of warning devices satisfies the emergency equipment requirement for a parked vehicle?",
-    "choices": ["3 reflective triangles, or at least 6 fusees, or 3 liquid burning flares", "2 reflective triangles or 4 fusees", "1 triangle and 1 flare", "4 reflective triangles only"],
+    "choices": [
+      "3 reflective triangles, or at least 6 fusees, or 3 liquid burning flares",
+      "2 reflective triangles or 4 fusees",
+      "1 triangle and 1 flare",
+      "4 reflective triangles only"
+    ],
     "answer_index": 0,
     "explanation": "The guide lists warning devices as three reflective triangles or at least 6 fusees or 3 liquid burning flares."
   },
@@ -40,7 +60,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Hydraulic Brakes",
     "question": "How do you test hydraulic brakes for leaks?",
-    "choices": ["Pump the pedal once and watch for movement", "Pump the pedal three times, then apply firm pressure for five seconds; the pedal should not move", "Hold the pedal down for one minute", "Apply the brakes at 5 mph and check for pulling"],
+    "choices": [
+      "Pump the pedal once and watch for movement",
+      "Pump the pedal three times, then apply firm pressure for five seconds; the pedal should not move",
+      "Hold the pedal down for one minute",
+      "Apply the brakes at 5 mph and check for pulling"
+    ],
     "answer_index": 1,
     "explanation": "The guide says to pump the brake pedal three times, then apply firm pressure and hold for five seconds; the pedal should not move."
   },
@@ -49,7 +74,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Suspension",
     "question": "How many leaves missing from a leaf spring will put a vehicle 'out of service'?",
-    "choices": ["Any one leaf", "One-fourth or more", "One-half or more", "All of them"],
+    "choices": [
+      "Any one leaf",
+      "One-fourth or more",
+      "One-half or more",
+      "All of them"
+    ],
     "answer_index": 1,
     "explanation": "The guide states that if one-fourth or more leaves are missing it puts the vehicle out of service, though any defect could be dangerous."
   },
@@ -58,7 +88,12 @@
     "section_name": "Driving Safely",
     "topic": "Vehicle Inspection - Cargo Check",
     "question": "When transporting cargo, when must a truck driver first inspect the cargo securement?",
-    "choices": ["Within the first 25 miles", "Within the first 50 miles", "Within the first 100 miles", "Only at the destination"],
+    "choices": [
+      "Within the first 25 miles",
+      "Within the first 50 miles",
+      "Within the first 100 miles",
+      "Only at the destination"
+    ],
     "answer_index": 1,
     "explanation": "The guide requires inspecting cargo securement within the first 50 miles, then every 150 miles or three hours (whichever comes first)."
   },
@@ -67,7 +102,12 @@
     "section_name": "Driving Safely",
     "topic": "Basic Control - Backing",
     "question": "Toward which side should you back and turn whenever possible?",
-    "choices": ["The right (passenger) side", "The driver's side", "Either side equally", "Straight back only"],
+    "choices": [
+      "The right (passenger) side",
+      "The driver's side",
+      "Either side equally",
+      "Straight back only"
+    ],
     "answer_index": 1,
     "explanation": "The guide says to back toward the driver's side so you can see better; backing to the right is dangerous because you can't see as well."
   },
@@ -76,7 +116,12 @@
     "section_name": "Driving Safely",
     "topic": "Shifting - Retarders",
     "question": "When should you turn off a retarder?",
-    "choices": ["When going up a steep hill", "When the road is wet, icy, or snow covered", "When carrying a heavy load", "When driving in heavy traffic"],
+    "choices": [
+      "When going up a steep hill",
+      "When the road is wet, icy, or snow covered",
+      "When carrying a heavy load",
+      "When driving in heavy traffic"
+    ],
     "answer_index": 1,
     "explanation": "The guide warns that when drive wheels have poor traction the retarder may cause a skid, so turn it off when the road is wet, icy, or snow covered."
   },
@@ -85,7 +130,12 @@
     "section_name": "Driving Safely",
     "topic": "Seeing - Looking Ahead",
     "question": "How far ahead does the manual say good drivers should look?",
-    "choices": ["5 to 8 seconds", "12 to 15 seconds", "20 to 25 seconds", "2 to 4 seconds"],
+    "choices": [
+      "5 to 8 seconds",
+      "12 to 15 seconds",
+      "20 to 25 seconds",
+      "2 to 4 seconds"
+    ],
     "answer_index": 1,
     "explanation": "The guide states most good drivers look at least 12 to 15 seconds ahead, about one block at low speeds and a quarter mile at highway speeds."
   },
@@ -94,7 +144,12 @@
     "section_name": "Driving Safely",
     "topic": "Communicating - Warning Devices",
     "question": "On a one-way or divided highway, where should you place your warning devices when stopped?",
-    "choices": ["10 feet, 100 feet, and 200 feet toward approaching traffic", "10 feet, 50 feet, and 100 feet behind", "25 feet, 100 feet, and 300 feet", "100 feet, 200 feet, and 500 feet ahead"],
+    "choices": [
+      "10 feet, 100 feet, and 200 feet toward approaching traffic",
+      "10 feet, 50 feet, and 100 feet behind",
+      "25 feet, 100 feet, and 300 feet",
+      "100 feet, 200 feet, and 500 feet ahead"
+    ],
     "answer_index": 0,
     "explanation": "The guide says on a one-way or divided highway, place warning devices 10 feet, 100 feet, and 200 feet toward the approaching traffic."
   },
@@ -103,7 +158,12 @@
     "section_name": "Driving Safely",
     "topic": "Communicating - Warning Devices",
     "question": "After stopping on a road or shoulder, within how many minutes must you put out emergency warning devices?",
-    "choices": ["Within 5 minutes", "Within 10 minutes", "Within 15 minutes", "Within 30 minutes"],
+    "choices": [
+      "Within 5 minutes",
+      "Within 10 minutes",
+      "Within 15 minutes",
+      "Within 30 minutes"
+    ],
     "answer_index": 1,
     "explanation": "The guide states that if you must stop on a road or shoulder, you must put out your emergency warning devices within ten minutes."
   },
@@ -112,7 +172,12 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Stopping Distance",
     "question": "What three distances add up to total stopping distance?",
-    "choices": ["Perception, reaction, and braking distance", "Following, braking, and reaction distance", "Sight, traction, and braking distance", "Perception, traction, and stopping distance"],
+    "choices": [
+      "Perception, reaction, and braking distance",
+      "Following, braking, and reaction distance",
+      "Sight, traction, and braking distance",
+      "Perception, traction, and stopping distance"
+    ],
     "answer_index": 0,
     "explanation": "The guide defines total stopping distance as perception distance plus reaction distance plus braking distance."
   },
@@ -121,7 +186,12 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Stopping Distance",
     "question": "At 55 mph on dry pavement with good brakes, what is the approximate total stopping distance?",
-    "choices": ["About 216 feet", "About 142 feet", "About 419 feet", "About 300 feet"],
+    "choices": [
+      "About 216 feet",
+      "About 142 feet",
+      "About 419 feet",
+      "About 300 feet"
+    ],
     "answer_index": 2,
     "explanation": "The guide states that at 55 mph the vehicle will travel a minimum of 419 feet total (braking distance alone is about 216 feet)."
   },
@@ -130,7 +200,12 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Effect of Speed",
     "question": "If you double your speed from 20 to 40 mph, how much greater is the braking distance?",
-    "choices": ["2 times longer", "4 times longer", "8 times longer", "16 times longer"],
+    "choices": [
+      "2 times longer",
+      "4 times longer",
+      "8 times longer",
+      "16 times longer"
+    ],
     "answer_index": 1,
     "explanation": "The guide states that doubling speed from 20 to 40 mph makes the impact and braking distance 4 times greater."
   },
@@ -139,7 +214,12 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Road Surface",
     "question": "On a wet road, by about how much should you reduce your speed?",
-    "choices": ["By about one-third (e.g., 55 to about 35 mph)", "By one-half", "By one-tenth", "Reduce to a crawl"],
+    "choices": [
+      "By about one-third (e.g., 55 to about 35 mph)",
+      "By one-half",
+      "By one-tenth",
+      "Reduce to a crawl"
+    ],
     "answer_index": 0,
     "explanation": "The guide says to reduce speed by about one-third on a wet road, by a half or more on packed snow, and to a crawl on ice."
   },
@@ -148,7 +228,12 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Hydroplaning",
     "question": "At what speed can hydroplaning occur if there is a lot of water on the road?",
-    "choices": ["As low as 30 mph", "Only above 55 mph", "Only above 45 mph", "As low as 10 mph"],
+    "choices": [
+      "As low as 30 mph",
+      "Only above 55 mph",
+      "Only above 45 mph",
+      "As low as 10 mph"
+    ],
     "answer_index": 0,
     "explanation": "The guide states hydroplaning can occur at speeds as low as 30 mph if there is a lot of water."
   },
@@ -157,7 +242,12 @@
     "section_name": "Driving Safely",
     "topic": "Controlling Speed - Hydroplaning",
     "question": "How do you regain control if your vehicle is hydroplaning?",
-    "choices": ["Brake firmly and steer hard", "Release the accelerator and push in the clutch; do not brake", "Accelerate to power through the water", "Apply the parking brake"],
+    "choices": [
+      "Brake firmly and steer hard",
+      "Release the accelerator and push in the clutch; do not brake",
+      "Accelerate to power through the water",
+      "Apply the parking brake"
+    ],
     "answer_index": 1,
     "explanation": "The guide says to release the accelerator and push in the clutch to let the wheels turn freely, and do not use the brakes when hydroplaning."
   },
@@ -166,7 +256,12 @@
     "section_name": "Driving Safely",
     "topic": "Managing Space - Following Distance",
     "question": "Below 40 mph, how much following distance does the rule recommend per 10 feet of vehicle length?",
-    "choices": ["One-half second", "One second", "Two seconds", "Three seconds"],
+    "choices": [
+      "One-half second",
+      "One second",
+      "Two seconds",
+      "Three seconds"
+    ],
     "answer_index": 1,
     "explanation": "The guide says you need at least one second for each 10 feet of vehicle length at speeds below 40 mph."
   },
@@ -175,7 +270,12 @@
     "section_name": "Driving Safely",
     "topic": "Managing Space - Following Distance",
     "question": "How many seconds of following distance should a 40-foot vehicle keep at speeds over 40 mph?",
-    "choices": ["4 seconds", "5 seconds", "6 seconds", "7 seconds"],
+    "choices": [
+      "4 seconds",
+      "5 seconds",
+      "6 seconds",
+      "7 seconds"
+    ],
     "answer_index": 1,
     "explanation": "A 40-foot vehicle needs 4 seconds below 40 mph; over 40 mph you add 1 second for safety, giving 5 seconds."
   },
@@ -184,7 +284,12 @@
     "section_name": "Driving Safely",
     "topic": "Managing Space - Tailgaters",
     "question": "What should you do if you are being tailgated?",
-    "choices": ["Speed up to create distance", "Flash your brake lights to warn them", "Increase your following distance and avoid quick changes", "Move into the left lane and slow down"],
+    "choices": [
+      "Speed up to create distance",
+      "Flash your brake lights to warn them",
+      "Increase your following distance and avoid quick changes",
+      "Move into the left lane and slow down"
+    ],
     "answer_index": 2,
     "explanation": "The guide advises increasing your following distance, avoiding quick changes, not speeding up, and avoiding tricks like flashing brake lights."
   },
@@ -193,7 +298,12 @@
     "section_name": "Driving Safely",
     "topic": "Distracted Driving - Texting",
     "question": "Texting while driving makes a CMV driver how many times more likely to be in a safety-critical event?",
-    "choices": ["6 times", "23.2 times", "2 times", "4 times"],
+    "choices": [
+      "6 times",
+      "23.2 times",
+      "2 times",
+      "4 times"
+    ],
     "answer_index": 1,
     "explanation": "The guide reports the odds of a safety-critical event are 23.2 times greater for CMV drivers who text while driving."
   },
@@ -202,7 +312,12 @@
     "section_name": "Driving Safely",
     "topic": "Night Driving - Headlights",
     "question": "About how far ahead can you see with low-beam headlights?",
-    "choices": ["About 100 feet", "About 250 feet", "About 500 feet", "About 750 feet"],
+    "choices": [
+      "About 100 feet",
+      "About 250 feet",
+      "About 500 feet",
+      "About 750 feet"
+    ],
     "answer_index": 1,
     "explanation": "The guide states that with low beams you can see ahead about 250 feet, and with high beams about 350-500 feet."
   },
@@ -211,7 +326,12 @@
     "section_name": "Driving Safely",
     "topic": "Night Driving - Dimming Lights",
     "question": "Within how many feet of an oncoming vehicle must you dim your high beams?",
-    "choices": ["200 feet", "300 feet", "500 feet", "1000 feet"],
+    "choices": [
+      "200 feet",
+      "300 feet",
+      "500 feet",
+      "1000 feet"
+    ],
     "answer_index": 2,
     "explanation": "The guide says to dim your lights within 500 feet of an oncoming vehicle and when following another vehicle within 500 feet."
   },
@@ -220,7 +340,12 @@
     "section_name": "Driving Safely",
     "topic": "Driving in Fog",
     "question": "Which headlights should you use for best visibility when driving in fog?",
-    "choices": ["High beams", "Low-beam headlights and fog lights", "Parking lights only", "Hazard flashers only"],
+    "choices": [
+      "High beams",
+      "Low-beam headlights and fog lights",
+      "Parking lights only",
+      "Hazard flashers only"
+    ],
     "answer_index": 1,
     "explanation": "The guide says to use low-beam headlights and fog lights for best visibility in fog, even in the daytime."
   },
@@ -229,7 +354,12 @@
     "section_name": "Driving Safely",
     "topic": "Railroad Crossings - Stopping Distance",
     "question": "Where must vehicles required to stop position themselves relative to the nearest rail (when no stop line is painted)?",
-    "choices": ["No closer than 5 feet or more than 25 feet", "No closer than 15 feet or more than 50 feet", "No closer than 25 feet or more than 75 feet", "Exactly 10 feet from the rail"],
+    "choices": [
+      "No closer than 5 feet or more than 25 feet",
+      "No closer than 15 feet or more than 50 feet",
+      "No closer than 25 feet or more than 75 feet",
+      "Exactly 10 feet from the rail"
+    ],
     "answer_index": 1,
     "explanation": "The guide says vehicles required to stop must stop no closer than 15 feet and no more than 50 feet from the nearest rail."
   },
@@ -238,7 +368,12 @@
     "section_name": "Driving Safely",
     "topic": "Railroad Crossings - Clearing Tracks",
     "question": "How long does a typical tractor-trailer take to clear a double track?",
-    "choices": ["At least 14 seconds", "More than 15 seconds", "About 5 seconds", "About 10 seconds"],
+    "choices": [
+      "At least 14 seconds",
+      "More than 15 seconds",
+      "About 5 seconds",
+      "About 10 seconds"
+    ],
     "answer_index": 1,
     "explanation": "The guide states a typical tractor-trailer takes at least 14 seconds to clear a single track and more than 15 seconds to clear a double track."
   },
@@ -247,7 +382,12 @@
     "section_name": "Driving Safely",
     "topic": "Mountain Driving - Braking Technique",
     "question": "Using proper braking technique on a downgrade, you release the brakes when speed drops to about how far below your 'safe' speed?",
-    "choices": ["About 2 mph below", "About 5 mph below", "About 10 mph below", "About 15 mph below"],
+    "choices": [
+      "About 2 mph below",
+      "About 5 mph below",
+      "About 10 mph below",
+      "About 15 mph below"
+    ],
     "answer_index": 1,
     "explanation": "The guide says to brake until speed is reduced to about five mph below your safe speed, then release for about three seconds."
   },
@@ -256,7 +396,12 @@
     "section_name": "Driving Safely",
     "topic": "Emergencies - Stopping",
     "question": "Which describes the stab braking method?",
-    "choices": ["Apply brakes lightly and hold steady pressure", "Apply brakes fully, release when wheels lock, then reapply fully when wheels roll", "Pump the brakes rapidly without full application", "Press the brake as hard as possible and hold it"],
+    "choices": [
+      "Apply brakes lightly and hold steady pressure",
+      "Apply brakes fully, release when wheels lock, then reapply fully when wheels roll",
+      "Pump the brakes rapidly without full application",
+      "Press the brake as hard as possible and hold it"
+    ],
     "answer_index": 1,
     "explanation": "The guide describes stab braking as applying brakes all the way, releasing when wheels lock, then reapplying fully as soon as the wheels start rolling."
   },
@@ -265,7 +410,12 @@
     "section_name": "Driving Safely",
     "topic": "Emergencies - Tire Failure",
     "question": "What should you do immediately if a tire fails while driving?",
-    "choices": ["Brake hard to stop quickly", "Hold the steering wheel firmly and stay off the brake until the vehicle slows", "Accelerate to maintain control", "Steer sharply onto the shoulder"],
+    "choices": [
+      "Brake hard to stop quickly",
+      "Hold the steering wheel firmly and stay off the brake until the vehicle slows",
+      "Accelerate to maintain control",
+      "Steer sharply onto the shoulder"
+    ],
     "answer_index": 1,
     "explanation": "The guide says to hold the steering wheel firmly with both hands and stay off the brake until the vehicle has slowed, then brake gently."
   },
@@ -274,7 +424,12 @@
     "section_name": "Driving Safely",
     "topic": "Antilock Braking Systems",
     "question": "What does ABS do for your vehicle?",
-    "choices": ["It shortens your stopping distance", "It keeps wheels from locking up and helps you keep control during hard braking", "It replaces your normal brakes", "It lets you follow more closely"],
+    "choices": [
+      "It shortens your stopping distance",
+      "It keeps wheels from locking up and helps you keep control during hard braking",
+      "It replaces your normal brakes",
+      "It lets you follow more closely"
+    ],
     "answer_index": 1,
     "explanation": "The guide states ABS keeps wheels from locking up during hard braking and helps maintain control, but does not necessarily shorten stopping distance."
   },
@@ -283,8 +438,97 @@
     "section_name": "Driving Safely",
     "topic": "Fires - Extinguisher Use",
     "question": "Which type of fire should you NOT use water on?",
-    "choices": ["Burning wood", "Burning paper", "An electrical or gasoline fire", "Burning cloth"],
+    "choices": [
+      "Burning wood",
+      "Burning paper",
+      "An electrical or gasoline fire",
+      "Burning cloth"
+    ],
     "answer_index": 2,
     "explanation": "The guide warns not to use water on an electrical fire (can cause shock) or a gasoline fire (it will spread the flames)."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Air Pressure Build Time",
+    "question": "After starting the engine, how long should it take for air pressure to build from 0 to 90 psi in the air tanks?",
+    "choices": [
+      "1-2 minutes",
+      "2-3 minutes",
+      "3-5 minutes",
+      "5-10 minutes"
+    ],
+    "answer_index": 2,
+    "explanation": "Air pressure should build from 0 to 90 psi in 3 to 5 minutes after starting the engine."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Governor Cut-out Pressure",
+    "question": "At what air pressure does the governor typically cut out (stop compressor)?",
+    "choices": [
+      "80 psi",
+      "100 psi",
+      "125 psi",
+      "150 psi"
+    ],
+    "answer_index": 2,
+    "explanation": "The governor cuts out at approximately 125 psi and the compressor stops pumping air."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Steering Wheel Play Maximum",
+    "question": "What is the maximum amount of steering wheel play allowed?",
+    "choices": [
+      "5 degrees (1 inch on 20-inch wheel)",
+      "10 degrees (2 inches on 20-inch wheel)",
+      "15 degrees (3 inches on 20-inch wheel)",
+      "20 degrees (4 inches on 20-inch wheel)"
+    ],
+    "answer_index": 1,
+    "explanation": "Steering wheel play must not exceed 10 degrees or 2 inches on a 20-inch steering wheel."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Minimum Tread Depth",
+    "question": "What is the minimum tread depth requirement for tires other than the front tires?",
+    "choices": [
+      "1/16 inch",
+      "2/32 inch",
+      "3/32 inch",
+      "1/4 inch"
+    ],
+    "answer_index": 0,
+    "explanation": "Tires other than front tires must have a minimum tread depth of 1/16 inch."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Cargo Securing - Free Board",
+    "question": "What is the minimum freeboard (clearance from cargo to top of truck bed) required for loose cargo like dirt or gravel?",
+    "choices": [
+      "2 inches",
+      "4 inches",
+      "6 inches",
+      "12 inches"
+    ],
+    "answer_index": 2,
+    "explanation": "A minimum 6-inch freeboard is required on all loose cargo loads."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Following Distance",
+    "question": "What is the minimum following distance rule for commercial vehicles?",
+    "choices": [
+      "One second per 10 feet of vehicle length only",
+      "One second per 10 feet of vehicle length plus 1 additional second if speed exceeds 40 mph",
+      "One second for every 5 feet of vehicle length",
+      "At least 300 feet regardless of speed"
+    ],
+    "answer_index": 1,
+    "explanation": "You should maintain at least 1 second of following distance for every 10 feet of your vehicle length, plus 1 additional second if driving faster than 40 mph."
   }
 ]

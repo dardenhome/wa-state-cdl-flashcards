@@ -4,7 +4,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Inspecting Cargo",
     "question": "After beginning a trip, within how many miles must you re-inspect your cargo and securing devices?",
-    "choices": ["The first 25 miles", "The first 50 miles", "The first 100 miles", "The first 150 miles"],
+    "choices": [
+      "The first 25 miles",
+      "The first 50 miles",
+      "The first 100 miles",
+      "The first 150 miles"
+    ],
     "answer_index": 1,
     "explanation": "You must inspect the cargo and its securing devices again within the first 50 miles after beginning a trip and make any needed adjustments."
   },
@@ -13,7 +18,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Inspecting Cargo",
     "question": "During a trip, after how much driving must you re-check your cargo (in addition to after every break)?",
-    "choices": ["After 2 hours or 100 miles", "After 3 hours or 150 miles", "After 4 hours or 200 miles", "After 5 hours or 250 miles"],
+    "choices": [
+      "After 2 hours or 100 miles",
+      "After 3 hours or 150 miles",
+      "After 4 hours or 200 miles",
+      "After 5 hours or 250 miles"
+    ],
     "answer_index": 1,
     "explanation": "You need to inspect again after you have driven for 3 hours or 150 miles, and after every break you take during driving."
   },
@@ -22,7 +32,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Weight Definitions",
     "question": "What does Gross Vehicle Weight Rating (GVWR) specify?",
-    "choices": ["The empty weight of a single vehicle", "The value specified by the manufacturer as the loaded weight of a single vehicle", "The combined weight of the power unit and all towed units", "The maximum weight a coupling device can carry"],
+    "choices": [
+      "The empty weight of a single vehicle",
+      "The value specified by the manufacturer as the loaded weight of a single vehicle",
+      "The combined weight of the power unit and all towed units",
+      "The maximum weight a coupling device can carry"
+    ],
     "answer_index": 1,
     "explanation": "GVWR is the value specified by the manufacturer as the loaded weight of a single vehicle."
   },
@@ -31,7 +46,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Center of Gravity",
     "question": "To keep the center of gravity low, how should you arrange cargo?",
-    "choices": ["Put the heaviest parts on top of the lightest parts", "Put the heaviest parts under the lightest parts", "Place all heavy cargo over the steering axle", "Spread heavy cargo evenly across the top layer"],
+    "choices": [
+      "Put the heaviest parts on top of the lightest parts",
+      "Put the heaviest parts under the lightest parts",
+      "Place all heavy cargo over the steering axle",
+      "Spread heavy cargo evenly across the top layer"
+    ],
     "answer_index": 1,
     "explanation": "It is important to distribute cargo as low as possible by putting the heaviest parts of the cargo under the lightest parts."
   },
@@ -40,7 +60,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Weight Balance",
     "question": "What can result from too little weight on the driving axles?",
-    "choices": ["Hard steering", "Poor traction with drive wheels that spin easily", "Damage to the steering axle and tires", "A lower center of gravity"],
+    "choices": [
+      "Hard steering",
+      "Poor traction with drive wheels that spin easily",
+      "Damage to the steering axle and tires",
+      "A lower center of gravity"
+    ],
     "answer_index": 1,
     "explanation": "Too little weight on the driving axles can cause poor traction, and the drive wheels may spin easily, especially in bad weather."
   },
@@ -49,7 +74,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Cargo Tie-down",
     "question": "Federal regulations require the aggregate working load limit of a securement system to be at least what fraction of the weight of the article(s) secured?",
-    "choices": ["One-quarter times the weight", "One-half times the weight", "One times the weight", "Two times the weight"],
+    "choices": [
+      "One-quarter times the weight",
+      "One-half times the weight",
+      "One times the weight",
+      "Two times the weight"
+    ],
     "answer_index": 1,
     "explanation": "The aggregate working load limit of any securement system must be at least one-half times the weight of the article or group of articles."
   },
@@ -58,7 +88,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Cargo Tie-down",
     "question": "How many tie-downs are required per length of cargo, and what is the absolute minimum?",
-    "choices": ["One per 5 feet, minimum of one", "One per 10 feet, minimum of two", "One per 15 feet, minimum of two", "Two per 10 feet, minimum of four"],
+    "choices": [
+      "One per 5 feet, minimum of one",
+      "One per 10 feet, minimum of two",
+      "One per 15 feet, minimum of two",
+      "Two per 10 feet, minimum of four"
+    ],
     "answer_index": 1,
     "explanation": "Cargo should have at least one tie-down for each ten feet of cargo, and no matter how small, it should have at least two tie-downs."
   },
@@ -67,7 +102,12 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Header Boards",
     "question": "What is the purpose of front-end header boards (\"headache racks\")?",
-    "choices": ["To protect cargo from weather", "To protect you from your cargo in a crash or emergency stop", "To prevent the load from shifting sideways", "To increase the vehicle's load capacity"],
+    "choices": [
+      "To protect cargo from weather",
+      "To protect you from your cargo in a crash or emergency stop",
+      "To prevent the load from shifting sideways",
+      "To increase the vehicle's load capacity"
+    ],
     "answer_index": 1,
     "explanation": "Front-end header boards protect you from your cargo in case of a crash or emergency stop by blocking its forward movement."
   },
@@ -76,8 +116,111 @@
     "section_name": "Transporting Cargo Safely",
     "topic": "Sealed Loads",
     "question": "Even though you cannot inspect a sealed load, what should you check?",
-    "choices": ["The condition of each item inside the container", "That you don't exceed gross weight and axle weight limits", "That the cargo is covered for weather protection", "That blocking is placed against every piece"],
+    "choices": [
+      "The condition of each item inside the container",
+      "That you don't exceed gross weight and axle weight limits",
+      "That the cargo is covered for weather protection",
+      "That blocking is placed against every piece"
+    ],
     "answer_index": 1,
     "explanation": "You cannot inspect sealed loads, but you should check that you don't exceed gross weight and axle weight limits."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Dry Bulk Cargo",
+    "question": "Why are dry bulk loads especially dangerous in highway driving?",
+    "choices": [
+      "They are too heavy to control",
+      "They have a high center of gravity and cargo can shift easily",
+      "They require special licensing",
+      "They cannot be secured properly"
+    ],
+    "answer_index": 1,
+    "explanation": "Dry bulk cargo has a high center of gravity and the load can shift easily, especially on curves."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Livestock Loading",
+    "question": "What precaution must be taken if a livestock load is not full?",
+    "choices": [
+      "Add water barrels for weight",
+      "Use false bulkheads to prevent shifting",
+      "Reduce speed by half",
+      "Notify law enforcement"
+    ],
+    "answer_index": 1,
+    "explanation": "If livestock does not completely fill the truck, false bulkheads must be used to prevent the animals from shifting."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Hanging Meat/Refrigerated Cargo",
+    "question": "What makes hanging meat or other suspended cargo unstable?",
+    "choices": [
+      "It freezes too quickly",
+      "The high center of gravity and pendulum effect cause instability",
+      "It requires refrigeration equipment",
+      "The weight is always uneven"
+    ],
+    "answer_index": 1,
+    "explanation": "Hanging meat has an unstable, high center of gravity and can swing like a pendulum, making it very unstable on curves and during turning."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Oversized Load Requirements",
+    "question": "Which of the following is required when hauling oversized loads?",
+    "choices": [
+      "No special requirements",
+      "Special permits and possible police escort or pilot vehicles",
+      "Double speed limit",
+      "Overnight parking only"
+    ],
+    "answer_index": 1,
+    "explanation": "Oversized loads require special permits and may require police escort or pilot vehicles depending on the size and route."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Weight Distribution",
+    "question": "What is the maximum legal weight allowed on a single axle?",
+    "choices": [
+      "20,000 pounds",
+      "26,000 pounds",
+      "34,000 pounds",
+      "40,000 pounds"
+    ],
+    "answer_index": 0,
+    "explanation": "The legal weight limit for a single axle is 20,000 pounds."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Cargo Securing - Working Load",
+    "question": "What is the minimum required relationship between the working load limit of a securement system and the cargo weight?",
+    "choices": [
+      "Must equal the cargo weight",
+      "Must be at least 0.5 times the cargo weight",
+      "Must be at least 1.0 times the cargo weight",
+      "Must be at least 1.5 times the cargo weight"
+    ],
+    "answer_index": 3,
+    "explanation": "The aggregate working load limit must be at least one-half times the weight - federal regulations require this important safety factor."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "GCWR Definition",
+    "question": "What does Gross Combination Weight Rating (GCWR) represent?",
+    "choices": [
+      "The weight of the tractor only",
+      "The weight of the trailer only",
+      "The total weight of the tractor plus all trailers combined",
+      "The maximum fuel capacity"
+    ],
+    "answer_index": 2,
+    "explanation": "GCWR is the maximum combined weight of the power unit and all towed units together as specified by the manufacturer."
   }
 ]

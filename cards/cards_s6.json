@@ -222,5 +222,61 @@
     ],
     "answer_index": 0,
     "explanation": "You open the emergency line shut-off valve at the rear of the last trailer and should hear air escaping, showing the system is charged."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Empty Combination Stopping",
+    "question": "How does the stopping distance of an empty combination vehicle compare to a loaded one?",
+    "choices": [
+      "Empty stops faster",
+      "Empty stops in the same distance",
+      "Empty takes longer to stop",
+      "It doesn't matter"
+    ],
+    "answer_index": 2,
+    "explanation": "An empty combination vehicle actually takes longer to stop than a loaded one because there is less weight on the tires for traction."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Trailer Jackknife Response",
+    "question": "If your trailer starts to jackknife, what is the proper emergency response?",
+    "choices": [
+      "Apply brakes harder",
+      "Release the brakes to restore traction and don't use the hand valve",
+      "Turn the wheel sharply",
+      "Speed up to straighten the vehicle"
+    ],
+    "answer_index": 1,
+    "explanation": "If a trailer jackknifes, release the brakes to restore traction. Never use the hand valve - it can make it worse."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Off-tracking",
+    "question": "Why do longer combination vehicles off-track more than shorter ones?",
+    "choices": [
+      "They are heavier",
+      "The greater the wheelbase, the more the rear wheels follow a different path than the front",
+      "They require more air pressure",
+      "They have worn tires"
+    ],
+    "answer_index": 1,
+    "explanation": "Off-tracking occurs because the rear wheels follow a different path than the front wheels; longer vehicles off-track more due to their greater wheelbase."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Air Service Line Color",
+    "question": "What color is the service (control) air line on a combination vehicle?",
+    "choices": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer_index": 1,
+    "explanation": "The service line (control air for braking) is blue, while the emergency line is red."
   }
 ]

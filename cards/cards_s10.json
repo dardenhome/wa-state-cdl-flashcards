@@ -4,7 +4,12 @@
     "section_name": "School Buses",
     "topic": "Danger Zones",
     "question": "How far can the danger zone extend from the front bumper of a school bus?",
-    "choices": ["As much as 10 feet", "As much as 30 feet", "As much as 50 feet", "As much as 100 feet"],
+    "choices": [
+      "As much as 10 feet",
+      "As much as 30 feet",
+      "As much as 50 feet",
+      "As much as 100 feet"
+    ],
     "answer_index": 1,
     "explanation": "The danger zone may extend as much as 30 feet from the front bumper, with the first 10 feet being the most dangerous."
   },
@@ -13,7 +18,12 @@
     "section_name": "School Buses",
     "topic": "Danger Zones",
     "question": "How far do the danger zones extend from the left and right sides and behind the rear bumper of the bus?",
-    "choices": ["5 feet", "10 feet", "15 feet", "30 feet"],
+    "choices": [
+      "5 feet",
+      "10 feet",
+      "15 feet",
+      "30 feet"
+    ],
     "answer_index": 1,
     "explanation": "The danger zones extend 10 feet from the left and right sides and 10 feet behind the rear bumper of the school bus."
   },
@@ -22,7 +32,12 @@
     "section_name": "School Buses",
     "topic": "Flat Mirrors",
     "question": "When properly adjusted, the outside flat mirrors should let you see how far behind the bus?",
-    "choices": ["100 feet or 2 bus lengths", "200 feet or 4 bus lengths", "300 feet or 6 bus lengths", "400 feet or 8 bus lengths"],
+    "choices": [
+      "100 feet or 2 bus lengths",
+      "200 feet or 4 bus lengths",
+      "300 feet or 6 bus lengths",
+      "400 feet or 8 bus lengths"
+    ],
     "answer_index": 1,
     "explanation": "The outside left and right side flat mirrors should be adjusted so you can see 200 feet or 4 bus lengths behind the bus."
   },
@@ -31,7 +46,12 @@
     "section_name": "School Buses",
     "topic": "Crossover Mirrors",
     "question": "What is the primary purpose of the outside crossover mirrors?",
-    "choices": ["To monitor passenger activity inside the bus", "To see traffic 400 feet behind the bus", "To see the front bumper danger zone and the area in front of and beside the bus not visible by direct vision", "To check the rear tires touching the ground"],
+    "choices": [
+      "To monitor passenger activity inside the bus",
+      "To see traffic 400 feet behind the bus",
+      "To see the front bumper danger zone and the area in front of and beside the bus not visible by direct vision",
+      "To check the rear tires touching the ground"
+    ],
     "answer_index": 2,
     "explanation": "Crossover mirrors are used to see the front bumper danger zone directly in front of the bus and the danger zones at the left and right sides, including the service door and front wheel area."
   },
@@ -40,7 +60,12 @@
     "section_name": "School Buses",
     "topic": "Loading and Unloading",
     "question": "Each year, where are more students killed in relation to the school bus?",
-    "choices": ["As passengers inside the bus", "While getting on or off the bus", "While the bus is parked at the school", "During railroad crossings"],
+    "choices": [
+      "As passengers inside the bus",
+      "While getting on or off the bus",
+      "While the bus is parked at the school",
+      "During railroad crossings"
+    ],
     "answer_index": 1,
     "explanation": "More students are killed while getting on or off a school bus each year than are killed as passengers inside of a school bus."
   },
@@ -49,7 +74,12 @@
     "section_name": "School Buses",
     "topic": "Approaching the Stop",
     "question": "When should you activate the alternating flashing amber warning lights before a stop?",
-    "choices": ["At least 100 feet or about 2 seconds before", "At least 200 feet or about 5-10 seconds before", "At least 300 feet or about 15 seconds before", "Only after coming to a complete stop"],
+    "choices": [
+      "At least 100 feet or about 2 seconds before",
+      "At least 200 feet or about 5-10 seconds before",
+      "At least 300 feet or about 15 seconds before",
+      "Only after coming to a complete stop"
+    ],
     "answer_index": 1,
     "explanation": "If so equipped, activate alternating flashing amber warning lights at least 200 feet or approximately 5-10 seconds before the stop, or in accordance with state law."
   },
@@ -58,7 +88,12 @@
     "section_name": "School Buses",
     "topic": "Stopping at the Stop",
     "question": "How far from waiting students should the front bumper be when you bring the bus to a full stop at a designated stop?",
-    "choices": ["At least 5 feet away", "At least 10 feet away", "At least 15 feet away", "At least 30 feet away"],
+    "choices": [
+      "At least 5 feet away",
+      "At least 10 feet away",
+      "At least 15 feet away",
+      "At least 30 feet away"
+    ],
     "answer_index": 1,
     "explanation": "Bring the bus to a full stop with the front bumper at least 10 feet away from students, forcing them to walk to the bus so you have a better view of their movements."
   },
@@ -67,7 +102,12 @@
     "section_name": "School Buses",
     "topic": "Students Crossing the Roadway",
     "question": "When students must cross the roadway, where should they walk in relation to the bus?",
-    "choices": ["Directly in front of the front bumper", "At least 10 feet in front of the right corner of the bumper", "Behind the rear bumper at least 10 feet", "Along the left side of the bus"],
+    "choices": [
+      "Directly in front of the front bumper",
+      "At least 10 feet in front of the right corner of the bumper",
+      "Behind the rear bumper at least 10 feet",
+      "Along the left side of the bus"
+    ],
     "answer_index": 1,
     "explanation": "Students should walk to a location at least 10 feet in front of the right corner of the bumper, while still remaining away from the front of the bus."
   },
@@ -76,7 +116,12 @@
     "section_name": "School Buses",
     "topic": "Mandatory Evacuation",
     "question": "Which of the following requires a mandatory evacuation of the bus?",
-    "choices": ["A behavior problem among students", "Heavy rain on the route", "The bus is stalled on or adjacent to a railroad-highway crossing", "A flat tire on a city street"],
+    "choices": [
+      "A behavior problem among students",
+      "Heavy rain on the route",
+      "The bus is stalled on or adjacent to a railroad-highway crossing",
+      "A flat tire on a city street"
+    ],
     "answer_index": 2,
     "explanation": "The driver must evacuate when the bus is on fire or threatened by fire, stalled on or adjacent to a railroad crossing, in danger from a changing position, facing imminent collision, or needing quick evacuation due to a hazmat spill."
   },
@@ -85,7 +130,12 @@
     "section_name": "School Buses",
     "topic": "Safe Place",
     "question": "How far off the road should a safe place be when evacuating students?",
-    "choices": ["At least 50 feet", "At least 100 feet", "At least 200 feet", "At least 300 feet"],
+    "choices": [
+      "At least 50 feet",
+      "At least 100 feet",
+      "At least 200 feet",
+      "At least 300 feet"
+    ],
     "answer_index": 1,
     "explanation": "A safe place will be at least 100 feet off the road in the direction of oncoming traffic to keep students from being hit by debris if another vehicle collides with the bus."
   },
@@ -94,7 +144,12 @@
     "section_name": "School Buses",
     "topic": "Railroad Crossings",
     "question": "How far from the nearest rail should you stop at a highway-rail crossing?",
-    "choices": ["No closer than 5 feet and no farther than 25 feet", "No closer than 15 feet and no farther than 50 feet", "No closer than 25 feet and no farther than 75 feet", "No closer than 50 feet and no farther than 100 feet"],
+    "choices": [
+      "No closer than 5 feet and no farther than 25 feet",
+      "No closer than 15 feet and no farther than 50 feet",
+      "No closer than 25 feet and no farther than 75 feet",
+      "No closer than 50 feet and no farther than 100 feet"
+    ],
     "answer_index": 1,
     "explanation": "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks."
   },
@@ -103,7 +158,12 @@
     "section_name": "School Buses",
     "topic": "Railroad Crossings",
     "question": "What is a passive railroad-highway crossing?",
-    "choices": ["A crossing with flashing red lights and gates", "A crossing with bells but no lights", "A crossing that has no traffic control device", "A crossing controlled by a police officer"],
+    "choices": [
+      "A crossing with flashing red lights and gates",
+      "A crossing with bells but no lights",
+      "A crossing that has no traffic control device",
+      "A crossing controlled by a police officer"
+    ],
     "answer_index": 2,
     "explanation": "A passive crossing does not have any type of traffic control device, so you must recognize the crossing, search for trains, and decide if it is safe to cross."
   },
@@ -112,7 +172,12 @@
     "section_name": "School Buses",
     "topic": "Containment Area",
     "question": "As a general rule, how much should you add to the bus length to determine an acceptable containment or storage area at a crossing?",
-    "choices": ["Add 5 feet", "Add 10 feet", "Add 15 feet", "Add 25 feet"],
+    "choices": [
+      "Add 5 feet",
+      "Add 10 feet",
+      "Add 15 feet",
+      "Add 25 feet"
+    ],
     "answer_index": 2,
     "explanation": "As a general rule, add 15 feet to the length of the school bus to determine an acceptable amount of containment or storage area to clear the tracks."
   },
@@ -121,8 +186,83 @@
     "section_name": "School Buses",
     "topic": "Antilock Braking Systems",
     "question": "How should you use the brakes during emergency braking in a bus equipped with ABS?",
-    "choices": ["Pump the brakes rapidly", "Do not pump the brakes", "Release the brakes completely and coast", "Use the parking brake instead"],
+    "choices": [
+      "Pump the brakes rapidly",
+      "Do not pump the brakes",
+      "Release the brakes completely and coast",
+      "Use the parking brake instead"
+    ],
     "answer_index": 1,
     "explanation": "In emergency braking, do not pump the brakes on a bus with ABS; brake the same way you always have."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Danger Zone - Front",
+    "question": "How far in front of the school bus is considered the danger zone for students?",
+    "choices": [
+      "5 feet",
+      "10 feet",
+      "30 feet",
+      "50 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "The front danger zone extends 30 feet in front of the bus, with the most dangerous area being the first 10 feet."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Flat Mirror",
+    "question": "What is the maximum distance behind a school bus that a flat mirror can see?",
+    "choices": [
+      "100 feet or 2 bus lengths",
+      "200 feet or 4 bus lengths",
+      "300 feet or 5 bus lengths",
+      "500 feet or 8 bus lengths"
+    ],
+    "answer_index": 1,
+    "explanation": "Flat mirrors allow the driver to see approximately 200 feet or 4 bus lengths behind, plus see that the rear tires are touching the ground."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Amber Flashing Lights",
+    "question": "At what distance before stopping should amber flashing lights be activated?",
+    "choices": [
+      "50 feet",
+      "100-300 feet",
+      "200 feet or 5-10 seconds",
+      "500 feet"
+    ],
+    "answer_index": 2,
+    "explanation": "Activate amber flashing lights approximately 200 feet or 5-10 seconds before the bus stop."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Student Unloading",
+    "question": "How far from the bus should students exit when being unloaded?",
+    "choices": [
+      "At the bus door",
+      "5 feet away",
+      "10 feet away where they are visible",
+      "20 feet away"
+    ],
+    "answer_index": 2,
+    "explanation": "Students should exit and move 10 feet away from the bus in a location where the driver can see them."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Safe Place for Evacuation",
+    "question": "What is the required distance from the roadway for a safe evacuation area?",
+    "choices": [
+      "At least 50 feet",
+      "At least 100 feet",
+      "At least 200 feet",
+      "Exactly 150 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "A safe place for evacuation must be at least 100 feet from the road in the direction of oncoming traffic, upwind if there is fire, and away from train tracks."
   }
 ]
