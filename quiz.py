@@ -328,7 +328,11 @@ def show_stats(conn):
         "SELECT box, COUNT(*) FROM review GROUP BY box").fetchall())
     for b in range(1, MAX_BOX + 1):
         n = boxes.get(b, 0)
-        print(f"  Box {b}: {n:>3}  {'█' * n}")
+        pct = 100 * n / total if total else 0
+        interval = BOX_INTERVALS[b]
+        due_label = "review now" if interval == 0 else f"{interval}d interval"
+        print(f"  Box {b}: [{progress_bar(n, total)}] {n:>3} ({pct:>5.1f}%)  "
+              f"{C.DIM}{due_label}{C.END}")
 
     print(f"\n{C.BOLD}By section{C.END}")
     rows = conn.execute(
@@ -388,6 +392,16 @@ def choose_sections(conn):
 def choose_int(prompt, default):
     raw = ask(f"{prompt} [{default}]: ").strip()
     return int(raw) if raw.isdigit() else default
+
+
+def progress_bar(count, total, width=28):
+    if total <= 0:
+        return "░" * width
+    filled = round(width * count / total)
+    if count > 0:
+        filled = max(1, filled)
+    filled = min(width, filled)
+    return "█" * filled + "░" * (width - filled)
 
 
 def menu():
