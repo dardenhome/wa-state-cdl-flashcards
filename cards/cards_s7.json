@@ -206,8 +206,8 @@
       "Lower landing gear before disconnecting anything",
       "The order doesn't matter"
     ],
-    "answer_index": 2,
-    "explanation": "The proper uncoupling sequence includes lowering the landing gear first for stability, then closing air shut-offs, disconnecting lines, and pulling trailers out."
+    "answer_index": 0,
+    "explanation": "For twin trailers, the CDL procedure is to uncouple the rear trailer first. Lowering the landing gear is one of the later steps in that rear-trailer uncoupling sequence, not the answer to which trailer goes first."
   },
   {
     "section": 7,

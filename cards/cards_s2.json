@@ -979,12 +979,12 @@
     "topic": "Hazards - Work Zones",
     "question": "What hazards are present in work zones?",
     "choices": [
-      "None; work zones are always clear",
+      "Wider lanes, steady traffic flow, and no roadside workers",
+      "Only construction vehicles; regular traffic is usually unaffected",
       "Narrower lanes, sharp turns, uneven surfaces, distracted drivers, and workers",
-      "Only when raining",
-      "Only during nighttime"
+      "Hazards appear only at night or during rain"
     ],
-    "answer_index": 1,
+    "answer_index": 2,
     "explanation": "In work zones there may be narrower lanes, sharp turns, or uneven surfaces. Other drivers are often distracted and workers/construction vehicles may get in the way."
   },
   {

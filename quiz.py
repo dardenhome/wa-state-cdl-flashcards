@@ -173,7 +173,7 @@ def grade(ans, correct_pos, n_choices):
     ans = ans.strip().lower()
     if ans == "q":
         return False, False, True, True
-    if ans == "s" or ans == "":
+    if ans == "s":
         return False, True, False, True
     if ans.isdigit() and 1 <= int(ans) <= n_choices:
         return (int(ans) - 1) == correct_pos, False, False, True
