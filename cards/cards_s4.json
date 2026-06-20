@@ -902,12 +902,12 @@
     "question": "Where must the standee line be located?",
     "choices": [
       "At the front of the bus",
-      "Forward of the rear of the driver's seat",
+      "At the rear boundary of the driver's seat area, so riders stay behind it",
       "Anywhere the driver chooses",
       "It doesn't have to be marked"
     ],
     "answer_index": 1,
-    "explanation": "No rider may stand forward of the rear of the driver's seat. The standee line marks this boundary and must be clearly visible."
+    "explanation": "No rider may stand forward of the rear of the driver's seat. The standee line marks that limit, so standing riders must remain behind the rear of the driver's seat."
   },
   {
     "section": 4,
