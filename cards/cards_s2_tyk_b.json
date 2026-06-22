@@ -1,0 +1,226 @@
+[
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How do you find out how many seconds of following distance space you have?",
+    "choices": [
+      "Use a laser distance meter to measure the gap between vehicles",
+      "Pick a fixed object ahead and count the seconds between when the vehicle ahead passes it and when you pass it",
+      "Divide the distance in feet by the speed to calculate seconds",
+      "Follow the manufacturer's recommendations for your vehicle type"
+    ],
+    "answer_index": 1,
+    "explanation": "You can find your following distance by picking a fixed object (like a sign or mile marker) ahead. Count the seconds that pass from when the vehicle ahead passes the object until you reach it. This is your following distance in seconds."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: If you are driving a 30-foot vehicle at 55 mph, how many seconds of following distance should you allow?",
+    "choices": [
+      "2 seconds",
+      "3 seconds",
+      "5 seconds",
+      "8 seconds"
+    ],
+    "answer_index": 2,
+    "explanation": "At speeds over 40 mph, add 1 second to the base following distance. A 30-foot vehicle would normally require 3 seconds at lower speeds; at 55 mph you should allow at least 5 seconds of following distance for safety."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: You should decrease your following distance if somebody is following you too closely. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only when speeds exceed 50 mph",
+      "Only when towing a trailer"
+    ],
+    "answer_index": 1,
+    "explanation": "False. If someone is tailgating you, increase your following distance, avoid quick changes, and do not speed up. Never decrease your following distance—this is dangerous and makes crashes more likely."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: If you swing wide to the left before turning right, another driver may try to pass you on the right. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only in heavy traffic",
+      "Only on interstate highways"
+    ],
+    "answer_index": 0,
+    "explanation": "True. When you swing wide to the left to make a right turn, another driver may not understand your intention and may attempt to pass you on the right side, creating a dangerous situation."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is a hazard?",
+    "choices": [
+      "A vehicle that is broken down on the side of the road",
+      "Any road condition or other road user (driver, bicyclist, pedestrian) that is a possible danger",
+      "A situation where two vehicles are traveling in the same lane",
+      "A warning sign posted by the Department of Transportation"
+    ],
+    "answer_index": 1,
+    "explanation": "A hazard is any road condition or other road user that is a possible danger. Examples include a car with its brake lights on, indicating uncertain movement, or any road user whose actions might become dangerous."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Why make emergency plans when you see a hazard?",
+    "choices": [
+      "To comply with federal motor carrier safety regulations",
+      "To have time to act and prevent the hazard from becoming an emergency",
+      "To distract yourself from stressful driving conditions",
+      "To practice your reaction times"
+    ],
+    "answer_index": 1,
+    "explanation": "When you see a hazard, making an emergency plan gives you time to slow down or change lanes to prevent the hazard from becoming an emergency. Seeing hazards early allows you to be prepared and take action safely."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are some tips to follow so you won't become a distracted driver?",
+    "choices": [
+      "Use your cell phone with one hand and steer with the other",
+      "Eat light snacks and adjust climate controls while driving",
+      "Turn off communication devices, familiarize yourself with vehicle features before driving, pre-program radio stations, and avoid smoking and eating",
+      "Keep your phone within arm's reach at all times"
+    ],
+    "answer_index": 2,
+    "explanation": "To avoid distracted driving: turn off all communication devices, familiarize yourself with vehicle features before driving, pre-program radio stations, clear unnecessary objects from the vehicle, review maps before starting, and avoid eating, smoking, or engaging in complex conversations while driving."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How do you use in-vehicle communications equipment cautiously?",
+    "choices": [
+      "Only use it when stopped at a red light",
+      "Use hands-free mobile phones located close to you, operate while restrained by a seatbelt, and use voice-activated dialing or speaker phone",
+      "Keep your hand-held phone in an accessible location for quick use",
+      "Use only CB radios mounted on the dashboard"
+    ],
+    "answer_index": 1,
+    "explanation": "If you must use a mobile phone while driving a CMV, you must use a hands-free phone located close to you that can be operated while restrained by a seatbelt. Use voice-activated dialing or the speaker phone function. Never unsafely reach for a phone, even to use hands-free features."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How do you recognize a distracted driver?",
+    "choices": [
+      "By checking their vehicle registration and license plate",
+      "By watching for vehicles drifting over lane dividers, traveling at inconsistent speeds, and drivers preoccupied with objects or passengers",
+      "By using radar to measure their speed",
+      "By counting how many times they use their turn signals"
+    ],
+    "answer_index": 1,
+    "explanation": "Watch for vehicles that drift over lane divider lines, travel at inconsistent speeds, have drivers preoccupied with maps, food, phones, or other objects, or appear engaged in intense conversations with passengers. Give distracted drivers plenty of room."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is the difference between aggressive driving and road rage?",
+    "choices": [
+      "Aggressive driving and road rage are the same thing",
+      "Aggressive driving is driving in heavy traffic; road rage is driving alone on a rural road",
+      "Aggressive driving is selfish/pushy operation without regard for others; road rage is operating a vehicle with intent to harm others or physically assault them",
+      "Aggressive driving only applies to speeding; road rage applies to reckless lane changes"
+    ],
+    "answer_index": 2,
+    "explanation": "Aggressive driving is operating a motor vehicle in a selfish, bold, or pushy manner without regard for the rights or safety of others. Road rage is operating a motor vehicle with the intent of doing harm to others or physically assaulting a driver or their vehicle—a much more serious offense."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What should you do when confronted with an aggressive driver?",
+    "choices": [
+      "Speed up and challenge them by holding your lane",
+      "Flash your brake lights to warn them they are following too closely",
+      "Make every attempt to get out of their way, avoid eye contact, ignore gestures, and report them to authorities if possible",
+      "Slow down to show them they cannot pass you safely"
+    ],
+    "answer_index": 2,
+    "explanation": "When confronted with an aggressive driver, make every attempt to get out of their way. Put your pride aside, do not challenge them, avoid eye contact, ignore gestures, and report them to authorities by providing a vehicle description, license number, location, and direction of travel."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are some things you can do to reduce your stress before and while you drive?",
+    "choices": [
+      "Drive faster to reach your destination sooner and reduce frustration",
+      "Listen to loud, intense music to stay alert",
+      "Listen to easy listening music, be realistic about travel time, give other drivers the benefit of doubt, and slow down to keep reasonable following distance",
+      "Argue with other drivers to release tension"
+    ],
+    "answer_index": 2,
+    "explanation": "To reduce stress: listen to easy listening music, give yourself time for travel (expect delays from traffic or weather), allow yourself to accept delays with a deep breath, give other drivers the benefit of the doubt, slow down, keep reasonable following distance, and be courteous."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: You should use low beams whenever you can. True or False?",
+    "choices": [
+      "True, because high beams can blind other drivers",
+      "False, you should use high beams when it is safe and legal to do so; low beams only limit your visibility",
+      "True, low beams provide better visibility in all conditions",
+      "False, high beams are always the safest option at night"
+    ],
+    "answer_index": 1,
+    "explanation": "False. Some drivers make the mistake of always using low beams, which seriously cuts down their ability to see ahead. With low beams you can only see about 250 feet; with high beams, 350-500 feet. Use high beams when safe and legal (not within 500 feet of an oncoming vehicle or when following another vehicle within 500 feet)."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What should you do before you drive if you are drowsy?",
+    "choices": [
+      "Drink a lot of coffee before getting behind the wheel",
+      "Drive anyway; you'll wake up once you start driving",
+      "Sleep before you drive; get 8-9 hours of sleep or take a 15-20 minute nap",
+      "Take medication to stay awake"
+    ],
+    "answer_index": 2,
+    "explanation": "If you are drowsy, the only safe cure is to sleep before you drive. Get 8-9 hours to maintain alertness, or take a 15-20 minute nap. Never try to push through drowsiness—it is a leading cause of fatal truck crashes. Caffeine and drugs are not reliable solutions."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What effects can wet brakes cause? How can you avoid these problems?",
+    "choices": [
+      "Wet brakes improve stopping power and should be encouraged in rain",
+      "Weak braking, uneven application, grabbing, wheel lockups, and pulling; avoid deep puddles, place transmission in low gear, and gently apply brakes to keep linings against drums",
+      "Wet brakes only affect motorcycles and small vehicles",
+      "Wet brakes cause the engine to stall"
+    ],
+    "answer_index": 1,
+    "explanation": "Wet brakes can cause weak braking power, uneven application, grabbing, wheel lockups, and jackknife. Avoid deep puddles if possible. If you must cross water, slow down, place transmission in low gear, gently apply brakes to keep linings against drums, increase engine rpm, and cross while maintaining light brake pressure."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: You should let air out of hot tires so the pressure goes back to normal. True or False?",
+    "choices": [
+      "True, releasing air pressure immediately helps cool tires",
+      "False, let hot tires cool naturally; never let air out of hot tires",
+      "True, but only if the pressure exceeds 80 psi",
+      "False, you should add air to hot tires to improve safety"
+    ],
+    "answer_index": 1,
+    "explanation": "False. Never let air out of hot tires to reduce pressure. Hot tires have increased pressure due to heat, which is normal. Wait for the tires to cool naturally before checking or adjusting pressure. Releasing air from hot tires creates safety issues and improper pressure levels."
+  }
+]

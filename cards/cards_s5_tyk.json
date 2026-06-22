@@ -1,0 +1,268 @@
+[
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: Why must air tanks be drained?",
+    "choices": [
+      "To reduce air pressure below safe levels",
+      "To remove moisture and oil that can freeze and cause brake failure",
+      "To cool down the brake system",
+      "To prevent rust formation on metal parts"
+    ],
+    "answer_index": 1,
+    "explanation": "Compressed air contains water and compressor oil which collect at the bottom of the tank. Water can freeze in cold weather and cause brake failure, so tanks must be drained completely."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: What is a supply pressure gauge used for?",
+    "choices": [
+      "To measure how hard you are pressing the brake pedal",
+      "To show how much pressure is in the air tanks",
+      "To indicate the tire pressure on each wheel",
+      "To display the engine coolant temperature"
+    ],
+    "answer_index": 1,
+    "explanation": "All vehicles with air brakes have a supply pressure gauge connected to the air tank showing how much air pressure is available."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: All vehicles with air brakes must have a low air pressure warning signal. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only vehicles with trailers need one",
+      "Only buses need one"
+    ],
+    "answer_index": 0,
+    "explanation": "A low air pressure warning signal is required on all vehicles with air brakes. The warning must come on before pressure falls below 60 psi."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: What are spring brakes?",
+    "choices": [
+      "Brakes activated only by compressed air when you press the pedal",
+      "Emergency and parking brakes held back by air pressure; springs apply brakes if air is lost",
+      "Brakes located only on the front wheels of the vehicle",
+      "Brakes that automatically engage on steep downhill grades"
+    ],
+    "answer_index": 1,
+    "explanation": "Spring brakes use powerful springs held back by air pressure. If air pressure is removed or lost, the springs put on the brakes for emergency and parking functions."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: Front wheel brakes are good under all conditions. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only on dual air systems",
+      "Only at highway speeds"
+    ],
+    "answer_index": 0,
+    "explanation": "Tests have shown that front wheel skids from braking are not likely even on ice. Front wheel braking provides good stopping power under all conditions."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: How do you know if your vehicle is equipped with antilock brakes?",
+    "choices": [
+      "Listen for a distinctive compressor noise when driving",
+      "Check the tire sidewalls for ABS markings",
+      "Check the certification label for manufacture date and look for yellow ABS malfunction lamps",
+      "Look for a blue parking brake knob on the dashboard"
+    ],
+    "answer_index": 2,
+    "explanation": "Check the certification label for the vehicle's manufacture date. Vehicles equipped with ABS have yellow malfunction lamps on the instrument panel or sides."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: What is a dual air brake system?",
+    "choices": [
+      "Two identical air systems that operate in parallel at all times",
+      "An older system used only on school buses",
+      "Two separate air brake systems with independent controls for each axle",
+      "Two separate air systems using a single set of brake controls for safety"
+    ],
+    "answer_index": 3,
+    "explanation": "A dual air brake system has two separate air systems using a single set of brake controls. Each system has its own tanks, hoses, and lines for safety redundancy."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: What are the slack adjusters?",
+    "choices": [
+      "Valves that regulate air pressure to the brake chamber",
+      "Mechanical devices that connect brake push rods to brake shoes for brake application",
+      "Springs that hold the brakes in the released position",
+      "Devices that measure the temperature of brake drums"
+    ],
+    "answer_index": 1,
+    "explanation": "Slack adjusters connect the brake chamber push rod to the s-cam. They transmit the push rod movement to rotate the s-cam for brake application."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: How can you check slack adjusters?",
+    "choices": [
+      "Use a pressure gauge to measure air pressure at each wheel",
+      "Drive the vehicle at highway speed and apply brakes hard",
+      "Park on level ground, release parking brakes, and pull hard on each slack adjuster to check for movement",
+      "Check them only during scheduled maintenance at a repair shop"
+    ],
+    "answer_index": 2,
+    "explanation": "Park on level ground and chock wheels. Release parking brakes. Pull hard on each slack adjuster; if it moves more than about one inch, it probably needs adjustment."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: How can you test the low pressure warning signal?",
+    "choices": [
+      "Check the warning light automatically during engine startup",
+      "Turn off engine with adequate pressure, then reduce air pressure by stepping on and off the brake pedal until signal comes on",
+      "Measure air pressure with a gauge and note when it reaches 60 psi",
+      "Drive at high speed and observe when warning activates"
+    ],
+    "answer_index": 1,
+    "explanation": "With engine off and adequate pressure, turn on electrical power and step on and off the brake pedal to reduce tank pressure. The signal must come on before pressure drops below 60 psi."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: How can you check that the spring brakes come on automatically?",
+    "choices": [
+      "Push the parking brake knob and observe brake engagement",
+      "Continue reducing air pressure by stepping on and off brake pedal until parking brake valve closes at 20-45 psi and spring brakes engage",
+      "Wait for automatic engagement when driving down a steep hill",
+      "Check during routine maintenance with the vehicle in a service facility"
+    ],
+    "answer_index": 1,
+    "explanation": "Fan off air pressure using the brake pedal. The parking brake valve should close and spring brakes should engage when air pressure falls to the manufacturer's specified range."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: What are the maximum leakage rates?",
+    "choices": [
+      "Less than 5 psi in one minute for all vehicles",
+      "Less than 1 psi per minute at all times",
+      "Less than 2 psi in one minute for single vehicles or 3 psi for combinations when parked; less than 3 psi for singles or 4 psi for combinations with the foot brake applied",
+      "Less than 10 psi per minute during brake application"
+    ],
+    "answer_index": 2,
+    "explanation": "With engine off and parking brake released, loss rate should be less than 2 psi in one minute for single vehicles and 3 psi for combination vehicles. With the foot brake applied, the limit is 3 psi for singles and 4 psi for combinations."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: In the air brakes section, why should you be in the proper gear before starting down a hill?",
+    "choices": [
+      "To increase fuel efficiency and save money",
+      "To use engine braking instead of overusing service brakes on steep grades",
+      "To prevent transmission fluid from overheating",
+      "To reduce wear on the tires"
+    ],
+    "answer_index": 1,
+    "explanation": "Engine braking effect is greatest when the transmission is in a low gear. This reduces reliance on service brakes and helps prevent brake fade and overheating."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: What factors can cause brakes to fade or fail?",
+    "choices": [
+      "Using too much air pressure in the tanks",
+      "Excessive heat from overusing service brakes and brakes being out of adjustment",
+      "Cold weather and high altitude driving",
+      "New brake linings that have not been broken in"
+    ],
+    "answer_index": 1,
+    "explanation": "Brake fade is caused by excessive heat from overusing service brakes instead of engine braking. Brakes out of adjustment also overheat because they do not share braking load equally."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: The use of brakes on a long, steep downgrade is only a supplement to the braking effect of the engine. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only on empty trailers",
+      "Only below 25 mph"
+    ],
+    "answer_index": 0,
+    "explanation": "On a long downgrade, once you are in the proper low gear, service brakes are only a supplement. The engine braking effect is the primary method of speed control."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: If you are away from your vehicle only a short time, you do not need to use the parking brake. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only on level ground",
+      "Only during inspections"
+    ],
+    "answer_index": 1,
+    "explanation": "Always use the parking brakes whenever you park the vehicle. Apply parking brakes or use wheel chocks to prevent the vehicle from rolling away."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: How often should you drain air tanks?",
+    "choices": [
+      "Once per week during regular operation",
+      "Only during winter months when temperatures drop",
+      "At the end of each working day if the vehicle does not have automatic drains",
+      "Only when the low air pressure warning comes on"
+    ],
+    "answer_index": 2,
+    "explanation": "If your vehicle does not have automatic air tank drains, drain the air tanks at the end of each working day to remove moisture and oil."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: How should you brake when you drive a tractor-trailer combination with ABS?",
+    "choices": [
+      "Pump the brakes rapidly to prevent wheel lock",
+      "Apply maximum brake force immediately in all situations",
+      "Brake normally using only the force necessary to stop safely and stay in control",
+      "Use only the trailer brakes to avoid tractor skidding"
+    ],
+    "answer_index": 2,
+    "explanation": "Brake the same way regardless of whether ABS is on the tractor, trailer, or both. Use only the braking force necessary to stop safely, monitor control, and back off if needed."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Section 5",
+    "question": "Test Your Knowledge: You still have normal brake functions if your ABS is not working. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only if the trailer has ABS",
+      "Only on older air brake systems"
+    ],
+    "answer_index": 0,
+    "explanation": "ABS is an addition to your normal brakes. If ABS malfunctions, you still have regular brake functions; you should still get the system serviced soon."
+  }
+]

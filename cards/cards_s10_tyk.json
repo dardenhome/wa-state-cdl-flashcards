@@ -1,0 +1,142 @@
+[
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: Define the danger zone. How far does the danger zone extend around the bus?",
+    "choices": [
+      "10 feet on all sides of the bus",
+      "Up to 30 feet from the front, 10 feet from sides and rear of the bus",
+      "20 feet on all sides of the bus",
+      "50 feet from the front bumper only"
+    ],
+    "answer_index": 1,
+    "explanation": "The danger zone extends up to 30 feet from the front bumper (with the first 10 feet being most dangerous), 10 feet from the left and right sides of the bus, and 10 feet behind the rear bumper."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: What should you be able to see if the outside flat mirrors are adjusted properly? The outside convex mirrors? The crossover mirrors?",
+    "choices": [
+      "Flat: 100 feet behind; Convex: entire side; Crossover: front bumper area",
+      "Flat: 200 feet or 4 bus lengths behind, sides, and rear tires; Convex: entire side, rear tire, traffic lanes; Crossover: front bumper to direct vision, front tires, service door area",
+      "Flat: 150 feet behind only; Convex: only one traffic lane; Crossover: only the bumper",
+      "Flat: 50 feet behind; Convex: half the side; Crossover: front tires only"
+    ],
+    "answer_index": 1,
+    "explanation": "Flat mirrors show 200 feet (4 bus lengths) behind, along sides, and rear tires. Convex mirrors show the entire side to mirror mounts, front of rear tires, and at least one traffic lane on each side. Crossover mirrors show from front bumper at ground level to where direct vision is possible, front tires, and area from front to service door."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: You are loading students along the route. When should you activate your alternating flashing amber warning lights?",
+    "choices": [
+      "Only when students are boarding the bus",
+      "At least 200 feet or approximately 5-10 seconds before the school bus stop, or in accordance with state law",
+      "100 feet before coming to a stop",
+      "Only after the bus has come to a complete stop"
+    ],
+    "answer_index": 1,
+    "explanation": "Activate alternating flashing amber warning lights at least 200 feet or approximately 5-10 seconds before the school bus stop to alert other drivers and give them sufficient time to respond."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: You are unloading students along your route. Where should students walk to after exiting the bus?",
+    "choices": [
+      "Directly to the roadway to cross",
+      "At least 10 feet away from the side of the bus to a position where the driver can plainly see all students",
+      "Back toward the front of the bus",
+      "In any direction away from the bus"
+    ],
+    "answer_index": 1,
+    "explanation": "Students must walk at least 10 feet away from the side of the bus to a position where the driver can plainly see them, ensuring they are visible and out of the danger zones."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: After unloading at school, why should you walk through the bus?",
+    "choices": [
+      "To practice the evacuation route",
+      "To close all windows and doors",
+      "To check for hiding or sleeping students and items left by students",
+      "To turn off the engine and remove the key"
+    ],
+    "answer_index": 2,
+    "explanation": "Walking through the bus after unloading at school allows you to check for any students who may be hiding or sleeping and to locate items that students may have left behind."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: What position should students be in front of the bus before they cross the roadway?",
+    "choices": [
+      "At least 5 feet in front of the right corner of the bumper",
+      "Directly in front of the bus hood",
+      "At least 10 feet in front of the right corner of the bumper, but still remaining away from the front of the bus",
+      "On the left side of the bus only"
+    ],
+    "answer_index": 2,
+    "explanation": "Students should walk to a location at least 10 feet in front of the right corner of the bumper while remaining away from the immediate front of the bus, keeping them visible to the driver and safe from the danger zone."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: Under what conditions must you evacuate the bus?",
+    "choices": [
+      "Whenever students request to exit the bus",
+      "Only during scheduled evacuation drills",
+      "When there is fire or threat of fire, stalled on railroad crossing, danger of collision, or hazardous materials spill",
+      "Never, unless ordered by law enforcement"
+    ],
+    "answer_index": 2,
+    "explanation": "You must evacuate when: the bus is on fire or threatened by fire, stalled on or adjacent to a railroad-highway crossing, position may change and increase danger, there is imminent danger of collision, or there is a need to evacuate due to hazardous materials spill."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: How far from the nearest rail should you stop at a highway-rail crossing?",
+    "choices": [
+      "At least 100 feet from the nearest rail",
+      "No closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks",
+      "Exactly 25 feet from the nearest rail",
+      "At least 75 feet from the nearest rail"
+    ],
+    "answer_index": 1,
+    "explanation": "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, positioning yourself where you have the best view of the tracks for safety."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: What is a passive highway-rail crossing? Why should you be extra cautious at this type of crossing?",
+    "choices": [
+      "A crossing with flashing red lights and gates",
+      "A crossing with a yellow warning sign only",
+      "A crossing with no traffic control device where you must decide if it is safe to proceed; be extra cautious because the decision rests entirely with you",
+      "A crossing that is actively monitored by railroad personnel"
+    ],
+    "answer_index": 2,
+    "explanation": "A passive crossing has no traffic control device. You must recognize the crossing, search for trains, and decide if there is sufficient clear space to cross safely. Extra caution is needed because the decision to proceed rests entirely with the driver."
+  },
+  {
+    "section": 10,
+    "section_name": "School Buses",
+    "topic": "Test Your Knowledge - Section 10",
+    "question": "Test Your Knowledge: How should you use your brakes if your vehicle is equipped with antilock brakes (ABS)?",
+    "choices": [
+      "Pump the brakes rapidly in emergency situations to activate ABS",
+      "Brake harder and more frequently than normal to engage the system",
+      "Brake the same way as always; in emergency braking, do not pump the brakes on a bus with ABS",
+      "Release the brakes intermittently to let ABS engage"
+    ],
+    "answer_index": 2,
+    "explanation": "With ABS, brake the same way as always using only the braking force necessary to stop safely. In emergency braking, do not pump the brakes; ABS works best when you apply steady pressure and let the system manage wheel lock-up."
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: Name some things to check in the interior of a bus during a vehicle inspection.",
+    "choices": [
+      "Handholds and railings are secure; seats are fastened; emergency exits are marked and accessible",
+      "Only the driver's seat and mirrors",
+      "Just the color of the interior walls and upholstery",
+      "Nothing specific needs to be checked inside the bus"
+    ],
+    "answer_index": 0,
+    "explanation": "Interior pre-trip checks include handholds and railings, seat fastening, emergency exits, signaling devices, floor covering, and aisles."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: What are some hazardous materials you can transport by bus?",
+    "choices": [
+      "Small-arms ammunition (ORM-D), emergency hospital supplies, and drugs",
+      "Any hazmat with proper labeling",
+      "Gasoline, propane, and ammunition in unlimited amounts",
+      "Explosives and poison gas with a permit"
+    ],
+    "answer_index": 0,
+    "explanation": "Buses may carry small-arms ammunition labeled ORM-D, emergency hospital supplies, and drugs. Most other hazmat is prohibited due to passenger safety risks."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: What are some hazardous materials you cannot transport by bus?",
+    "choices": [
+      "Explosives, poison gas (Division 2.3), liquid Class 6 poison, and radioactive materials",
+      "Only small quantities of flammable liquids",
+      "Medications and first aid supplies",
+      "Paper and cardboard only"
+    ],
+    "answer_index": 0,
+    "explanation": "Forbidden on buses: explosives (except small-arms ammo), Division 2.3 poison gas, liquid Class 6 poisons, and labeled radioactive materials in passenger areas."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: What is a standee line?",
+    "choices": [
+      "A line where riders queue to board the bus",
+      "A two-inch line marking where standing riders cannot pass; no one may stand forward of the rear of the driver's seat",
+      "A line on the road where the bus should stop",
+      "A line indicating wheelchair accessible areas"
+    ],
+    "answer_index": 1,
+    "explanation": "The standee line is a two-inch floor line or other marking showing the point forward of which no standing rider may go, for safety."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: Does it matter where you make a disruptive passenger get off the bus?",
+    "choices": [
+      "No, you can make them get off anywhere",
+      "Yes; do not discharge riders where it would be unsafe; choose a well-lighted area with other people or at the next scheduled stop",
+      "Only if they refuse to pay",
+      "You must always wait until the end of the route"
+    ],
+    "answer_index": 1,
+    "explanation": "Ensure the safety of drunk or disruptive riders by discharging them at a safe location like a scheduled stop or well-lighted area with people present."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: How far from a railroad crossing should you stop?",
+    "choices": [
+      "Between 5 and 15 feet",
+      "Between 15 and 50 feet",
+      "At least 100 feet",
+      "Exactly 50 feet"
+    ],
+    "answer_index": 1,
+    "explanation": "You must stop your bus between 15 and 50 feet before railroad crossings to ensure safe clearance from passing trains."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: When must you stop before crossing a drawbridge?",
+    "choices": [
+      "You don't need to stop if the bridge appears to be safe",
+      "At least 25 feet before the draw",
+      "At least 50 feet before the draw and verify it is completely closed before crossing",
+      "Only if you see warning lights"
+    ],
+    "answer_index": 2,
+    "explanation": "You must stop at least 50 feet before the draw and verify that the draw is completely closed before proceeding."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: Which of the following is a prohibited practice for bus drivers?",
+    "choices": [
+      "Using smooth acceleration and stopping at intersections",
+      "Fueling with riders on board unless absolutely necessary, and never in a closed building",
+      "Using the parking brake when parked",
+      "Announcing stops and destinations to passengers"
+    ],
+    "answer_index": 1,
+    "explanation": "Prohibited practices include: avoiding fueling with riders aboard unless necessary and never in closed buildings, not distracting while driving, and only towing disabled buses to safe discharge points."
+  },
+  {
+    "section": 4,
+    "section_name": "Transporting Passengers Safely",
+    "topic": "Test Your Knowledge - Section 4",
+    "question": "Test Your Knowledge: The rear door of a transit bus has to be open to put on the parking brake. True or False?",
+    "choices": [
+      "True, the rear door must be open to engage the brake",
+      "False; do not use the brake-door interlock as a substitute for the parking brake",
+      "True, only when the bus is in motion",
+      "True, but only on urban mass transit coaches"
+    ],
+    "answer_index": 1,
+    "explanation": "False. While urban transit coaches have a brake-door interlock that applies brakes when the rear door is open, this is not a substitute for the parking brake which must always be properly engaged."
+  }
+]

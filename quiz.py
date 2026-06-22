@@ -62,13 +62,16 @@ def connect():
 
 # ---------------------------------------------------------------- selection
 
-def pick_cards(conn, sections, limit, mode):
+def pick_cards(conn, sections, limit, mode, topic_prefix=None):
     """mode: 'due' | 'all' | 'new' | 'missed'."""
     where = ["1=1"]
     params = []
     if sections:
         where.append("c.section IN (%s)" % ",".join("?" * len(sections)))
         params += sections
+    if topic_prefix:
+        where.append("c.topic LIKE ?")
+        params.append(f"{topic_prefix}%")
 
     if mode == "new":
         where.append("r.times_seen = 0")
@@ -354,6 +357,14 @@ def section_rows(conn):
         "GROUP BY section ORDER BY section").fetchall()
 
 
+def filtered_section_rows(conn, topic_prefix):
+    return conn.execute(
+        "SELECT section, section_name, COUNT(*) n FROM cards "
+        "WHERE topic LIKE ? GROUP BY section ORDER BY section",
+        (f"{topic_prefix}%",),
+    ).fetchall()
+
+
 def list_sections(conn):
     print(f"\n{C.BOLD}Sections available{C.END}")
     for r in section_rows(conn):
@@ -377,10 +388,11 @@ def reset(conn):
 
 # ---------------------------------------------------------------- menu
 
-def choose_sections(conn):
+def choose_sections(conn, rows=None):
     """Prompt for sections; return a list of ints or None for all."""
     print(f"\n{C.BOLD}Choose sections{C.END}")
-    for r in section_rows(conn):
+    rows = rows if rows is not None else section_rows(conn)
+    for r in rows:
         print(f"  {r['section']:>2}  {r['section_name']:<30} {r['n']} cards")
     raw = ask("\nEnter section numbers (e.g. 1 2 3), or blank for ALL: ").strip()
     if not raw or raw.lower() == "q":
@@ -412,9 +424,10 @@ def menu():
         "3": "Review missed cards only",
         "4": "Practice exam (timed, pass/fail)",
         "5": "Quiz by section",
-        "6": "View stats / progress",
-        "7": "List sections",
-        "8": "Reset progress",
+        "6": "Quiz Test Your Knowledge cards",
+        "7": "View stats / progress",
+        "8": "List sections",
+        "9": "Reset progress",
         "q": "Quit",
     }
     while True:
@@ -462,10 +475,25 @@ def menu():
             run_quiz(conn, pick_cards(conn, secs, limit, "all"),
                      "Section quiz")
         elif choice == "6":
-            show_stats(conn)
+            secs = choose_sections(
+                conn, filtered_section_rows(conn, "Test Your Knowledge"))
+            tyk_cards = pick_cards(
+                conn, secs, None, "all", topic_prefix="Test Your Knowledge")
+            if not tyk_cards:
+                print(f"\n{C.YELLOW}No Test Your Knowledge cards matched that selection.{C.END}")
+                continue
+            print(f"\n{C.DIM}{len(tyk_cards)} Test Your Knowledge card(s) available.{C.END}")
+            limit = choose_int("How many Test Your Knowledge questions? (0 = all)", 0) or None
+            run_quiz(
+                conn,
+                tyk_cards[:limit] if limit else tyk_cards,
+                "Test Your Knowledge",
+            )
         elif choice == "7":
-            list_sections(conn)
+            show_stats(conn)
         elif choice == "8":
+            list_sections(conn)
+        elif choice == "9":
             reset(conn)
         else:
             print(f"{C.YELLOW}Unknown option.{C.END}")

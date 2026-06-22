@@ -1,0 +1,142 @@
+[
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: What is a converter dolly?",
+    "choices": [
+      "A safety device that prevents trailer skids",
+      "A coupling device with one or two axles and a fifth wheel used to couple a semitrailer to the rear of a tractor-trailer combination",
+      "A hydraulic brake system component",
+      "A device used to measure trailer air pressure"
+    ],
+    "answer_index": 1,
+    "explanation": "A converter gear on a dolly is a coupling device of one or two axles and a fifth wheel by which a semitrailer can be coupled to the rear of a tractor-trailer combination forming a double bottom rig."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: Do converter dollies typically have spring brakes?",
+    "choices": [
+      "Yes, all converter dollies have spring brakes",
+      "No, they never have spring brakes",
+      "Some do and some don't, depending on the manufacturer",
+      "Spring brakes are only on the tractor unit"
+    ],
+    "answer_index": 2,
+    "explanation": "Some second trailers don't have spring brakes, which is why special procedures are needed to secure them before coupling by charging and then disconnecting the emergency line."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: What are the methods to secure a second trailer before coupling?",
+    "choices": [
+      "Only use wheel chocks",
+      "Drive close, connect emergency line, charge air tank, disconnect emergency line; or use wheel chocks; or use spring brakes",
+      "Only manual locking devices can be used",
+      "Trailers are always pre-secured by the facility"
+    ],
+    "answer_index": 1,
+    "explanation": "If the second trailer doesn't have spring brakes, you can drive the tractor close, connect the emergency line, charge the trailer air tank, and disconnect it to set brakes; alternatively, you can use wheel chocks or rely on spring brakes if equipped."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: How should trailer height be set before backing a converter dolly under the rear trailer?",
+    "choices": [
+      "Level with the center of the fifth wheel",
+      "Slightly higher than the center of the fifth wheel",
+      "Slightly lower than the center of the fifth wheel",
+      "As high as possible to clear the dolly tongue"
+    ],
+    "answer_index": 2,
+    "explanation": "Trailer height must be slightly lower than the center of the fifth wheel so the trailer is raised slightly when the dolly is pushed under it."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: What do you check when making a visual check of the coupling?",
+    "choices": [
+      "Only that the dolly is attached",
+      "That the landing gear is lowered",
+      "That there is no space between upper and lower fifth wheel and that locking jaws are closed on the kingpin",
+      "That all lights are working"
+    ],
+    "answer_index": 2,
+    "explanation": "A visual check of coupling should confirm no space between the upper and lower fifth wheel and that the locking jaws are closed on the kingpin."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: Why should you pull a dolly out from under a trailer before disconnecting it from the trailer in front?",
+    "choices": [
+      "To reduce wear on the fifth wheel",
+      "To prevent the dolly tow bar from flying up and causing injury",
+      "To make it easier to inspect the kingpin",
+      "To reduce air pressure in the lines"
+    ],
+    "answer_index": 1,
+    "explanation": "You should never unlock the pintle hook while the dolly is still under the rear trailer because the dolly tow bar may fly up, possibly causing injury and making it very difficult to re-couple."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: What critical items should you check when inspecting the converter dolly and pintle hook?",
+    "choices": [
+      "Only that the dolly has air brakes",
+      "The fifth wheel condition, locking mechanisms, and the pintle hook latching and security",
+      "Just the tire tread depth",
+      "The color and condition of paint"
+    ],
+    "answer_index": 1,
+    "explanation": "When inspecting converter dolly and pintle hook, check the sliding fifth wheel condition, all locking pins and latches, the pintle-eye placement in the hook, and that the hook is properly latched and safety chains are secured."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: Should the shut-off valves on the rear of the last trailer in a set of doubles be open or closed?",
+    "choices": [
+      "Open at all times",
+      "Closed",
+      "Open during charging, closed during operation",
+      "It depends on the manufacturer"
+    ],
+    "answer_index": 1,
+    "explanation": "Shut-off valves at the rear of the last trailer should be closed, while shut-off valves at the rear of the front trailer should be open."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: How do you test that air flows to all trailers in a doubles or triples combination?",
+    "choices": [
+      "Check the tractor air gauge only",
+      "Push the air supply knob in, then open the emergency line shut-off valve at the rear of the last trailer and listen for air escaping",
+      "Look at the trailer light indicators",
+      "Ask another driver to confirm"
+    ],
+    "answer_index": 1,
+    "explanation": "To test that air flows to all trailers, push in the red air supply knob, go to the rear of the rig, and open the emergency line shut-off valve at the rear of the last trailer; you should hear air escaping, showing the entire system is charged."
+  },
+  {
+    "section": 7,
+    "section_name": "Doubles and Triples",
+    "topic": "Test Your Knowledge - Section 7",
+    "question": "Test Your Knowledge: How can you identify if your converter dolly is equipped with antilock brakes?",
+    "choices": [
+      "Check the owner's manual only",
+      "Listen for an antilock braking sound during braking",
+      "Look for a yellow lamp on the left side of the dolly",
+      "Check if the dolly is painted yellow"
+    ],
+    "answer_index": 2,
+    "explanation": "Converter dollies built on or after March 1, 1998, are required to have antilock brakes and will have a yellow lamp on the left side of the dolly."
+  }
+]

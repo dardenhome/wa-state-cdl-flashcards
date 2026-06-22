@@ -7,6 +7,7 @@ ones (matched by question text) WITHOUT wiping your review progress.
 import glob
 import json
 import os
+import re
 import sqlite3
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -39,9 +40,18 @@ CREATE TABLE IF NOT EXISTS review (
 
 
 def load_cards():
+    def sort_key(path):
+        name = os.path.basename(path)
+        match = re.fullmatch(r"cards_s(\d+)(?:_(.+))?\.json", name)
+        if not match:
+            raise ValueError(f"Unexpected card filename: {name}")
+        section = int(match.group(1))
+        suffix = match.group(2) or ""
+        return (section, suffix)
+
     files = sorted(
         glob.glob(os.path.join(CARDS_DIR, "cards_s*.json")),
-        key=lambda x: int(x.split("_s")[1].split(".")[0]),
+        key=sort_key,
     )
     cards = []
     for f in files:

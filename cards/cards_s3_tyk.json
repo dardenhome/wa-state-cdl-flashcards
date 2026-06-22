@@ -1,0 +1,128 @@
+[
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: What four things related to cargo are drivers responsible for?",
+    "choices": [
+      "Loading, unloading, inspecting, and securing cargo",
+      "Inspecting cargo, recognizing overloads and poorly balanced weight, knowing cargo is properly secured and doesn't obscure view, and knowing cargo doesn't restrict access to emergency equipment",
+      "Purchasing cargo insurance, scheduling delivery times, notifying dispatch, and maintaining cargo temperature",
+      "Weighing cargo, measuring dimensions, obtaining permits, and providing hazardous material endorsements"
+    ],
+    "answer_index": 1,
+    "explanation": "Drivers are responsible for: inspecting cargo, recognizing overloads and poorly balanced weight, knowing cargo is properly secured and doesn't obscure the driver's view, and knowing cargo doesn't restrict access to emergency equipment."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: How often must you stop while on the road to check your cargo?",
+    "choices": [
+      "Every hour",
+      "After 2 hours or 100 miles, and after every break",
+      "After 3 hours or 150 miles, and after every break",
+      "Every 4 hours regardless of miles traveled"
+    ],
+    "answer_index": 2,
+    "explanation": "You must re-check cargo after you have driven for 3 hours or 150 miles, and also after every break you take during driving."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: How is Gross Combination Weight Rating (GCWR) different from Gross Combination Weight (GCW)?",
+    "choices": [
+      "GCWR is always higher than GCW by federal mandate",
+      "GCWR is the value specified by the manufacturer; GCW is the actual weight of the power unit and towed unit(s)",
+      "GCW is used only for single vehicles; GCWR applies to combinations",
+      "They are the same term used interchangeably"
+    ],
+    "answer_index": 1,
+    "explanation": "GCWR is the value specified by the manufacturer as the maximum allowable weight, while GCW is the actual weight of the power unit and all towed units combined."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: Name two situations where legal maximum weights may not be safe to carry?",
+    "choices": [
+      "During nighttime or when hauling fragile items",
+      "When the truck is new or when tires are worn",
+      "During bad weather or in mountainous terrain",
+      "On weekends or during holiday periods"
+    ],
+    "answer_index": 2,
+    "explanation": "During bad weather or in mountainous terrain, it may not be safe to operate at legal maximum weights due to reduced traction, longer stopping distances, and increased braking demands."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: What can happen if you don't have enough weight on the front axle?",
+    "choices": [
+      "The vehicle will lean to one side",
+      "The steering axle weight becomes too light to steer safely, causing hard steering and poor control",
+      "The cargo will slide toward the rear",
+      "Fuel consumption will decrease"
+    ],
+    "answer_index": 1,
+    "explanation": "Under-loaded front axles make the steering axle weight too light to steer safely. This can cause hard steering, damage the steering axle and tires, and create unsafe handling conditions."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: What is the minimum number of tie-downs required for any flatbed load?",
+    "choices": [
+      "One tie-down per 20 feet of cargo length",
+      "A minimum of one tie-down regardless of size",
+      "A minimum of two tie-downs regardless of load size",
+      "At least three tie-downs for any load"
+    ],
+    "answer_index": 2,
+    "explanation": "No matter how small the cargo, it should have at least two tie-downs. The general rule is at least one tie-down for each ten feet of cargo length."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: What is the minimum number of tie-downs required for a 20-foot load?",
+    "choices": [
+      "A minimum of one tie-down",
+      "A minimum of two tie-downs",
+      "A minimum of three tie-downs",
+      "A minimum of four tie-downs"
+    ],
+    "answer_index": 1,
+    "explanation": "A 20-foot load requires at least one tie-down for each ten feet of cargo (two for 20 feet), but no matter how small the load, the minimum is two tie-downs."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: Name the two basic reasons for covering cargo on an open bed?",
+    "choices": [
+      "To reduce wind resistance and increase fuel efficiency",
+      "To protect people from spilled cargo and to protect the cargo from weather",
+      "To prevent theft and to meet cosmetic appearance standards",
+      "To reduce noise pollution and to prevent cargo shifting"
+    ],
+    "answer_index": 1,
+    "explanation": "The two basic reasons for covering cargo are: to protect people from spilled cargo (a safety requirement in many states) and to protect the cargo from weather."
+  },
+  {
+    "section": 3,
+    "section_name": "Transporting Cargo Safely",
+    "topic": "Test Your Knowledge - Section 3",
+    "question": "Test Your Knowledge: What must you check before transporting a sealed load?",
+    "choices": [
+      "The contents of each item inside the sealed container",
+      "That all seals have official government markings",
+      "That you don't exceed gross weight and axle weight limits",
+      "That the container has proper ventilation holes"
+    ],
+    "answer_index": 2,
+    "explanation": "You cannot inspect sealed loads, but you must check that you don't exceed gross weight and axle weight limits to ensure the vehicle is operating within legal and safe parameters."
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: How are bulkheads different than baffles?",
+    "choices": [
+      "Bulkheads divide tanks into separate compartments; baffles have holes to let liquid flow through and reduce forward-back surge",
+      "Baffles divide tanks; bulkheads allow liquid to flow freely",
+      "They are exactly the same thing",
+      "Bulkheads control side-to-side surge; baffles control only forward surge"
+    ],
+    "answer_index": 0,
+    "explanation": "Bulkheads divide tanks into smaller separate tanks; baffles have holes allowing liquid flow through and reduce forward-and-back surge, though side-to-side surge can still occur."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: Should a tank vehicle take curves, on ramps, or off ramps at the posted speed limits?",
+    "choices": [
+      "Yes, tank vehicles can take any curve at posted speeds",
+      "No, tank vehicles should take curves and ramps well below posted speeds",
+      "Only on wet roads should you slow down",
+      "Tank vehicles should exceed posted speeds on curves"
+    ],
+    "answer_index": 1,
+    "explanation": "Tank vehicles must take curves and on/off ramps well below posted speeds because the high center of gravity and liquid movement make them easy to roll over at speeds safe for other vehicles."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: How are smooth bore tankers different to drive than those with baffles?",
+    "choices": [
+      "They require less braking force",
+      "They have stronger forward-and-back surge because nothing inside slows the liquid flow; require extreme caution when starting and stopping",
+      "They are easier to control than baffled tanks",
+      "They have better traction on wet roads"
+    ],
+    "answer_index": 1,
+    "explanation": "Un-baffled (smooth bore) tanks have very strong forward-and-back liquid surge because nothing inside slows the liquid flow. Drivers must be extremely cautious, especially when starting and stopping."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: What three things determine how much liquid you can load?",
+    "choices": [
+      "Tank color, weather conditions, and driver preference",
+      "The amount liquid will expand in transit, the weight of the liquid, and legal weight limits",
+      "Time of day, road type, and vehicle age",
+      "Tanker size, pump speed, and hose length"
+    ],
+    "answer_index": 1,
+    "explanation": "Loading amount is determined by: how much the liquid will expand in transit, the weight of the liquid, and legal weight limits."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: What is outage?",
+    "choices": [
+      "The time a tank sits empty between loads",
+      "A power failure in the pump system",
+      "The room left in the tank because liquids expand as they warm; different liquids require different amounts",
+      "The distance from the tank outlet to the pump"
+    ],
+    "answer_index": 2,
+    "explanation": "Outage is the space you must leave unfilled in a tank because liquids expand as they warm. Since different liquids expand by different amounts, they require different amounts of outage."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: How can you help control surge?",
+    "choices": [
+      "Drive faster to stabilize the liquid",
+      "Keep steady pressure on brakes, don't release too soon, brake far in advance, and increase following distance",
+      "Pump the brakes repeatedly during stops",
+      "Reduce following distance to apply brakes sooner"
+    ],
+    "answer_index": 1,
+    "explanation": "To control surge: keep steady brake pressure, don't release too soon, brake far in advance of stops, and increase your following distance to avoid hard stops."
+  },
+  {
+    "section": 8,
+    "section_name": "Tank Vehicles",
+    "topic": "Test Your Knowledge - Section 8",
+    "question": "Test Your Knowledge: What two reasons make special care necessary when driving tank vehicles?",
+    "choices": [
+      "The need for extra engine braking and lower tire pressure",
+      "High center of gravity and surge of the liquid in the tank",
+      "Low visibility and narrow axles",
+      "Weak braking systems and poor steering"
+    ],
+    "answer_index": 1,
+    "explanation": "The guide says tank vehicles require special care because of the high center of gravity and the surge of the liquid. Those two factors make them more prone to rollover and harder to control smoothly."
+  }
+]

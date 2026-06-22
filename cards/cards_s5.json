@@ -614,5 +614,19 @@
     ],
     "answer_index": 1,
     "explanation": "Some vehicles use a separate tank to release spring brakes temporarily; limited reserve means only a few releases are available."
+  },
+  {
+    "section": 5,
+    "section_name": "Air Brakes",
+    "topic": "Test Your Knowledge - Spring Brakes",
+    "question": "What does the guide say spring-brake power depends on?",
+    "choices": [
+      "The service and parking brakes being in proper adjustment",
+      "ABS being turned on",
+      "The engine staying above idle speed",
+      "The trailer being lightly loaded"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide says the braking power of spring brakes depends on the brakes being in adjustment. If they are not adjusted properly, neither the regular brakes nor the emergency or parking brakes will work right."
   }
 ]

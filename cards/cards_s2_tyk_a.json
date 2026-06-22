@@ -1,0 +1,296 @@
+[
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is the most important reason for doing a vehicle inspection?",
+    "choices": [
+      "To comply with company policy",
+      "Safety for yourself and other road users",
+      "To maintain your vehicle's warranty",
+      "To practice your inspection skills"
+    ],
+    "answer_index": 1,
+    "explanation": "Safety is the most important reason to inspect your vehicle. A defect found during inspection could save you from problems, a crash, or breakdown."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What things should you check during a trip?",
+    "choices": [
+      "Only your fuel gauge and temperature",
+      "Tires, wheels and rims, brakes, lights and reflectors, trailer connections, and cargo securement",
+      "Your mirrors and turn signals every hour",
+      "Engine oil level and coolant at each stop"
+    ],
+    "answer_index": 1,
+    "explanation": "During a trip, watch gauges for trouble and use your senses to check for problems. Stop to check critical items: tires, wheels and rims, brakes, lights and reflectors, brake and electrical connections, trailer coupling, and cargo securement."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Name some key steering system parts.",
+    "choices": [
+      "Steering wheel, steering column, steering gear box, tie rods, and power steering components",
+      "Suspension springs, shock absorbers, and frame members",
+      "Brake drums, brake pads, and brake hoses",
+      "Tire tread, valve stems, and wheel rims"
+    ],
+    "answer_index": 0,
+    "explanation": "Key steering system parts include the steering wheel, steering column, steering gear box, tie rods, and power steering equipment like hoses, pumps, and fluid level components."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Name some suspension system defects.",
+    "choices": [
+      "Worn wiper blades, cracked windshield, and broken seat belts",
+      "Leaking fuel tank, damaged exhaust system, and loose battery",
+      "Spring hangers allowing axle movement, cracked or broken spring leaves, missing parts, and leaking shock absorbers",
+      "Low tire pressure, brake fluid leaks, and misaligned steering"
+    ],
+    "answer_index": 2,
+    "explanation": "Suspension system defects include spring hangers that allow axle movement, cracked or broken spring leaves, missing clamps or spacers, mismatched lock rings, welded wheel repairs, leaking shock absorbers, and damaged torque rods."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What three kinds of emergency equipment must you have?",
+    "choices": [
+      "Jumper cables, spare fuses, and tire pressure gauge",
+      "Fire extinguisher, spare electrical fuses, and three red reflective triangles (or 6 fusees or 3 liquid burning flares)",
+      "First aid kit, flashlight, and emergency contact list",
+      "Wrench set, jack, and spare tire"
+    ],
+    "answer_index": 1,
+    "explanation": "Vehicles must have fire extinguisher(s), spare electrical fuses (unless equipped with circuit breakers), and warning devices for parked vehicles: three reflective triangles or at least 6 fusees or 3 liquid burning flares."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is the minimum tread depth for front tires? For other tires?",
+    "choices": [
+      "Front: 2/32 inch; Other: 4/32 inch",
+      "Front: 4/32 inch; Other: 2/32 inch",
+      "Front: 6/32 inch; Other: 4/32 inch",
+      "Front: 3/32 inch; Other: 1/32 inch"
+    ],
+    "answer_index": 1,
+    "explanation": "You need at least 4/32-inch tread depth in every major groove on front tires and 2/32 inch on other tires. No fabric should show through the tread or sidewall."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Name some things you should check on the front of your vehicle during the walk around inspection.",
+    "choices": [
+      "Cargo securement, splash guards, and tail lights",
+      "Engine oil, transmission fluid, and battery water level",
+      "Windshield condition, wiper arms and blades, lights and reflectors, front axle, and steering system",
+      "Rear clearance lights, side markers, and door latches"
+    ],
+    "answer_index": 2,
+    "explanation": "During front walk-around inspection, check windshield condition and cleanliness, wiper arm tension and blade condition, parking and clearance lights, reflectors, turn signals, front axle condition, and steering system for loose, bent, or damaged parts."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What should wheel bearing seals be checked for?",
+    "choices": [
+      "Proper tightness and alignment",
+      "Leaking fluid",
+      "Rust accumulation",
+      "Cracks or fractures"
+    ],
+    "answer_index": 1,
+    "explanation": "Wheel bearing/seals should be checked to ensure they are not leaking. Leaking seals indicate bearing problems that need immediate attention."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How many red reflective triangles should you carry?",
+    "choices": [
+      "1 triangle",
+      "2 triangles",
+      "3 triangles",
+      "5 triangles"
+    ],
+    "answer_index": 2,
+    "explanation": "You should carry three red reflective triangles (or alternatively at least 6 fusees or 3 liquid burning flares) for parked vehicle warning devices."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How do you test hydraulic brakes for leaks?",
+    "choices": [
+      "Apply steady pressure for one minute and observe",
+      "Pump the pedal three times, then apply firm pressure for five seconds; the pedal should not move",
+      "Push the brake pedal once and check for movement",
+      "Release and apply brakes alternately ten times"
+    ],
+    "answer_index": 1,
+    "explanation": "To test hydraulic brakes for leaks, pump the brake pedal three times, then apply firm pressure and hold for five seconds. The pedal should not move if the brakes are operating properly."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Why put the starter switch key in your pocket during the vehicle inspection?",
+    "choices": [
+      "To keep the key from getting lost",
+      "To prevent someone from starting the vehicle while you are outside doing the walk-around",
+      "To make sure the engine stays warm",
+      "To comply with DOT regulations"
+    ],
+    "answer_index": 1,
+    "explanation": "Taking the key with you during the walk-around inspection prevents someone from accidentally or intentionally starting the vehicle while you are outside, which could result in injury."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Why should you back toward the driver's side?",
+    "choices": [
+      "It is faster and more efficient",
+      "It is required by law in all states",
+      "You can see better; backing toward the driver's side allows you to watch the rear by looking out the side window",
+      "The passenger side of the vehicle is weaker"
+    ],
+    "answer_index": 2,
+    "explanation": "Back to the driver's side so you can see better. You can watch the rear of your vehicle by looking out the side window. Backing toward the right side is dangerous because you cannot see as well."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: If stopped on a hill, how can you start moving without rolling back?",
+    "choices": [
+      "Release the parking brake and apply gentle acceleration",
+      "Partly engage the clutch before releasing the brake, or use the trailer hand brake valve to prevent rolling back",
+      "Use only the accelerator pedal without brakes",
+      "Shift to neutral and push start the vehicle"
+    ],
+    "answer_index": 1,
+    "explanation": "To start without rolling back on a hill with a manual transmission, partly engage the clutch before taking your foot off the brake. On a tractor-trailer, the hand brake valve can be applied. Put on the parking brake only when applying enough engine power to prevent rolling back."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: When backing, why is it important to use a helper?",
+    "choices": [
+      "To keep you company during backing",
+      "To navigate traffic while you focus on mirrors",
+      "To signal oncoming traffic",
+      "Because there are blind spots you cannot see from the driver's seat"
+    ],
+    "answer_index": 3,
+    "explanation": "Use a helper when you can. There are blind spots that cannot be seen from the driver's seat. The helper should stand near the back where you can see them, and you should agree on hand signals before backing, especially a stop signal."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What's the most important hand signal that you and the helper should agree on?",
+    "choices": [
+      "The signal to go forward faster",
+      "The signal to stop",
+      "The signal to turn right",
+      "The signal to honk the horn"
+    ],
+    "answer_index": 1,
+    "explanation": "Before you begin backing, work out a set of hand signals that you both understand. The most important signal is the 'stop' signal, as it can prevent accidents and injuries during backing operations."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are the two special conditions where you should downshift?",
+    "choices": [
+      "When approaching traffic lights and when changing lanes",
+      "Before starting down a hill and before entering a curve",
+      "When accelerating on the highway and when merging with traffic",
+      "When parking and when exiting the expressway"
+    ],
+    "answer_index": 1,
+    "explanation": "Downshift before starting down a hill to avoid overheating brakes, and before entering a curve to use engine power for stability and allow acceleration out of the curve. Use a low enough gear for hills, usually lower than needed for climbing."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: When should you downshift automatic transmissions?",
+    "choices": [
+      "Only when shifting from drive to park",
+      "Continuously throughout the entire trip",
+      "When going down grades to use engine braking and prevent brake overheating",
+      "Only in emergency situations"
+    ],
+    "answer_index": 2,
+    "explanation": "Automatic transmissions should be downshifted when going down grades. Use a low range to get greater engine braking, which prevents the transmission from shifting beyond the selected gear and reduces brake wear."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Retarders keep you from skidding when the road is slippery. True or False?",
+    "choices": [
+      "True, retarders are designed for slippery roads",
+      "False, retarders can cause skidding on slippery roads and should be turned off",
+      "True only on highways",
+      "False, retarders have no effect on skidding"
+    ],
+    "answer_index": 1,
+    "explanation": "False. When your drive wheels have poor traction, the retarder may cause them to skid. Turn the retarder off whenever the road is wet, icy, or snow covered to maintain traction and prevent accidents."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are the two ways to know when to shift?",
+    "choices": [
+      "By listening to engine sound and watching the fuel gauge",
+      "By engine speed (RPM) using the tachometer, or by road speed (MPH) using the speedometer",
+      "By vehicle vibration and temperature gauge readings",
+      "By horn sound and brake light indicators"
+    ],
+    "answer_index": 1,
+    "explanation": "There are two ways to know when to shift: (1) Use engine speed (rpm) by studying your vehicle's operating range and watching the tachometer, or (2) Use road speed (mph) by learning what speeds each gear is good for and using the speedometer."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How far ahead does the manual say you should look?",
+    "choices": [
+      "About 5 to 10 seconds ahead",
+      "About 12 to 15 seconds ahead",
+      "About 20 to 25 seconds ahead",
+      "Only as far as the next vehicle"
+    ],
+    "answer_index": 1,
+    "explanation": "Most good drivers look at least 12 to 15 seconds ahead, meaning the distance you will travel in 12 to 15 seconds. At lower speeds that's about one block; at highway speeds it's about a quarter mile."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are two main things to look for ahead?",
+    "choices": [
+      "Road signs and speed limit markers",
+      "Vehicles coming onto the highway or entering your lane, and brake lights from slowing vehicles",
+      "Pedestrians and bicycles only",
+      "Gas stations and rest areas"
+    ],
+    "answer_index": 1,
+    "explanation": "Look for vehicles coming onto the highway, into your lane, or turning. Watch for brake lights from slowing vehicles. By seeing these things far enough ahead, you can change speed or lanes to avoid problems."
+  }
+]

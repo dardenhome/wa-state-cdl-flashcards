@@ -1,0 +1,296 @@
+[
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What factors determine your selection of a \"safe\" speed when going down a long, steep downgrade?",
+    "choices": [
+      "Total weight of vehicle and cargo, length and steepness of grade, road conditions, and weather",
+      "Always follow posted speed limits regardless of conditions",
+      "Avoid going too fast and use the braking effect of the engine",
+      "Use your brakes frequently to maintain control"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide states your most important consideration is to select a speed not too fast for the total weight of the vehicle and cargo, length of grade, steepness of grade, road conditions, and weather."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Why should you be in the proper gear before starting down a hill?",
+    "choices": [
+      "You need low gear braking effect before speed builds up; don't try to downshift after speed increases",
+      "To save fuel during downhill descent",
+      "Higher gears provide better engine braking",
+      "It prevents tire wear on downhill grades"
+    ],
+    "answer_index": 0,
+    "explanation": "Shift to a low gear before starting down a grade. If you try to downshift after speed builds up, you won't be able to shift into a lower gear and will lose all engine braking effect."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Describe the proper braking technique when going down a long, steep downgrade.",
+    "choices": [
+      "Apply brakes just hard enough to feel a definite slowdown; when speed is controlled, release brakes; repeat as needed",
+      "Apply brakes continuously at full force throughout the descent",
+      "Use maximum engine braking with minimal brake application",
+      "Pump brakes frequently to prevent fade"
+    ],
+    "answer_index": 0,
+    "explanation": "The proper technique is to apply brakes just hard enough to feel a definite slowdown. When your speed has been reduced to a safe level, release the brakes. Repeat as needed. Use engine braking as the principal way to control speed."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What type of vehicles can get stuck on a railroad-highway crossing?",
+    "choices": [
+      "Low slung units like lowboys, car carriers, moving vans, and possum-belly livestock trailers; single-axle tractors with long trailers",
+      "Only empty vehicles get stuck on crossings",
+      "Vehicles with air brakes cannot get stuck",
+      "Trucks with manual transmissions are most prone to getting stuck"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide identifies that low slung units (lowboy, car carrier, moving van, possum-belly livestock trailer) and single-axle tractors pulling long trailers with landing gear set for tandem-axle tractors can get stuck on raised crossings."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How long does it take for a typical tractor-trailer unit to clear a double track?",
+    "choices": [
+      "Less than 10 seconds",
+      "Exactly 14 seconds",
+      "More than 15 seconds",
+      "At least 20 seconds"
+    ],
+    "answer_index": 2,
+    "explanation": "According to the guide, it takes a typical tractor-trailer unit at least 14 seconds to clear a single track and more than 15 seconds to clear a double track."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Stopping is not always the safest thing to do in an emergency. True or False?",
+    "choices": [
+      "True - you can almost always turn to miss an obstacle more quickly than stop",
+      "False - stopping is always the safest choice in emergencies",
+      "True - but only in rain or snow",
+      "False - stopping prevents all accidents"
+    ],
+    "answer_index": 0,
+    "explanation": "True. When you don't have enough room to stop, you may have to steer away from what's ahead. You can almost always turn to miss an obstacle more quickly than you can stop."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are some advantages of going right instead of left around an obstacle?",
+    "choices": [
+      "If the shoulder is clear, going right may be best because no one is likely to be driving there, while someone may be passing on your left",
+      "Right turns are always faster than left turns",
+      "The passenger side is always safer than the driver side",
+      "Going right is best only because it avoids braking"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide says that if the shoulder is clear, going right may be best because no one is likely to be driving on the shoulder, while someone may be passing on the left. It also says a move to the right may be best because it avoids forcing anyone into an opposing traffic lane."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is an \"escape ramp?\"",
+    "choices": [
+      "A ramp designed to safely stop runaway vehicles using soft gravel or an uphill slope without injuring drivers and passengers",
+      "An exit ramp on highways for emergency vehicles only",
+      "A ramp designed to help drivers practice emergency braking",
+      "A service area on mountain roads"
+    ],
+    "answer_index": 0,
+    "explanation": "Escape ramps have been built on many steep mountain downgrades and are made to stop runaway vehicles safely. Some use soft gravel that resists vehicle motion; others turn uphill to use gravity and gravel to stop vehicles."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: If a tire blows out, you should put the brakes on hard to stop quickly. True or False?",
+    "choices": [
+      "False - stay off the brakes until the vehicle has slowed down, then brake very gently",
+      "True - hard braking stops you faster in a blowout",
+      "True - unless you're on a downgrade",
+      "False - only use the parking brake"
+    ],
+    "answer_index": 0,
+    "explanation": "False. Braking when a tire fails could cause loss of control. Stay off the brake until the vehicle has slowed down, then brake very gently, pull off the road, and stop."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How do you know if your vehicle has antilock brakes?",
+    "choices": [
+      "Yellow ABS malfunction lamp on the instrument panel; trailers have them on the left side",
+      "Check the driver's manual for specifications",
+      "All new vehicles manufactured after 1995 have ABS",
+      "ABS systems prevent all skidding automatically"
+    ],
+    "answer_index": 0,
+    "explanation": "Tractors, trucks, and buses have yellow ABS malfunction lamps on the instrument panel. Trailers have yellow ABS malfunction lamps on the left side, either on front or rear corner. As a system check on newer vehicles, the lamp comes on at start-up and then goes out quickly."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is the proper braking technique when driving a vehicle with antilock brakes?",
+    "choices": [
+      "Brake the same way as always; use only the braking force necessary to stop safely and stay in control",
+      "Pump the brakes repeatedly to activate ABS",
+      "Never apply full brakes with ABS engaged",
+      "Allow ABS to fully engage before applying brakes"
+    ],
+    "answer_index": 0,
+    "explanation": "When you drive a vehicle with ABS, brake as you always have. Use only the braking force necessary to stop safely and stay in control. ABS is an addition to your normal brakes and activates only when wheels are about to lock up."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: How do antilock brakes help you?",
+    "choices": [
+      "Prevent wheel lock-up during hard braking and help maintain steering control to avoid skids or jackknifes",
+      "Always shorten your stopping distance compared to regular brakes",
+      "Eliminate the need for safe and careful driving practices",
+      "Allow you to drive faster and brake later than normal"
+    ],
+    "answer_index": 0,
+    "explanation": "ABS helps you avoid wheel lock-up and maintain control. You should be able to steer around an obstacle while braking and avoid skids caused by over-braking, though ABS may not always shorten stopping distance."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What are some things to do at an accident scene to prevent another accident?",
+    "choices": [
+      "Put on flashers; set out reflective triangles to warn traffic; try to get vehicle to side of road; notify authorities",
+      "Just stand in the road to warn approaching drivers",
+      "Turn off all warning lights to conserve battery power",
+      "Move the damaged vehicle into traffic to get help faster"
+    ],
+    "answer_index": 0,
+    "explanation": "The first thing to do at an accident scene is keep another accident from happening in the same spot. Put on flashers, set out reflective triangles to warn traffic, try to get the vehicle off the road, and notify authorities."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Name two causes of tire fires.",
+    "choices": [
+      "Under-inflated tires and dual tires that touch each other",
+      "Only driving too fast causes tire fires",
+      "Worn tread depth and improper wheel alignment",
+      "Overinflation and driving on wet roads"
+    ],
+    "answer_index": 0,
+    "explanation": "Some causes of vehicle fires from tires include under-inflated tires and duals that touch. Regular inspections of tire condition and pressure are part of fire prevention."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What kinds of fires is a B:C extinguisher not good for?",
+    "choices": [
+      "Class A fires involving wood, paper, and ordinary combustibles",
+      "Class B fires with gasoline and oils",
+      "Electrical fires in vehicle systems",
+      "Fires from flammable liquids"
+    ],
+    "answer_index": 0,
+    "explanation": "The B:C type fire extinguisher is designed to work on electrical fires and burning liquids, not on Class A fires (wood, paper, ordinary combustibles). Use water or dry chemicals for Class A fires."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: When using your extinguisher, should you get as close as possible to the fire?",
+    "choices": [
+      "No - stay as far away from the fire as possible; position yourself upwind and aim at the base",
+      "Yes - get as close as possible for maximum effect",
+      "Only get close for electrical fires",
+      "Distance from the fire doesn't matter"
+    ],
+    "answer_index": 0,
+    "explanation": "When using the extinguisher, stay as far away from the fire as possible. Aim at the source or base of the fire, not up in the flames. Position yourself upwind and let wind carry the extinguisher toward the fire."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Name some causes of vehicle fires.",
+    "choices": [
+      "After accidents (spilled fuel, improper flares); smoking; improper fueling; loose fuel connections; electrical shorts; under-inflated tires",
+      "Only driver smoking causes vehicle fires",
+      "Cold weather and wet driving conditions",
+      "Only new vehicles with electrical systems catch fire"
+    ],
+    "answer_index": 0,
+    "explanation": "The guide lists multiple causes of vehicle fires: after accidents (spilled fuel, improper use of flares), driver smoking, improper fueling, loose fuel connections, short circuits from damaged insulation, under-inflated tires, and flammable cargo."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Common medicines for colds can make you sleepy. True or False?",
+    "choices": [
+      "True - pay attention to warning labels on medicines and follow doctor's orders regarding effects",
+      "False - cold medicines never cause drowsiness",
+      "True - but only night-time formulas cause drowsiness",
+      "False - you should always take cold medicine while driving"
+    ],
+    "answer_index": 0,
+    "explanation": "True. Pay attention to warning labels for legitimate drugs and medicines, and to doctor's orders regarding possible effects. Don't use any drug that hides fatigue."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Coffee and a little fresh air will help a drinker sober up. True or False?",
+    "choices": [
+      "False - the only cure for being tired or drunk is rest; coffee and fresh air provide only temporary effects",
+      "True - coffee is scientifically proven to sober people up",
+      "True - especially when combined with cold water",
+      "False - alcohol never affects driving ability"
+    ],
+    "answer_index": 0,
+    "explanation": "False. Don't use any drug that hides fatigue or impairment. The only cure for fatigue or alcohol effects is rest. Coffee and fresh air provide only temporary effects, not actual improvement in driving ability."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: What is a hazardous materials placard?",
+    "choices": [
+      "A sign placed on the outside of a vehicle that identifies the hazard class of the cargo",
+      "A shipping document kept in the driver's seat for reference",
+      "An electronic warning system built into the vehicle",
+      "Insurance paperwork for hazardous material transport"
+    ],
+    "answer_index": 0,
+    "explanation": "Placards are signs put on the outside of a vehicle that identify the hazard class of the cargo. A placarded vehicle must have at least four identical placards on front, rear, and both sides."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Section 2",
+    "question": "Test Your Knowledge: Why are placards used?",
+    "choices": [
+      "To warn other drivers and emergency responders of hazardous materials and communicate the risk so they know what they're dealing with",
+      "Only for insurance and liability purposes",
+      "To prevent theft of hazardous cargo",
+      "They're required by state law only, not federal law"
+    ],
+    "answer_index": 0,
+    "explanation": "Placards are used to warn others, including firefighters and police, of hazardous materials. Firefighters and first responders can use placards to identify hazardous materials and take proper safety precautions at accident scenes."
+  }
+]

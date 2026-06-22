@@ -1,0 +1,310 @@
+[
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: What two things are important to prevent rollover?",
+    "choices": [
+      "Keep cargo low and drive slowly around turns",
+      "Use air brakes and reduce speed on highways",
+      "Reduce load weight and increase tire pressure",
+      "Drive at maximum speed and use smooth steering"
+    ],
+    "answer_index": 0,
+    "explanation": "Two key rollover prevention methods are keeping cargo as close to the ground as possible and driving slowly around turns. Keeping cargo low is even more critical in combination vehicles than straight trucks."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: When you turn suddenly while pulling doubles, which trailer is most likely to turn over?",
+    "choices": [
+      "The front trailer",
+      "The rear trailer",
+      "Both trailers equally",
+      "Neither trailer will turn over"
+    ],
+    "answer_index": 1,
+    "explanation": "The rear trailer is most likely to turn over due to rearward amplification. Doubles have a rearward amplification of 3.5, meaning the rear trailer is 3.5 times more likely to turn over than a five-axle tractor in a sudden lane change."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Why should you not use the trailer hand brake to straighten out a jackknifing trailer?",
+    "choices": [
+      "It will increase fuel consumption",
+      "The brakes on the trailer wheels caused the skid in the first place",
+      "It will damage the fifth wheel connection",
+      "It is illegal in most states"
+    ],
+    "answer_index": 1,
+    "explanation": "Do not use the trailer hand brake to straighten out the rig because the brakes on the trailer wheels caused the skid in the first place. Instead, release the brakes to get traction back so the trailer will straighten out naturally."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: What is off-tracking?",
+    "choices": [
+      "When the trailer slides sideways during braking",
+      "When the rear wheels follow a different path than the front wheels",
+      "When the tractor loses connection with the trailer",
+      "When the landing gear touches the ground"
+    ],
+    "answer_index": 1,
+    "explanation": "Off-tracking (or 'cheating') occurs when a vehicle goes around a corner and the rear wheels follow a different path than the front wheels. The longer the vehicle, the more off-tracking occurs."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: When you back a trailer, you should position your vehicle so you can back in a curved path to the driver's side. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only when the trailer is empty",
+      "Only during daytime hours"
+    ],
+    "answer_index": 0,
+    "explanation": "True. Whenever you back up with a trailer and must back on a curved path, you should back to the driver's side so you can see the path clearly. This improves visibility and safety during backing."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: What type of trailers can get stuck on railroad-highway crossings?",
+    "choices": [
+      "Only tanker trailers",
+      "Only refrigerated trailers",
+      "Low slung units like lowboys, car carriers, and moving vans",
+      "All trailers are equally susceptible"
+    ],
+    "answer_index": 2,
+    "explanation": "Low slung units with low underneath clearance can get stuck on raised railroad-highway crossings. These include lowboys, car carriers, moving vans, and possum-belly livestock trailers."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Why should you not use the trailer hand valve while driving?",
+    "choices": [
+      "It increases fuel consumption significantly",
+      "Because of the danger of making the trailer skid or jackknife",
+      "It is illegal in all states",
+      "It will damage the air brake system"
+    ],
+    "answer_index": 1,
+    "explanation": "Never use the trailer hand valve (trolley valve) while driving because of the danger of making the trailer skid or jackknife. The foot brake is much safer as it sends air to all brakes with less danger of causing a skid."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Describe what the trailer air supply control does.",
+    "choices": [
+      "It controls the flow of air to the trailer brakes and operates the tractor protection valve",
+      "It measures the air pressure in the trailer tanks",
+      "It releases the trailer landing gear",
+      "It connects the electrical cord to the trailer"
+    ],
+    "answer_index": 0,
+    "explanation": "The trailer air supply control (red octagonal knob) is used to control the tractor protection valve. You push it in to supply air to the trailer brakes and pull it out to shut off air and activate trailer emergency brakes."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Describe what the service line is for.",
+    "choices": [
+      "It supplies air to charge the trailer air tanks",
+      "It carries air controlled by the foot brake or trailer hand brake to operate trailer brakes",
+      "It provides emergency air if the main supply fails",
+      "It connects to the fifth wheel locking mechanism"
+    ],
+    "answer_index": 1,
+    "explanation": "The service line (also called control line or signal line) carries air which is controlled by the foot brake or trailer hand brake. The pressure in the service line determines how much pressure the relay valves send to the trailer brakes."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: What is the emergency air-line for?",
+    "choices": [
+      "Only for testing purposes",
+      "For supplying air to the tractor brake system",
+      "For supplying air to trailer air tanks and controlling emergency brakes",
+      "For charging the tractor air tanks"
+    ],
+    "answer_index": 2,
+    "explanation": "The emergency line (also called supply line) has two purposes: First, it supplies air to the trailer air tanks. Second, it controls the emergency brakes on combination vehicles. Loss of air pressure in the emergency line causes trailer emergency brakes to come on."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Why should you use chocks when parking a trailer without spring brakes?",
+    "choices": [
+      "To prevent the trailer from moving if air leaks from the trailer air tank",
+      "To prevent the landing gear from sinking",
+      "To maintain proper fifth wheel alignment",
+      "To reduce wear on the trailer tires"
+    ],
+    "answer_index": 0,
+    "explanation": "Use wheel chocks when parking a trailer without spring brakes because the air could leak out of the trailer air tank, releasing emergency brakes. Without chocks, the trailer could move. Chocks provide essential safety by holding the trailer in place."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Where are shut-off valves?",
+    "choices": [
+      "On the tractor air brake system",
+      "In the service and supply air-lines at the back of trailers used to tow other trailers",
+      "On the landing gear mechanism",
+      "Inside the fifth wheel coupling"
+    ],
+    "answer_index": 1,
+    "explanation": "Shut-off valves (also called cut-out cocks) are located in the service and supply air-lines at the back of trailers used to tow other trailers. These valves permit closing the air-lines off when another trailer is not being towed."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: What might happen if the trailer is too high when you try to couple?",
+    "choices": [
+      "The landing gear will collapse",
+      "It may not couple correctly and the kingpin may not lock into the fifth wheel",
+      "The tractor will lose air pressure",
+      "The electrical connection will fail"
+    ],
+    "answer_index": 1,
+    "explanation": "If the trailer is too high when coupling, it may not couple correctly. The coupling procedure requires the trailer to be low enough that it is raised slightly by the tractor when backing under it."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: After coupling, how much space should be between the upper and lower fifth wheel?",
+    "choices": [
+      "About 1 inch for proper clearance",
+      "No space; they should be in firm contact",
+      "About 2-3 inches for flexibility",
+      "Space is not important"
+    ],
+    "answer_index": 1,
+    "explanation": "After coupling, there should be no space between the upper and lower fifth wheel. If there is space, something is wrong such as the kingpin being on top of the closed fifth wheel jaws, which would cause the trailer to come loose easily."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: You should look into the back of the fifth wheel to see if it is locked onto the kingpin. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only during pre-trip inspections",
+      "Only on new trailers"
+    ],
+    "answer_index": 0,
+    "explanation": "True. Go under the trailer and look into the back of the fifth wheel to make sure the fifth wheel jaws have closed around the shank of the kingpin. This visual inspection confirms proper coupling."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: To drive you need to raise the landing gear only until it just lifts off the pavement. True or False?",
+    "choices": [
+      "True",
+      "False",
+      "Only when pulling doubles",
+      "Only on wet pavement"
+    ],
+    "answer_index": 1,
+    "explanation": "False. You should raise the landing gear all the way up. Never drive with landing gear only part way up as it may catch on railroad tracks or other obstacles. After raising, secure the crank handle safely."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: How do you know if your trailer is equipped with antilock brakes?",
+    "choices": [
+      "Check the tire pressure monitoring system",
+      "Look for yellow ABS malfunction lamps on the left side of the trailer",
+      "Test the brakes and feel the difference",
+      "Check the vehicle registration"
+    ],
+    "answer_index": 1,
+    "explanation": "Trailers equipped with ABS have yellow ABS malfunction lamps on the left side, either on the front or rear corner. You can also look under the vehicle for the ECU and wheel speed sensor wires from the back of the brakes."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: Which shut-off valves should be open and which closed?",
+    "choices": [
+      "All valves should always be open",
+      "All valves should always be closed",
+      "All shut-off valves should be open except those at the back of the last trailer, which must be closed",
+      "It depends on the type of cargo"
+    ],
+    "answer_index": 2,
+    "explanation": "You must check that all shut-off valves are in the open position except the ones at the back of the last trailer, which must be closed. This ensures air flows to all trailers while preventing backflow at the end of the line."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: How can you test that air flows to all trailers?",
+    "choices": [
+      "Listen to the compressor running",
+      "Watch the air pressure gauge on the tractor",
+      "Push in the trailer air supply knob, use the hand brake to provide service air, go to the rear and open shut-off valves to hear air escaping",
+      "Check the electrical connections"
+    ],
+    "answer_index": 2,
+    "explanation": "Use the tractor parking brake to hold the vehicle, wait for normal pressure, push in the red trailer air supply knob to supply air to emergency lines. Use the hand brake for service line air. Go to the rear and open shut-off valves—you should hear air escaping from both the emergency and service lines, confirming the system is charged throughout."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: How can you test the tractor protection valve?",
+    "choices": [
+      "Apply full throttle and listen for a clicking sound",
+      "Charge the system, shut off engine, step on and off brake pedal to reduce pressure until the air supply knob pops out",
+      "Check the pressure gauge reading every minute",
+      "Disconnect the air lines and observe the connection"
+    ],
+    "answer_index": 1,
+    "explanation": "Charge the trailer air brake system, shut the engine off, and step on and off the brake pedal several times to reduce air pressure in the tanks. The tractor protection valve should pop out (or go to 'emergency' position) when pressure falls to the manufacturer's specified range, usually 20 to 45 psi."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: How can you test the trailer emergency brakes?",
+    "choices": [
+      "Rev the engine and listen for brake engagement sounds",
+      "Drive forward and push the brake pedal hard",
+      "Charge the system, verify trailer rolls freely, then pull out the air supply control and gently pull on the trailer to confirm emergency brakes are on",
+      "Check the warning lights on the dashboard"
+    ],
+    "answer_index": 2,
+    "explanation": "Charge the trailer air brake system and check that the trailer rolls freely. Then pull out the trailer air supply control (or place in 'emergency' position) and pull gently on the trailer with the tractor to check that the trailer emergency brakes are applied and holding."
+  },
+  {
+    "section": 6,
+    "section_name": "Combination Vehicles",
+    "topic": "Test Your Knowledge - Section 6",
+    "question": "Test Your Knowledge: How can you test the trailer service brakes?",
+    "choices": [
+      "Turn the steering wheel while parked",
+      "Check the air pressure gauge for fluctuations",
+      "Check for normal pressure, release parking brakes, move forward slowly, and apply hand brake control to feel brakes engage",
+      "Inspect the brake pads visually"
+    ],
+    "answer_index": 2,
+    "explanation": "Check for normal air pressure, release the parking brakes, move the vehicle forward slowly, and apply trailer brakes with the hand control (trolley valve). You should feel the brakes come on, confirming the trailer brakes are connected and working properly with the foot pedal in normal operation."
+  }
+]

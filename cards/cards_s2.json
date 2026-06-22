@@ -1364,5 +1364,19 @@
     ],
     "answer_index": 1,
     "explanation": "Section 2.22.3 says do not drive when too ill to operate safely, except in emergency to nearest safe stopping location."
+  },
+  {
+    "section": 2,
+    "section_name": "Driving Safely",
+    "topic": "Test Your Knowledge - Accidents and Fires",
+    "question": "Which of the following is listed in the guide as a cause of tire fires?",
+    "choices": [
+      "Under-inflated tires and dual tires that touch",
+      "Tires inflated to the recommended pressure",
+      "Using engine braking on dry pavement",
+      "Checking tires during a walk-around"
+    ],
+    "answer_index": 0,
+    "explanation": "In the fire section, the guide lists under-inflated tires and duals that touch as causes of vehicle fires."
   }
 ]
